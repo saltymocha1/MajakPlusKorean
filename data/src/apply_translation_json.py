@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 import json
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en') 
+lang = os.getenv('MAJSOUL_LANG', 'jp') 
 
 def get_node(root, path_list):
     p = list(path_list)
@@ -26,9 +26,9 @@ def update_value(root, path_list, value):
     root[p[0]] = node
 
 def main(original_assets_path, translation_path, dist_path):
-    ui_en = None
+    ui_jp = None
     with open(Path(original_assets_path) / 'uiconfig' / f'ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
-        ui_en = json.load(jsonfile)
+        ui_jp = json.load(jsonfile)
 
     with open(Path(translation_path) / 'translate_json.csv', 'r', encoding='utf-8-sig') as csvfile:
         csv_reader = csv.reader(csvfile)
@@ -43,7 +43,7 @@ def main(original_assets_path, translation_path, dist_path):
 
             node = None
             try:
-                node = get_node(ui_en, path.split('|'))
+                node = get_node(ui_jp, path.split('|'))
             except Exception as e:
                 print(f'Cannot access {path}')
                 continue
@@ -55,12 +55,12 @@ def main(original_assets_path, translation_path, dist_path):
                 print(f"Target is not matched on {path}: '{node['props']['text']}' != '{target}'")
                 continue
             
-            update_value(ui_en, path.split('|'), translated)
+            update_value(ui_jp, path.split('|'), translated)
 
     target_path = Path(dist_path) / 'assets' / 'uiconfig' / f'ui_{lang}.json'
     target_path.parent.mkdir(parents=True, exist_ok=True)
     with open(target_path, 'w', encoding='utf-8') as jsonfile:
-        json.dump(ui_en, jsonfile, separators=(',', ':'), ensure_ascii=False)
+        json.dump(ui_jp, jsonfile, separators=(',', ':'), ensure_ascii=False)
 
 if __name__ == '__main__':
     main(

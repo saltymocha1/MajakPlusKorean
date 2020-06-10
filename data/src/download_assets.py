@@ -11,7 +11,7 @@ from contextlib import closing
 import aiohttp
 import aiofiles
 
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def chunks(lst, n):
     """Yield successive n-sized chunks from lst."""

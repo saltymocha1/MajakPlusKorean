@@ -5,7 +5,7 @@ from common import run_cmd
 from shutil import copyfile
 import json
 
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_path):
     texture_size = 2 ** 10

@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 from shutil import copyfile
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(translation_path, dist_path):
     for file_path in sorted((Path(translation_path) / 'assets').glob('**/*')):

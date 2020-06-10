@@ -1,11 +1,11 @@
 #! /usr/bin/python
 import os
-from pathlib import Path
+from pathlib import Pathe
 import csv
 import re
 import polib
 from datetime import datetime
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 HASH_LEN = 32
 

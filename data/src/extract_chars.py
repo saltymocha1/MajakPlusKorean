@@ -3,7 +3,7 @@ import csv
 import json
 from pathlib import Path
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(translation_path, dist_path, temp_path):
     chars = set(chr(x) for x in range(32, 127))
@@ -43,9 +43,7 @@ def main(translation_path, dist_path, temp_path):
                 parse_node(child, f'{path}|{i}')
 
     with open(Path(dist_path) / 'assets' / 'uiconfig' / f'ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
-        ui_en = json.load(jsonfile)
-        for node_key in ui_en:
-            parse_node(ui_en[node_key], node_key)
+        ui_jp = json.load(jsonfile)
 
     sorted_chars = sorted(chars)
     with open(Path(temp_path) / 'chars.txt', 'w', encoding='utf-8') as charsfile:

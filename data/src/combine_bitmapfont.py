@@ -3,7 +3,7 @@ from PIL import Image
 import json
 import os
 from pathlib import Path
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(dist_path, fonts_path, temp_path):
     with open(Path(fonts_path) / 'fontmap.json', 'r', encoding='utf-8') as fontmap:

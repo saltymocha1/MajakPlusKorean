@@ -3,15 +3,15 @@ import os
 from pathlib import Path
 import json
 from datetime import datetime
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(dist_path):
     resourcepack_data = {
         'id': 'korean',
-        'version': f'2.{datetime.now().strftime("%Y%m%d.1%H%M%S")}',
+        'version': '0.69.69',
         'name': '한국어',
-        'author': 'Nesswit',
-        'description': '인터페이스를 한국어로 표시합니다.',
+        'author': 'Nesswit/마작 갤러리',
+        'description': '마작 플러스 한국어화',
         'preview': 'preview.png',
         'dependencies': {
             'majsoul_plus': '^2.0.0'

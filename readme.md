@@ -4,13 +4,11 @@
 
 ![리소스 팩 썸네일](/sample/nya1.png)
 
-작혼 플러스 일본서버 한글패치는 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩으로, 원제작자의 [글로벌 서버 한글패치](https://github.com/yf-dev/majsoul-plus-korean)를 일본서버에서도 적용할 수 있도록 바꿔놓은 것입니다.
+냥따봉
 
+작혼 플러스 일본서버 한글패치는 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩입니다.
 
-### ⚠️ 주의사항 ⚠️
-
-본 리소스 팩을 사용함에 따라 발생하는 모든 문제(예시: 계정 밴, 민사소송)에 대해 저희는 책임을 지지 않습니다.  
-당신은 이 리소스 팩을 사용했을 경우 이러한 주의사항을 확인하고 동의한 것입니다.
+원제작자의 [글로벌 서버 한글패치](https://github.com/yf-dev/majsoul-plus-korean)를 일본서버에서도 적용할 수 있도록 바꿔놓은 것입니다.
 
 
 ### 1. 요구조건
@@ -18,31 +16,15 @@
 - [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus) Version 2.0.0 
 - 작혼 Plus의 Settings에서 User Data의 Server to play 값을 1로 설정
 
-### 2. 리소스 미리보기
+#### 2.스크린샷
 
-#### 4.1. 스크린샷
+나중에 추가함
 
-![스크린샷 1](/data/screenshots/1.png)
-![스크린샷 2](/data/screenshots/2.png)
-![스크린샷 3](/data/screenshots/3.png)
-![스크린샷 4](/data/screenshots/4.png)
-![스크린샷 5](/data/screenshots/5.png)
-![스크린샷 5](/data/screenshots/6.png)
+#### 3.이모티콘
 
-#### 4.2. 이모지
+![냥따봉](/sample/nya1.png)
 
-![](/data/translation/assets/en/extendRes/emo/e200001/1.png)
-![](/data/translation/assets/en/extendRes/emo/e200001/4.png)
-![](/data/translation/assets/en/extendRes/emo/e200002/0.png)
-![](/data/translation/assets/en/extendRes/emo/e200002/7.png)
-![](/data/translation/assets/en/extendRes/emo/e200005/4.png)
-![](/data/translation/assets/en/extendRes/emo/e200006/3.png)
-![](/data/translation/assets/en/extendRes/emo/e200006/5.png)
-![](/data/translation/assets/en/extendRes/emo/e200017/7.png)
-![](/data/translation/assets/en/extendRes/emo/e200018/2.png)
-![](/data/translation/assets/en/extendRes/emo/e200019/0.png)
-![](/data/translation/assets/en/extendRes/emo/e200019/3.png)
-![](/data/translation/assets/en/extendRes/emo/e200020/2.png)
+따봉
 
 ### 제작
 
@@ -55,7 +37,7 @@
 
 MIT
 
-또한, 이 프로젝트는 다음의 제3자 소프트웨어 및 폰트의 바이너리를 포함하고 있습니다.
+이 프로젝트는 다음의 제3자 소프트웨어 및 폰트의 바이너리를 포함하고 있습니다.
 
 - [fontbm](https://github.com/vladimirgamalyan/fontbm) - BMFont compatible, cross-platform command line bitmap font generator
 - [Protocol Buffers](https://github.com/protocolbuffers/protobuf) - Google's data interchange format

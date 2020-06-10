@@ -3,7 +3,7 @@ import csv
 import re
 from pathlib import Path
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(translation_path, temp_path):
     temp_path = Path(temp_path)

@@ -4,7 +4,7 @@ from google.protobuf.descriptor import FieldDescriptor
 from pathlib import Path
 import json
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(original_assets_path, temp_path):
     import_config_path = Path(temp_path) / 'proto' / 'config_pb2.py'

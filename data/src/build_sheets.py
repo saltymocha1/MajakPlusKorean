@@ -4,7 +4,7 @@ from google.protobuf.descriptor import FieldDescriptor
 from pathlib import Path
 import json
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en') 
+lang = os.getenv('MAJSOUL_LANG', 'jp') 
 
 def main(original_assets_path, translation_path, dist_path, temp_path):
     target_csvs = []

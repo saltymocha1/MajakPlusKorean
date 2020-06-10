@@ -6,7 +6,7 @@ import re
 import polib
 from datetime import datetime
 from hashlib import md5
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(translation_path):
     translation_path = Path(translation_path)

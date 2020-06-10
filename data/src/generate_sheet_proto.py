@@ -1,7 +1,7 @@
 #! /usr/bin/python
 import os
 from pathlib import Path
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def main(original_assets_path, temp_path):
     import_path = Path(temp_path) / 'proto' / 'config_pb2.py'

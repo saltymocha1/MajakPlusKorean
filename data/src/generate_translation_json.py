@@ -3,7 +3,7 @@ import json
 import csv
 from pathlib import Path
 import os
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 def parse_node(translate_json_rows, node, path):
     if 'text' in node['props']:
@@ -18,9 +18,9 @@ def main(original_assets_path, translation_path):
     translate_json_rows = []
 
     with open(Path(original_assets_path) / 'uiconfig' / f'ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
-        ui_en = json.load(jsonfile)
-        for node_key in ui_en:
-            parse_node(translate_json_rows, ui_en[node_key], node_key)
+        ui_jp = json.load(jsonfile)
+        for node_key in ui_jp:
+            parse_node(translate_json_rows, ui_jp[node_key], node_key)
 
     templates_path = Path(translation_path) / 'templates'
     templates_path.mkdir(parents=True, exist_ok=True)

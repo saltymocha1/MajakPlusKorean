@@ -4,7 +4,7 @@ from distutils.dir_util import copy_tree
 from pathlib import Path
 import os
 from common import order_version
-lang = os.getenv('MAJSOUL_LANG', 'en')
+lang = os.getenv('MAJSOUL_LANG', 'jp')
 
 lang_map = {
     'en': 2,
