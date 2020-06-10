@@ -1,6 +1,6 @@
 #! /usr/bin/python
 import os
-from pathlib import Pathe
+from pathlib import Path
 import csv
 import re
 import polib

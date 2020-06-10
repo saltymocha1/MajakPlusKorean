@@ -25,7 +25,7 @@ def main(dist_path):
             continue
         resourcepack_data['replace'].append(file_path.relative_to(assets_path).as_posix())
 
-    with open(Path(dist_path) / 'resourcepack.json', 'w', encoding='utf-8') as resourcepack_file:
+    with open(Path(dist_path) / 'resourcepack_temp.json', 'w', encoding='utf-8') as resourcepack_file:
         json.dump(resourcepack_data, resourcepack_file, indent=2, ensure_ascii=False)
 
 if __name__ == '__main__':
