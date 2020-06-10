@@ -1,0 +1,152 @@
+name: Build assets
+on: push
+
+jobs:
+  build_exe:
+    name: Build exe files
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Install pipenv
+        run: python -m pip install --upgrade pip pipenv
+
+      - name: Set PIPENV_VENV_IN_PROJECT
+        run: echo '::set-env name=PIPENV_VENV_IN_PROJECT::true'
+      
+      - name: Install dependencies
+        run: pipenv install --dev --deploy
+        working-directory: ./data
+      
+      - name: Build exe files
+        run: pipenv run build
+        working-directory: ./data
+      
+      - name: Upload exe files
+        uses: actions/upload-artifact@v2
+        with:
+          name: exe_files
+          path: ./*.exe
+        
+  build_assets:
+    name: Build assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get majsoul version
+        id: get-majsoul-version
+        run: |
+          echo "::set-output name=json::$(curl https://game.mahjongsoul.com/version.json | md5sum)"
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Cache data
+        uses: actions/cache@v2
+        with:
+          path: ./data/assets-original
+          key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
+
+      - name: Login to Github Package Registry
+        run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
+
+      - name: Pull image from Github Package Registry or Build image
+        run: docker-compose pull || docker-compose build --force-rm
+        working-directory: ./data
+
+      - name: Push image to Github Package Registry
+        run: docker-compose push mpk || true
+        working-directory: ./data
+
+      - name: Run docker image to build
+        run: docker-compose run --rm mpk all
+        working-directory: ./data
+
+      - name: Upload asset files
+        uses: actions/upload-artifact@v2
+        with:
+          name: asset_files
+          path: ./assets
+
+      - name: Upload translation files
+        uses: actions/upload-artifact@v2
+        with:
+          name: translation_files
+          path: ./data/translation/*
+          
+      - name: Upload resourcepack json
+        uses: actions/upload-artifact@v2
+        with:
+          name: resourcepack_json
+          path: ./resourcepack.json
+
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    needs: [build_exe, build_assets]
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        
+      - name: Download exe files
+        uses: actions/download-artifact@v2
+        with:
+          name: exe_files
+          path: ./
+          
+      - name: Download asset files
+        uses: actions/download-artifact@v2
+        with:
+          name: asset_files
+          path: ./assets
+          
+      - name: Download translation files
+        uses: actions/download-artifact@v2
+        with:
+          name: exe_files
+          path: ./data/translation
+          
+      - name: Download resourcepack json
+        uses: actions/download-artifact@v2
+        with:
+          name: resourcepack_json
+          path: ./
+          
+      - name: Remove .git file
+        run: rm -rf .git
+      
+      - name: Zip files
+        run: cp -R ./majsoul-plus-korean ./korean && zip -r korean.zip ./korean
+        working-directory: ../
+        
+      - name: Set version code env
+        run: echo '::set-env name=VERSION_CODE::$(jq -r .version ./resourcepack.json)'
+        
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ env.VERSION_CODE }}
+          release_name: Release ${{ env.VERSION_CODE }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ../korean.zip
+          asset_name: korean.zip
+          asset_content_type: application/zip
+
+
