@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-11 12:29+0900\n"
+"PO-Revision-Date: 2020-06-15 12:41+0900\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: translate_json.csv:2
 msgctxt "認証コード送信"
 msgid "json|both_ui/bind_mail0|0|7|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:3
 msgctxt "連携"
@@ -36,7 +36,7 @@ msgstr "為了您的賬號安全，請先綁定信箱"
 #: translate_json.csv:6
 msgctxt "認証コード送信"
 msgid "json|both_ui/bind_mail1|0|5|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:7
 msgctxt "連携"
@@ -51,7 +51,7 @@ msgstr "메일 주소:"
 #: translate_json.csv:9
 msgctxt "認証コード送信"
 msgid "json|both_ui/bind_yostar_mail|0|5|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:10
 msgctxt "連携"
@@ -91,27 +91,27 @@ msgstr "메인화면BGM"
 #: translate_json.csv:17
 msgctxt "連続再生"
 msgid "json|both_ui/config|0|7|0|0|3|0|6|0|0|3|63b6b23eee2adb06a327aefbe58c2cb7"
-msgstr "連続再生"
+msgstr "연속재생"
 
 #: translate_json.csv:18
 msgctxt "ランダム再生"
 msgid "json|both_ui/config|0|7|0|0|3|0|6|1|0|3|d5b20e034c3e9b2d7df85ea266529f7a"
-msgstr "ランダム再生"
+msgstr "랜덤재생"
 
 #: translate_json.csv:19
 msgctxt "対局画面BGM"
 msgid "json|both_ui/config|0|7|0|0|3|1|0|12afe1e7ad3759469a59839cc9065862"
-msgstr "対局画面BGM"
+msgstr "대국화면BGM"
 
 #: translate_json.csv:20
 msgctxt "連続再生"
 msgid "json|both_ui/config|0|7|0|0|3|1|6|0|0|3|63b6b23eee2adb06a327aefbe58c2cb7"
-msgstr "連続再生"
+msgstr "연속재생"
 
 #: translate_json.csv:21
 msgctxt "ランダム再生"
 msgid "json|both_ui/config|0|7|0|0|3|1|6|1|0|3|d5b20e034c3e9b2d7df85ea266529f7a"
-msgstr "ランダム再生"
+msgstr "랜덤재생"
 
 #: translate_json.csv:22
 msgctxt "SE"
@@ -156,27 +156,27 @@ msgstr "재시작 시 적용"
 #: translate_json.csv:30
 msgctxt "対局"
 msgid "json|both_ui/config|0|7|1|0|0|36352d544d0c2b715e060f6c94955069"
-msgstr "対局"
+msgstr "대국"
 
 #: translate_json.csv:31
 msgctxt "打牌"
 msgid "json|both_ui/config|0|7|1|0|1|14e282dbee50500b38744272a3fd1620"
-msgstr "打牌"
+msgstr "타패"
 
 #: translate_json.csv:32
 msgctxt "ワンクリック"
 msgid "json|both_ui/config|0|7|1|0|2|0|3|d2d1358089d3930653edaba6ce2c338a"
-msgstr "ワンクリック"
+msgstr "1번 클릭"
 
 #: translate_json.csv:33
 msgctxt "ダブルタップ"
 msgid "json|both_ui/config|0|7|1|0|3|0|3|b77704fda4123bb4a3dc0fc11fd7e970"
-msgstr "ダブルタップ"
+msgstr "2번 클릭"
 
 #: translate_json.csv:34
 msgctxt "ダブルタップ打牌&ツモ切り"
 msgid "json|both_ui/config|0|7|1|0|4|0|3|616c3095bb61458f9fc3d506f137ed67"
-msgstr "ダブルタップ打牌&패 버림"
+msgstr "2번 클릭해 타패&패 버림"
 
 #: translate_json.csv:35
 msgctxt "コメント"
@@ -186,7 +186,7 @@ msgstr "코멘트"
 #: translate_json.csv:36
 msgctxt "全員"
 msgid "json|both_ui/config|0|7|1|1|2|0|3|86327ba189747f0c6043a54cada995de"
-msgstr "全員"
+msgstr "모두에게"
 
 #: translate_json.csv:37
 msgctxt "友人のみ"
@@ -231,7 +231,7 @@ msgstr "마작의 역"
 #: translate_json.csv:45
 msgctxt "利用規約"
 msgid "json|both_ui/config|0|7|3|0|4|0|1|940876a28fcdf5012d6123d97a102d4b"
-msgstr "利用規約"
+msgstr "이용약관"
 
 #: translate_json.csv:46
 msgctxt "特定商取引法"
@@ -356,7 +356,7 @@ msgstr "VOICE"
 #: translate_json.csv:70
 msgctxt "打牌タイプ"
 msgid "json|both_ui/config|0|8|2|0|1e767c5f4c78070564c9a02e0175e76a"
-msgstr "打牌タイプ"
+msgstr "타패 타입"
 
 #: translate_json.csv:71
 msgctxt "一般"
@@ -391,17 +391,17 @@ msgstr "閉じる"
 #: translate_json.csv:77
 msgctxt "称号リストに入れました"
 msgid "json|both_ui/gettitle|0|2|9c71b2c8f4841be086017b26c2d758ae"
-msgstr "칭호목록に入れました"
+msgstr "칭호목록에 삽입했습니다."
 
 #: translate_json.csv:78
 msgctxt "シリアルコード"
 msgid "json|both_ui/gitfcode|0|2|ba96a9eddd7b7d56d4b28bcf89a168f5"
-msgstr "シリアルコード"
+msgstr "시리얼 코드"
 
 #: translate_json.csv:79
 msgctxt "シリアルコードを入力してください"
 msgid "json|both_ui/gitfcode|0|3|33209da6665cd8e31be2aea0617a0470"
-msgstr "シリアルコードを入力してください"
+msgstr "시리얼 코드를 이력해주세요."
 
 #: translate_json.csv:80
 msgctxt "はい"
@@ -1501,7 +1501,7 @@ msgstr "連携解除"
 #: translate_json.csv:274
 msgctxt "認証コード送信"
 msgid "json|both_ui/unbind_yostar_mail|0|5|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:275
 msgctxt "解除"
@@ -1719,7 +1719,7 @@ msgctxt ""
 "也可以通过该手机号来找回该账号。\\n每个手机号只能创建一个通行证。"
 msgid "json|common/create_phone_account|0|4|0227ccbb2061de3dc261567992a45bb8"
 msgstr ""
-"是否사용该手机号创建一个通行证?\\n创建成功后您可以사용手机号和密码来登陆游戏，"
+"是否사용该手机号创建一个通行证?\\n创建성공后您可以사용手机号和密码来登陆游戏，"
 "也可以通过该手机号来找回该账号。\\n每个手机号只能创建一个通行证。"
 
 #: translate_json.csv:316
@@ -1731,7 +1731,7 @@ msgstr "不用了"
 msgctxt "成功"
 msgid ""
 "json|common/create_phone_account_success|0|2|330363dfc524cff2488f2ebde0500896"
-msgstr "成功"
+msgstr "성공"
 
 #: translate_json.csv:318
 msgctxt "好的"
@@ -1743,7 +1743,7 @@ msgstr "好的"
 msgctxt "创建手机号通行证成功。"
 msgid ""
 "json|common/create_phone_account_success|0|4|0120abcd5bb2342ff3373aa18f397740"
-msgstr "创建手机号通行证成功。"
+msgstr "创建手机号通行证성공。"
 
 #: translate_json.csv:320
 msgctxt "(密码与账号/邮箱通行证的密码一致)"
@@ -1799,7 +1799,7 @@ msgstr "累計オンライン時間"
 #: translate_json.csv:330
 msgctxt "対戦中の対局があります"
 msgid "json|common/reconnect|2|fa7121049368784d62a60fd7b445e7be"
-msgstr "対戦中の対局があります"
+msgstr "対戦中の대국があります"
 
 #: translate_json.csv:331
 msgctxt "再接続"
@@ -1965,7 +1965,7 @@ msgstr "로그아웃"
 #: translate_json.csv:363
 msgctxt "ホーム画面に追加"
 msgid "json|entrance/entrance|1|5|1|9507a0a16cbe38b2fcc6af2b48f879b1"
-msgstr "ホーム画面に追加"
+msgstr "메인 화면에 추가"
 
 #: translate_json.csv:364
 msgctxt "Yostar ログイン"
@@ -1985,7 +1985,7 @@ msgstr "コードを受け取る"
 #: translate_json.csv:367
 msgctxt "《雀魂利用規約》"
 msgid "json|entrance/entrance|2|0|5|3|0|7ee2d464c14ba332332d20629ddc7ec9"
-msgstr "《雀魂利用規約》"
+msgstr "《雀魂이용약관》"
 
 #: translate_json.csv:368
 msgctxt "、"
@@ -2075,7 +2075,7 @@ msgstr "《雀魂麻將註冊用戶隱私條款》"
 #: translate_json.csv:385
 msgctxt "認証コード送信"
 msgid "json|entrance/mail_regist|0|0|11|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:386
 msgctxt "サーバー接続中"
@@ -2167,7 +2167,7 @@ msgstr "확인"
 msgctxt "認証コード送信"
 msgid ""
 "json|entrance/reset_password_phone2|0|10|0|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_json.csv:404
 msgctxt "受け取る"
@@ -3571,7 +3571,7 @@ msgstr "아니오"
 #: translate_json.csv:653
 msgctxt "輝玉が足りません。購入しますか？"
 msgid "json|lobby/diamond_less|0|6|8585262d4681564c965e48e584955861"
-msgstr "輝玉が足りません。구입しますか？"
+msgstr "輝玉が足りません。구입하시겠습니까?"
 
 #: translate_json.csv:654
 msgctxt "アップデート内容を検出しました、再接続を行ってください。"
@@ -3776,7 +3776,7 @@ msgstr "送信"
 #: translate_json.csv:694
 msgctxt "大会ロビー"
 msgid "json|lobby/match_lobby|0|0|6448050ff5684da76868f786c3aeed8e"
-msgstr "大会ロビー"
+msgstr "대회 대기실"
 
 #: translate_json.csv:695
 msgctxt "検索"
@@ -3791,12 +3791,12 @@ msgstr "大会IDで검색"
 #: translate_json.csv:697
 msgctxt "フォロー中の大会"
 msgid "json|lobby/match_lobby|1|1|0|4e7b31fd8858d2f3a94f0b1cb09e6814"
-msgstr "후로중の大会"
+msgstr "팔로우 중인 대회"
 
 #: translate_json.csv:698
 msgctxt "フォロー中"
 msgid "json|lobby/match_lobby|1|3|0|2|7fd34c1beda94c01afb15338bd56dec3"
-msgstr "후로중"
+msgstr "팔로우 중"
 
 #: translate_json.csv:699
 msgctxt "開始前"
@@ -3816,17 +3816,17 @@ msgstr "開催中"
 #: translate_json.csv:702
 msgctxt "終了時間："
 msgid "json|lobby/match_lobby|1|3|0|7|0|c20110c7551769b71a3960547ff88782"
-msgstr "終了時間："
+msgstr "종료時間："
 
 #: translate_json.csv:703
 msgctxt "終了"
 msgid "json|lobby/match_lobby|1|3|0|8|65be33879c8588fc712070d9bbf9b956"
-msgstr "終了"
+msgstr "종료"
 
 #: translate_json.csv:704
 msgctxt "終了時間："
 msgid "json|lobby/match_lobby|1|3|0|8|0|c20110c7551769b71a3960547ff88782"
-msgstr "終了時間："
+msgstr "종료時間："
 
 #: translate_json.csv:705
 msgctxt "詳細"
@@ -3856,12 +3856,12 @@ msgstr "参加します"
 #: translate_json.csv:710
 msgctxt "大会"
 msgid "json|lobby/match_room|0|0|048fff3a2490ddf583b4c7dd2dbc2913"
-msgstr "大会"
+msgstr "대회"
 
 #: translate_json.csv:711
 msgctxt "ホーム"
 msgid "json|lobby/match_room|1|0|0|0|3eaf708610cff30a289e653a3813a4f8"
-msgstr "ホーム"
+msgstr "메인"
 
 #: translate_json.csv:712
 msgctxt "大会牌譜"
@@ -3911,7 +3911,7 @@ msgstr "開始時間："
 #: translate_json.csv:721
 msgctxt "終了時間："
 msgid "json|lobby/match_room|1|1|1|3|c20110c7551769b71a3960547ff88782"
-msgstr "終了時間："
+msgstr "종료時間："
 
 #: translate_json.csv:722
 msgctxt "大会ルール"
@@ -4867,7 +4867,7 @@ msgstr "아니오"
 #: translate_json.csv:910
 msgctxt "着せ替え券が足りません。購入しますか？"
 msgid "json|lobby/pifuquan_less|0|6|f267244551fbdb8b47f5fad830aa34c0"
-msgstr "着せ替え券が足りません。구입しますか？"
+msgstr "着せ替え券が足りません。구입하시겠습니까?"
 
 #: translate_json.csv:911
 msgctxt "段位戦"
@@ -5647,7 +5647,7 @@ msgstr "기도의 소옥"
 #: translate_json.csv:1066
 msgctxt "祈願"
 msgid "json|lobby/recharge|1|0|4|0|1a846f4bee0b2d271a4ba2596edfb143"
-msgstr "祈願"
+msgstr "기원"
 
 #: translate_json.csv:1067
 msgctxt "称号効果"
@@ -5722,12 +5722,12 @@ msgstr "本日の갱신回数が上限に達しました"
 #: translate_json.csv:1081
 msgctxt "重複した雀士キャラクターは願いの石に変換されます。"
 msgid "json|lobby/shop|0|1|2|0|34a1997f1c427388dc43cb8873f65060"
-msgstr "重複した작사캐릭터는 소원의 돌로 변환됩니다."
+msgstr "중복된 작사캐릭터는 소원의 돌로 변환됩니다."
 
 #: translate_json.csv:1082
 msgctxt "重複した装飾品は星の石に変換されます。"
 msgid "json|lobby/shop|0|1|3|2|7e653928b43840a1961794642a6f1a89"
-msgstr "重複した장식품는 별의 돌로 변환됩니다."
+msgstr "중복된 장식품는 별의 돌로 변환됩니다."
 
 #: translate_json.csv:1083
 msgctxt "贈り物を奉納すると星のかけらが入手できます"
@@ -5787,7 +5787,7 @@ msgstr "구입"
 #: translate_json.csv:1094
 msgctxt "毎日お祈り"
 msgid "json|lobby/sign|1|2|ebe0d0a6547e409d583b21f623086b79"
-msgstr "毎日お祈り"
+msgstr "毎日기원"
 
 #: translate_json.csv:1095
 msgctxt "第"
@@ -5957,7 +5957,7 @@ msgstr "확인"
 #: translate_json.csv:1128
 msgctxt "再祈願"
 msgid "json|lobby/tangfang1|6|4|0|cc88f025d6a32c3a189e006fc082acd8"
-msgstr "再祈願"
+msgstr "再기원"
 
 #: translate_json.csv:1129
 msgctxt "称号リスト"
@@ -6027,7 +6027,7 @@ msgstr "신앙 교환"
 #: translate_json.csv:1142
 msgctxt "祈願"
 msgid "json|lobby/treasure|1|0|1a846f4bee0b2d271a4ba2596edfb143"
-msgstr "祈願"
+msgstr "기원"
 
 #: translate_json.csv:1143
 msgctxt "交換したいアイテムを選択してください"
@@ -6468,7 +6468,7 @@ msgstr "샘플3："
 #: translate_json.csv:1229
 msgctxt "お祈りの輝石が足りません"
 msgid "json|lobby/treasure|5|0|2|97aa7101922057824d23853cd53003bd"
-msgstr "お祈りの輝石が足りません"
+msgstr "기원の輝石が足りません"
 
 #: translate_json.csv:1230
 msgctxt "はい"
@@ -6488,7 +6488,7 @@ msgstr "以下数量の輝玉で"
 #: translate_json.csv:1233
 msgctxt "お祈りの輝石を"
 msgid "json|lobby/treasure|5|0|14|229a5c19ef020c3e165b23393f98a957"
-msgstr "お祈りの輝石を"
+msgstr "기원の輝石を"
 
 #: translate_json.csv:1234
 msgctxt "購入"
@@ -6518,7 +6518,7 @@ msgstr "아니오"
 #: translate_json.csv:1239
 msgctxt "輝玉が足りません。購入しますか？"
 msgid "json|lobby/treasure|6|0|6|8585262d4681564c965e48e584955861"
-msgstr "輝玉が足りません。구입しますか？"
+msgstr "輝玉が足りません。구입하시겠습니까?"
 
 #: translate_json.csv:1240
 msgctxt "詳細"
@@ -6603,7 +6603,7 @@ msgstr "주기"
 #: translate_json.csv:1256
 msgctxt "本日の残り回数："
 msgid "json|lobby/visit|2|5|1|2|1|091cf5cefd903c5be9a4e8704ce6fc94"
-msgstr "本日の残り回数："
+msgstr "금일 잔여 횟수："
 
 #: translate_json.csv:1257
 msgctxt "契約を結ぶ"
@@ -6658,7 +6658,7 @@ msgstr "친구招待"
 #: translate_json.csv:1267
 msgctxt "CPU追加"
 msgid "json|lobby/waitingroom|0|6|2|1|c65464aab838a9f4c4b8154695a637ab"
-msgstr "CPU追加"
+msgstr "CPU추가"
 
 #: translate_json.csv:1268
 msgctxt "ルール紹介"
@@ -6773,7 +6773,7 @@ msgstr "着せ替え変更"
 #: translate_json.csv:1290
 msgctxt "観戦開始まであと："
 msgid "json|lobby/waitob|0|2|056dc01975b860c9f566ec9636506040"
-msgstr "관전開始まであと："
+msgstr "관전 개시까지 남은 시간："
 
 #: translate_json.csv:1291
 msgctxt "はい"
@@ -6853,7 +6853,7 @@ msgstr "나가기"
 #: translate_json.csv:1306
 msgctxt "対局に戻る"
 msgid "json|mj/gameend|0|10|2|0ea995967f872e5c1ad1d9baaa68211b"
-msgstr "対局に이전"
+msgstr "대국に이전"
 
 #: translate_json.csv:1307
 msgctxt "ポーズ中"
@@ -6904,21 +6904,21 @@ msgctxt ""
 "さいますよう願っております。"
 msgid "json|mj/info_md5|0|2|0|54b0b191d0cf1474b50c654341c8b776"
 msgstr ""
-"雀魂は完全ランダムでの対局の生成を保証します。対局開始時にはすでに牌山の牌順が"
-"固定されており、対局状況に応じて牌山や配牌が変更されることはありません。この声"
+"雀魂は完全ランダムでの대국の生成を保証します。대국開始時にはすでに牌山の牌順が"
+"固定されており、대국状況に応じて牌山や配牌が変更されることはありません。この声"
 "明を証明するために、雀魂ではMD5ハッシュ検証システムを導入しています。\\nMD5は、"
 "公用の標準的なアルゴリズムで、暗号化や復号化に広く用いられています。一定のアル"
 "ゴリズムを通して、入力されたデータ（牌山の牌順）をハッシュ値に変換します。MD5に"
 "は以下の特徴を兼ね備えています。\\n 1，生成されたMD5ハッシュで元の入力内容を解"
-"析することは出来ません。対局開始時に与えられたMD5ハッシュが解析され事前に牌山が"
+"析することは出来ません。대국開始時に与えられたMD5ハッシュが解析され事前に牌山が"
 "解析されることはありません。 \\n 2，一つの入力内容に対し、生成されるMD5ハッシュ"
 "は一つのみとなります。また、牌山の牌順は少しでも異なれば、生成されるMD5ハッシュ"
 "は全く異なります。\\n上記により、牌山が改ざんされることはないということを保証し"
-"ます。\\n MD5ハッシュ検証ステップ\\n1.対局中、プレイヤーは画面左上の四角の枠内"
-"に表示されるドラ表示牌をクリックすると、その対局の牌山が生成したMD5ハッシュを確"
-"認できます。MD5ハッシュは配牌するごとに生成されます。\\n 2.対局終了後、プレイ"
-"ヤーは「牌譜」内で対局中のものと同じかどうかを局単位で参照することができます。"
-"これにより対局中に与えられたMD5ハッシュが間違っていなかったかを検証します。\\n "
+"ます。\\n MD5ハッシュ検証ステップ\\n1.대국中、プレイヤーは画面左上の四角の枠内"
+"に表示されるドラ表示牌をクリックすると、その대국の牌山が生成したMD5ハッシュを確"
+"認できます。MD5ハッシュは配牌するごとに生成されます。\\n 2.대국종료後、プレイ"
+"ヤーは「牌譜」内で대국中のものと同じかどうかを局単位で参照することができます。"
+"これにより대국中に与えられたMD5ハッシュが間違っていなかったかを検証します。\\n "
 "3.慣例的な呼び名を参考に、牌は全て符号化されています。それぞれ萬字はm、筒子は"
 "p、索子はs、字牌はzを使って表されます。したがって、一萬は1m、九筒は9p、五索は5s"
 "となります。東南西北白發中はそれぞれ1z、2z、3z、4z、5z、6z、7zとなります。特殊"
@@ -6927,8 +6927,8 @@ msgstr ""
 "に牌山の牌順が八筒・七索・東風・赤五萬だった場合、文字列で表すと8p7s1z0mとなり"
 "ます。\\n4.任意のMD5ハッシュ計算ツールを사용し、「牌山コード」を入力し、変換"
 "（ハッシュ化）してください。このとき、バイト長は16Byte、全部で32文字のハッシュ"
-"値になるようにしてください。変換後、表示されたMD5ハッシュと対局中に記録したMD5"
-"ハッシュが同じであるかを確認してください。同じであれば、対局が進行していたとき"
+"値になるようにしてください。変換後、表示されたMD5ハッシュと대국中に記録したMD5"
+"ハッシュが同じであるかを確認してください。同じであれば、대국が進行していたとき"
 "牌山の牌順は固定されており、後から改ざんされたものではないと証明することができ"
 "ます。一打でも改ざんされていれば、牌譜での配牌が異なったり、あるいはMD5ハッシュ"
 "が合わなくなるからです。\\n 「雀魂」をいつも応援していただきましてありがとうご"
@@ -6958,7 +6958,7 @@ msgstr "巻き戻し"
 #: translate_json.csv:1315
 msgctxt "リアルタイム観戦中"
 msgid "json|mj/live_broadcast|1|87f3d7c45acf88008b008ca0f53aacf7"
-msgstr "リアルタイム관전中"
+msgstr "실시간관전中"
 
 #: translate_json.csv:1316
 msgctxt "局"
@@ -7173,17 +7173,17 @@ msgstr "振り聴"
 #: translate_json.csv:1358
 msgctxt "対戦終了"
 msgid "json|mj/vote|0|2|7c0c898b4aa116f0bdd3b4c3ce788b94"
-msgstr "対戦終了"
+msgstr "対戦종료"
 
 #: translate_json.csv:1359
 msgctxt "対戦終了の投票を開始しますか？"
 msgid "json|mj/vote|0|3|aa80ff16bd1ec2232353adde9257ae27"
-msgstr "対戦終了の投票を開始しますか？"
+msgstr "対戦종료の投票を開始しますか？"
 
 #: translate_json.csv:1360
 msgctxt "（対戦に参加している全員が賛成する場合、対戦が終了します）"
 msgid "json|mj/vote|0|4|36274f4a66a5a1860f02f2c330b79a5d"
-msgstr "（対戦に参加している全員が賛成する場合、対戦が終了します）"
+msgstr "（対戦に参加している全員が賛成する場合、対戦が종료します）"
 
 #: translate_json.csv:1361
 msgctxt "確認"
@@ -7198,7 +7198,7 @@ msgstr "아니오"
 #: translate_json.csv:1363
 msgctxt "対戦終了"
 msgid "json|mj/vote_cd|0|2|7c0c898b4aa116f0bdd3b4c3ce788b94"
-msgstr "対戦終了"
+msgstr "対戦종료"
 
 #: translate_json.csv:1364
 msgctxt ""
@@ -7206,7 +7206,7 @@ msgctxt ""
 "ちください。"
 msgid "json|mj/vote_cd|0|3|80bf73ec4a6b8143af5ad2d12ae52219"
 msgstr ""
-"前回の投票は全員賛成ではなかったため、次回の終了投票が開始できるまで5分以上お待"
+"前回の投票は全員賛成ではなかったため、次回の종료投票が開始できるまで5分以上お待"
 "ちください。"
 
 #: translate_json.csv:1365
@@ -7217,7 +7217,7 @@ msgstr "확인"
 #: translate_json.csv:1366
 msgctxt "対戦終了"
 msgid "json|mj/vote_progress|0|2|7c0c898b4aa116f0bdd3b4c3ce788b94"
-msgstr "対戦終了"
+msgstr "対戦종료"
 
 #: translate_json.csv:1367
 msgctxt "賛成"
@@ -7362,7 +7362,7 @@ msgstr "初詣屋台"
 #: translate_sheet.csv:25
 msgctxt "春節期間限定\\nスタンプ交換所"
 msgid "sheet|ActivityActivity.csv|name_jp|9e69bca8713a2b03fb01af0c12b81f42"
-msgstr "春節期間限定\\nスタンプ交換所"
+msgstr "春節기간한정\\nスタンプ交換所"
 
 #: translate_sheet.csv:26
 msgctxt "芳華春"
@@ -7479,13 +7479,13 @@ msgstr "着せ替え입수"
 msgctxt "クリスマスフェス"
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_jp|d3ef368d63cd09595fccb887e9e23fba"
-msgstr "クリスマスフェス"
+msgstr "크리스마스 페스티벌"
 
 #: translate_sheet.csv:51
 msgctxt "仮装舞踏会"
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_jp|e829294f36ad71c217626a37415b3518"
-msgstr "仮装舞踏会"
+msgstr "가면 무도회"
 
 #: translate_sheet.csv:52
 msgctxt "ビーチパーティ"
@@ -7497,18 +7497,18 @@ msgstr "비치파티"
 msgctxt "新年初詣"
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_jp|3e9f5db920183412489260ab035367c1"
-msgstr "新年初詣"
+msgstr "신년참배"
 
 #: translate_sheet.csv:54
 msgctxt "春容万象"
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_jp|eda0cf0d28faae1f9b5df2eed940e43e"
-msgstr "春容万象"
+msgstr "춘용만상"
 
 #: translate_sheet.csv:55
 msgctxt "お祈り"
 msgid "sheet|ChestChest.csv|name_jp|f33847344edb3f49e41fbd08c12c4efd"
-msgstr "お祈り"
+msgstr "기원"
 
 #: translate_sheet.csv:56
 msgctxt ""
@@ -7518,15 +7518,15 @@ msgctxt ""
 "変換されます。\\n再度入手した装飾品は星の石に変換されます。"
 msgid "sheet|ChestChest.csv|desc_jp|0424ce6326182c72404f561dcf1fa87a"
 msgstr ""
-"祈りをするたびに信仰1つ입수します。同時に、작사캐릭터と出会ったり、各種장식품や"
-"선물を입수したりできます。\\n\\n작사캐릭터입수確率：5%\\n장식품입수確率：15%\\n"
-"선물입수確率：80%\\n\\n중복 작사캐릭터는 소원의 돌로 변환됩니다.\\n중복 장식품"
-"는 별의 돌로 변환됩니다."
+"기원을 하면 신앙을 1개 입수합니다. 또한 작사 캐릭터, 장식품, 선물을 입수할수도 "
+"있습니다. \\n\\n작사 캐릭터입수 확률：5%\\n장식품 입수 확률：15%\\n선물 입수 확"
+"률：80%\\n\\n중복 작사 캐릭터는 소원의 돌로 변환됩니다.\\n중복 장식품는 별의 돌"
+"로 변환됩니다."
 
 #: translate_sheet.csv:57
 msgctxt "祈願"
 msgid "sheet|ChestChest.csv|name_jp|1a846f4bee0b2d271a4ba2596edfb143"
-msgstr "祈願"
+msgstr "기원"
 
 #: translate_sheet.csv:58
 msgctxt "三上千織"
@@ -8726,32 +8726,32 @@ msgstr "周回数10周達成で입수"
 #: translate_sheet.csv:299
 msgctxt "銅の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f3d5f9603bdda718a3aada01f47ed2fa"
-msgstr "동탁で4인동풍전を3戦最後まで打つ"
+msgstr "동탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:300
 msgctxt "銅の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ad56921d734c29c8f2352669421f907a"
-msgstr "동탁で4인반장전を3戦最後まで打つ"
+msgstr "동탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:301
 msgctxt "銅の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|8d90621ce444b0de271137472c6b923b"
-msgstr "동탁で4인동풍전を2戦最後まで打つ"
+msgstr "동탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:302
 msgctxt "銅の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3b9191edec61fd5cb24315a213b57e36"
-msgstr "동탁で4인반장전を2戦最後まで打つ"
+msgstr "동탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:303
 msgctxt "友人対戦で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|216658241196d0b55af61de8d8c834bf"
-msgstr "친구対戦で4인동풍전を2戦最後まで打つ"
+msgstr "친선전에서 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:304
 msgctxt "友人対戦で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|8c20ebd93cd897303be8ec5c52d322f7"
-msgstr "친구対戦で4인반장전を2戦最後まで打つ"
+msgstr "친선전에서 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:305
 msgctxt "銀の間で4人東風戦を3戦最後まで打つ"
@@ -8771,72 +8771,72 @@ msgstr "은탁 4인 동풍전에서 2회 게임 완료"
 #: translate_sheet.csv:308
 msgctxt "銀の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|46a067d942ee615b5052fddfd2c9c9e8"
-msgstr "은탁で4인반장전を2戦最後まで打つ"
+msgstr "은탁で4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:309
 msgctxt "金の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|79969312298aab5c13186ba8a53f5e44"
-msgstr "금탁で4인동풍전を3戦最後まで打つ"
+msgstr "금탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:310
 msgctxt "金の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|a468be83e53136f64b3c93ac6cde00c5"
-msgstr "금탁で4인반장전を3戦最後まで打つ"
+msgstr "금탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:311
 msgctxt "金の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3a1bcdeb4d00a55ea4c05bc0e4a9891e"
-msgstr "금탁で4인동풍전を2戦最後まで打つ"
+msgstr "금탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:312
 msgctxt "金の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|26d82c96843ab35b167b64f075dcfece"
-msgstr "금탁で4인반장전を2戦最後まで打つ"
+msgstr "금탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:313
 msgctxt "玉の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3dd25fe43416cf6c0b83fff17642d121"
-msgstr "옥탁で4인동풍전を3戦最後まで打つ"
+msgstr "옥탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:314
 msgctxt "玉の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b0b2b75c1b48a0552620cfb20d65910c"
-msgstr "옥탁で4인반장전を3戦最後まで打つ"
+msgstr "옥탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:315
 msgctxt "玉の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ac159f55f9fff5d76bb4c766d1ce134c"
-msgstr "옥탁で4인동풍전を2戦最後まで打つ"
+msgstr "옥탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:316
 msgctxt "玉の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|a9467050a57d23b7529ed6dbc63291b1"
-msgstr "옥탁で4인반장전を2戦最後まで打つ"
+msgstr "옥탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:317
 msgctxt "友人対戦で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|5eadd699f00cad817715deb7e7c6cc9c"
-msgstr "친구対戦で4인동풍전を3戦最後まで打つ"
+msgstr "친선전에서 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:318
 msgctxt "友人対戦で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ee370570007728912f1ee7e9544c391c"
-msgstr "친구対戦で4인반장전を3戦最後まで打つ"
+msgstr "친선전에서 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:319
 msgctxt "銅の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|612cf4bb26f7f4570e3678b12875a0dc"
-msgstr "동탁の対戦で2戦最後まで打つ"
+msgstr "동탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:320
 msgctxt "銅の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b485f3192a1fc7ccf6e9a29412a1df02"
-msgstr "동탁の対戦で3戦最後まで打つ"
+msgstr "동탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:321
 msgctxt "銅の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|67e573c6e652dfaac7a8897c3c6e7a4c"
-msgstr "동탁の対戦で2位以上の順位を1回取得する"
+msgstr "동탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:322
 msgctxt "対戦で合計4回ロンあがりする"
@@ -8856,7 +8856,7 @@ msgstr "対戦で合計8局放銃しないで最後まで打つ"
 #: translate_sheet.csv:325
 msgctxt "友人対戦の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|1c0a22d67773198e1aa4d067ff9f4f69"
-msgstr "친구対戦の対戦で2戦最後まで打つ"
+msgstr "친구対戦 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:326
 msgctxt "銀の間の対戦で2戦最後まで打つ"
@@ -8871,442 +8871,442 @@ msgstr "은탁 등급전에서 3회 게임 완료"
 #: translate_sheet.csv:328
 msgctxt "銀の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|e210ccf927d702cd1298b983d90da340"
-msgstr "은탁の対戦で2位以上の順位を1回取得する"
+msgstr "은탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:329
 msgctxt "金の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|42df31470d9d6a5b473a379ae065f6cd"
-msgstr "금탁の対戦で2戦最後まで打つ"
+msgstr "금탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:330
 msgctxt "金の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|a03aa688c8c31ac9301cecd65a83f106"
-msgstr "금탁の対戦で3戦最後まで打つ"
+msgstr "금탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:331
 msgctxt "金の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|a1bcae763b15b36429ac8f333faeca9d"
-msgstr "금탁の対戦で2位以上の順位を1回取得する"
+msgstr "금탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:332
 msgctxt "玉の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|d53b4a8444feaa440a257896068e9665"
-msgstr "옥탁の対戦で2戦最後まで打つ"
+msgstr "옥탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:333
 msgctxt "玉の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3527ff453c591cd6d74e471dfaa647e6"
-msgstr "옥탁の対戦で3戦最後まで打つ"
+msgstr "옥탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:334
 msgctxt "玉の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f6fa732538cbf9949f8c78bc2a49f439"
-msgstr "옥탁の対戦で2位以上の順位を1回取得する"
+msgstr "옥탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:335
 msgctxt "王座の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3900b923f1b8a2ddb15ea0553a80ab3d"
-msgstr "왕좌탁の対戦で2戦最後まで打つ"
+msgstr "왕좌탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:336
 msgctxt "王座の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b060a58afd813d5306622bbf6bcb0409"
-msgstr "왕좌탁の対戦で3戦最後まで打つ"
+msgstr "왕좌탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:337
 msgctxt "王座の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|47e13eb956ef9cbffcbdc58a9d785223"
-msgstr "왕좌탁の対戦で2位以上の順位を1回取得する"
+msgstr "왕좌탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:338
 msgctxt "【報酬2倍】銅の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|83122d1f7734707f3d52fa7a4d11390c"
-msgstr "【報酬2倍】동탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 2배】동탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:339
 msgctxt "【報酬2倍】銅の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b50d60014579f2e54c128a5dd2cc87e7"
-msgstr "【報酬2倍】동탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 2배】동탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:340
 msgctxt "【報酬2倍】銅の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b3d623afa03979b2af89690912dd36ad"
-msgstr "【報酬2倍】동탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 2배】동탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:341
 msgctxt "【報酬2倍】銅の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|eed8a255266eb296f82a461ea8552d0d"
-msgstr "【報酬2倍】동탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 2배】동탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:342
 msgctxt "【報酬2倍】友人対戦で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|de2a0cfa3cff6b37c2c399af24b7e218"
-msgstr "【報酬2倍】친구対戦で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 2배】친선전에서4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:343
 msgctxt "【報酬2倍】友人対戦で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|0d7052f1da78add65d1dee5d84dfdd22"
-msgstr "【報酬2倍】친구対戦で4인반장전を2戦最後まで打つ"
+msgstr "【보수 2배】친선전에서4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:344
 msgctxt "【報酬2倍】銀の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f4316f339fd7518ce6d0c03abf9facbb"
-msgstr "【報酬2倍】은탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 2배】은탁で4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:345
 msgctxt "【報酬2倍】銀の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|bf228280cf5c127dc8fea60bd1989a1b"
-msgstr "【報酬2倍】은탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 2배】은탁で4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:346
 msgctxt "【報酬2倍】銀の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|e252d2767fc2945cab23530a3e306f81"
-msgstr "【報酬2倍】은탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 2배】은탁で4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:347
 msgctxt "【報酬2倍】銀の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|7a5b6540b2e6258806c52a8ed5ae4b25"
-msgstr "【報酬2倍】은탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 2배】은탁で4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:348
 msgctxt "【報酬2倍】金の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|7337f04e3d5a48b8500a1c1b466ae9c7"
-msgstr "【報酬2倍】금탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 2배】금탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:349
 msgctxt "【報酬2倍】金の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|45fd9a99f457b4430ceba62a9a237f0c"
-msgstr "【報酬2倍】금탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 2배】금탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:350
 msgctxt "【報酬2倍】金の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ee742ed7a79e2c616493a7dc896937e9"
-msgstr "【報酬2倍】금탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 2배】금탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:351
 msgctxt "【報酬2倍】金の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|35b37da87a962ee06bc96c5ed2731df8"
-msgstr "【報酬2倍】금탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 2배】금탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:352
 msgctxt "【報酬2倍】玉の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|d7b788ea71da98bfa24957babe447eb6"
-msgstr "【報酬2倍】옥탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 2배】옥탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:353
 msgctxt "【報酬2倍】玉の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ec9cdd00f3e79e1a1d814dba8c71f8e7"
-msgstr "【報酬2倍】옥탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 2배】옥탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:354
 msgctxt "【報酬2倍】玉の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|d457a273299c772c10d624f619298ed0"
-msgstr "【報酬2倍】옥탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 2배】옥탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:355
 msgctxt "【報酬2倍】玉の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|192c4297fe04139c26c0eb4849fde233"
-msgstr "【報酬2倍】옥탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 2배】옥탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:356
 msgctxt "【報酬2倍】友人対戦で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|8db5a8d65583df1715d18eb66030c930"
-msgstr "【報酬2倍】친구対戦で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 2배】친선전에서4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:357
 msgctxt "【報酬2倍】友人対戦で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|0d071235bfc2b8eff129b71356463a15"
-msgstr "【報酬2倍】친구対戦で4인반장전を3戦最後まで打つ"
+msgstr "【보수 2배】친선전에서4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:358
 msgctxt "【報酬2倍】銅の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|fb4a64db1b9ac089897b8537823fd3cf"
-msgstr "【報酬2倍】동탁の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】동탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:359
 msgctxt "【報酬2倍】銅の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|7c467c68ab6b945d30f5d96c678e7efb"
-msgstr "【報酬2倍】동탁の対戦で3戦最後まで打つ"
+msgstr "【보수 2배】동탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:360
 msgctxt "【報酬2倍】銅の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|9dd667614de0908e1d0f0ec955b7cbd2"
-msgstr "【報酬2倍】동탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 2배】동탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:361
 msgctxt "【報酬2倍】対戦で合計4回ロンあがりする"
 msgid "sheet|EventsDailyevent.csv|desc_jp|332665e6c44d557db1df460e103ce756"
-msgstr "【報酬2倍】対戦で合計4回ロンあがりする"
+msgstr "【보수 2배】対戦で合計4回ロンあがりする"
 
 #: translate_sheet.csv:362
 msgctxt "【報酬2倍】対戦で合計2回ツモあがりする"
 msgid "sheet|EventsDailyevent.csv|desc_jp|1eac45e997fdc77aae6fb7623feb320a"
-msgstr "【報酬2倍】対戦で合計2回쯔모あがりする"
+msgstr "【보수 2배】対戦で合計2回쯔모あがりする"
 
 #: translate_sheet.csv:363
 msgctxt "【報酬2倍】対戦で合計8局放銃しないで最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b0fae6fbd9c582eccadb2c0ddc132720"
-msgstr "【報酬2倍】対戦で合計8局放銃しないで最後まで打つ"
+msgstr "【보수 2배】対戦で合計8局放銃しないで最後まで打つ"
 
 #: translate_sheet.csv:364
 msgctxt "【報酬2倍】友人対戦の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|1a4db801a27f2e2aedddfd5e85bd2f38"
-msgstr "【報酬2倍】친구対戦の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】친구対戦 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:365
 msgctxt "【報酬2倍】銀の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|39e61357ac1ed9f0f380826212f5f00f"
-msgstr "【報酬2倍】은탁の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】은탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:366
 msgctxt "【報酬2倍】銀の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ab61a846a01b7064caaf96543e850a4b"
-msgstr "【報酬2倍】은탁の対戦で3戦最後まで打つ"
+msgstr "【보수 2배】은탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:367
 msgctxt "【報酬2倍】銀の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|8f58257e6fe25ceebaa695c263825531"
-msgstr "【報酬2倍】은탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 2배】은탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:368
 msgctxt "【報酬2倍】金の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|156a9d2c25af0520b69ab0f0adb5be1b"
-msgstr "【報酬2倍】금탁の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】금탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:369
 msgctxt "【報酬2倍】金の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|13ed6617407962d9c879d8995fdcf621"
-msgstr "【報酬2倍】금탁の対戦で3戦最後まで打つ"
+msgstr "【보수 2배】금탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:370
 msgctxt "【報酬2倍】金の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|dcd77dc22574b2e8096fbbbf8e1cfbd9"
-msgstr "【報酬2倍】금탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 2배】금탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:371
 msgctxt "【報酬2倍】玉の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|104baa123d78328df6eae098250a2d90"
-msgstr "【報酬2倍】옥탁の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】옥탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:372
 msgctxt "【報酬2倍】玉の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f97515e4a3cd9c3c1051157048357f75"
-msgstr "【報酬2倍】옥탁の対戦で3戦最後まで打つ"
+msgstr "【보수 2배】옥탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:373
 msgctxt "【報酬2倍】玉の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|653e4aff26a58036c36fb793d5bf9aae"
-msgstr "【報酬2倍】옥탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 2배】옥탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:374
 msgctxt "【報酬2倍】王座の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|6dc7b77bf571fda3fb0a79597d79490e"
-msgstr "【報酬2倍】왕좌탁の対戦で2戦最後まで打つ"
+msgstr "【보수 2배】왕좌탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:375
 msgctxt "【報酬2倍】王座の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|3f2d3a9382e8e77594ea9600151e180f"
-msgstr "【報酬2倍】왕좌탁の対戦で3戦最後まで打つ"
+msgstr "【보수 2배】왕좌탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:376
 msgctxt "【報酬2倍】王座の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|0409630985ded6e71e71f0215163209b"
-msgstr "【報酬2倍】왕좌탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 2배】왕좌탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:377
 msgctxt "【報酬3倍】銅の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|2bf0ab76acbf9b31ff61b3f6497a1203"
-msgstr "【報酬3倍】동탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 3배】동탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:378
 msgctxt "【報酬3倍】銅の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f918b27175bea47b96faf8739ecabe14"
-msgstr "【報酬3倍】동탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 3배】동탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:379
 msgctxt "【報酬3倍】銅の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|050edfabd95a72544480c257507f21b5"
-msgstr "【報酬3倍】동탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 3배】동탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:380
 msgctxt "【報酬3倍】銅の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|d46a98e46b6b7839d437a5a3e9d9ee68"
-msgstr "【報酬3倍】동탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 3배】동탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:381
 msgctxt "【報酬3倍】友人対戦で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|9f497d6f331c33ecf9f4228cb87bb5ab"
-msgstr "【報酬3倍】친구対戦で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 3배】친선전에서4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:382
 msgctxt "【報酬3倍】友人対戦で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|184926902664b98d8e0939e60e4275ee"
-msgstr "【報酬3倍】친구対戦で4인반장전を2戦最後まで打つ"
+msgstr "【보수 3배】친선전에서4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:383
 msgctxt "【報酬3倍】銀の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|cd99ae048966d2d50e4ac62d59fe6b74"
-msgstr "【報酬3倍】은탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 3배】은탁で4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:384
 msgctxt "【報酬3倍】銀の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ce435407d3e6a4df84081c6b603a96b2"
-msgstr "【報酬3倍】은탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 3배】은탁で4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:385
 msgctxt "【報酬3倍】銀の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|f2e7573055961399338387f17cae0b97"
-msgstr "【報酬3倍】은탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 3배】은탁で4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:386
 msgctxt "【報酬3倍】銀の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|6673db4b17b657b8033767b66fd8fe76"
-msgstr "【報酬3倍】은탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 3배】은탁で4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:387
 msgctxt "【報酬3倍】金の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|2291f49b9e63450fd6ab02103e2f2e04"
-msgstr "【報酬3倍】금탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 3배】금탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:388
 msgctxt "【報酬3倍】金の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|c31074caa784f152d7d4d815cd2044b0"
-msgstr "【報酬3倍】금탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 3배】금탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:389
 msgctxt "【報酬3倍】金の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|0361554aff206196319959abe36af084"
-msgstr "【報酬3倍】금탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 3배】금탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:390
 msgctxt "【報酬3倍】金の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|c823c083bf8105204a590e7789e04dd3"
-msgstr "【報酬3倍】금탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 3배】금탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:391
 msgctxt "【報酬3倍】玉の間で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|fd645d35acaba5fb861878f0bc7c3407"
-msgstr "【報酬3倍】옥탁で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 3배】옥탁 4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:392
 msgctxt "【報酬3倍】玉の間で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|76b2bdfa42481368ece9b99927fd84e0"
-msgstr "【報酬3倍】옥탁で4인반장전を3戦最後まで打つ"
+msgstr "【보수 3배】옥탁 4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:393
 msgctxt "【報酬3倍】玉の間で4人東風戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|ba3453687d33c81fa37bde57b1bb162a"
-msgstr "【報酬3倍】옥탁で4인동풍전を2戦最後まで打つ"
+msgstr "【보수 3배】옥탁 4인동풍전을 2회 게임 완료"
 
 #: translate_sheet.csv:394
 msgctxt "【報酬3倍】玉の間で4人半荘戦を2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b9a0c76c06810122476decb0b1ee0f7d"
-msgstr "【報酬3倍】옥탁で4인반장전を2戦最後まで打つ"
+msgstr "【보수 3배】옥탁 4인반장전을 2회 게임 완료"
 
 #: translate_sheet.csv:395
 msgctxt "【報酬3倍】友人対戦で4人東風戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|67e0a15c32a08262b6022d638068dca8"
-msgstr "【報酬3倍】친구対戦で4인동풍전を3戦最後まで打つ"
+msgstr "【보수 3배】친선전에서4인동풍전을 3회 게임 완료"
 
 #: translate_sheet.csv:396
 msgctxt "【報酬3倍】友人対戦で4人半荘戦を3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|70a19fc1c0743f498c89d966c72e58b7"
-msgstr "【報酬3倍】친구対戦で4인반장전を3戦最後まで打つ"
+msgstr "【보수 3배】친선전에서4인반장전을 3회 게임 완료"
 
 #: translate_sheet.csv:397
 msgctxt "【報酬3倍】銅の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|38c68a95f871f1831183d4bc0d8725f9"
-msgstr "【報酬3倍】동탁の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】동탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:398
 msgctxt "【報酬3倍】銅の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|e97cb1027b370bdb32c4f77bf423cf55"
-msgstr "【報酬3倍】동탁の対戦で3戦最後まで打つ"
+msgstr "【보수 3배】동탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:399
 msgctxt "【報酬3倍】銅の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|1bcf977119de59236429c140dbae48ae"
-msgstr "【報酬3倍】동탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 3배】동탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:400
 msgctxt "【報酬3倍】対戦で合計4回ロンあがりする"
 msgid "sheet|EventsDailyevent.csv|desc_jp|14cb8ed90e78a81c5e76d4dd70e33124"
-msgstr "【報酬3倍】対戦で合計4回ロンあがりする"
+msgstr "【보수 3배】対戦で合計4回ロンあがりする"
 
 #: translate_sheet.csv:401
 msgctxt "【報酬3倍】対戦で合計2回ツモあがりする"
 msgid "sheet|EventsDailyevent.csv|desc_jp|c787f0c559c8178a53586a5323b353c3"
-msgstr "【報酬3倍】対戦で合計2回쯔모あがりする"
+msgstr "【보수 3배】対戦で合計2回쯔모あがりする"
 
 #: translate_sheet.csv:402
 msgctxt "【報酬3倍】対戦で合計8局放銃しないで最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|24c7c47051cae7e75d8dcc4113cf88e4"
-msgstr "【報酬3倍】対戦で合計8局放銃しないで最後まで打つ"
+msgstr "【보수 3배】対戦で合計8局放銃しないで最後まで打つ"
 
 #: translate_sheet.csv:403
 msgctxt "【報酬3倍】友人対戦の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b63322ba6d769251946ee5b181ef64a4"
-msgstr "【報酬3倍】친구対戦の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】친구対戦 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:404
 msgctxt "【報酬3倍】銀の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|6a5d946af62edbd63d971511b6e8425c"
-msgstr "【報酬3倍】은탁の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】은탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:405
 msgctxt "【報酬3倍】銀の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|b3cbe6ba4bd1a6ac2b97c5c257b36937"
-msgstr "【報酬3倍】은탁の対戦で3戦最後まで打つ"
+msgstr "【보수 3배】은탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:406
 msgctxt "【報酬3倍】銀の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|2f683f4e09ca7f744f2aca768a67bf98"
-msgstr "【報酬3倍】은탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 3배】은탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:407
 msgctxt "【報酬3倍】金の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|4e121890f7d614e9f01cb780b09bd481"
-msgstr "【報酬3倍】금탁の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】금탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:408
 msgctxt "【報酬3倍】金の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|cc3171ea5368d022f867c231d8b2c00a"
-msgstr "【報酬3倍】금탁の対戦で3戦最後まで打つ"
+msgstr "【보수 3배】금탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:409
 msgctxt "【報酬3倍】金の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|9e5be7cbf51b782bfe01dd72d4c5de6c"
-msgstr "【報酬3倍】금탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 3배】금탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:410
 msgctxt "【報酬3倍】玉の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|27285c115d23bd2599ee4920a5c388f6"
-msgstr "【報酬3倍】옥탁の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】옥탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:411
 msgctxt "【報酬3倍】玉の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|4c4eaef8cccb21ced567e1d4295018bc"
-msgstr "【報酬3倍】옥탁の対戦で3戦最後まで打つ"
+msgstr "【보수 3배】옥탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:412
 msgctxt "【報酬3倍】玉の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|93c625b1a713bb90355b567578aa1844"
-msgstr "【報酬3倍】옥탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 3배】옥탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:413
 msgctxt "【報酬3倍】王座の間の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|0c6e5ef8d558f3607369edc6dd30908e"
-msgstr "【報酬3倍】왕좌탁の対戦で2戦最後まで打つ"
+msgstr "【보수 3배】왕좌탁 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:414
 msgctxt "【報酬3倍】王座の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|9b13cccc66dd39647670eff6512a2851"
-msgstr "【報酬3倍】왕좌탁の対戦で3戦最後まで打つ"
+msgstr "【보수 3배】왕좌탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:415
 msgctxt "【報酬3倍】王座の間の対戦で2位以上の順位を1回取得する"
 msgid "sheet|EventsDailyevent.csv|desc_jp|4ef8cd14747f42eb29c0b88abfc92e7e"
-msgstr "【報酬3倍】왕좌탁の対戦で2位以上の順位を1回取得する"
+msgstr "【보수 3배】왕좌탁 등급전에서 2위 이상의 순위를 1회 달성"
 
 #: translate_sheet.csv:416
 msgctxt "【お年玉】立直を含めて1回あがる"
@@ -9341,12 +9341,12 @@ msgstr "【お年玉】対戦で合計8局放銃しないで最後まで打つ"
 #: translate_sheet.csv:422
 msgctxt "【お年玉】友人対戦の対戦で2戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|c5953d818f9b1bc4e8eb0778cd57fa40"
-msgstr "【お年玉】친구対戦の対戦で2戦最後まで打つ"
+msgstr "【お年玉】친구対戦 등급전에서 2회 게임 완료"
 
 #: translate_sheet.csv:423
 msgctxt "【イベント】乱闘の間の対戦で3戦最後まで打つ"
 msgid "sheet|EventsDailyevent.csv|desc_jp|43e53fe6b0347d0d41206d6045c5cf45"
-msgstr "【イベント】난투탁の対戦で3戦最後まで打つ"
+msgstr "【イベント】난투탁 등급전에서 3회 게임 완료"
 
 #: translate_sheet.csv:424
 msgctxt "【イベント】対戦で合計8局放銃しないで最後まで打つ"
@@ -9462,7 +9462,7 @@ msgstr "祈りの輝石200個"
 #: translate_sheet.csv:441
 msgctxt "お祈りをするときに必要"
 msgid "sheet|ExchangeSearchexchange.csv|desc_jp|bace2b2879cfc2ae6defbc3633bdc612"
-msgstr "お祈りをするときに必要"
+msgstr "기원をするときに必要"
 
 #: translate_sheet.csv:442
 msgctxt "祈りの輝石1,800個"
@@ -10647,7 +10647,7 @@ msgstr "このギフトは受取済です"
 #: translate_sheet.csv:671
 msgctxt "ログイン失敗。もう一度お試しください"
 msgid "sheet|InfoError.csv|jp|0746033b508f9f640c643145400a24cb"
-msgstr "로그인失敗。もう一度お試しください"
+msgstr "로그인실패。もう一度お試しください"
 
 #: translate_sheet.csv:672
 msgctxt "ログイン期限が切れました。もう一度お試しください"
@@ -10657,7 +10657,7 @@ msgstr "로그인期限が切れました。もう一度お試しください"
 #: translate_sheet.csv:673
 msgctxt "認証失敗。SNSアカウントをご確認の上もう一度お試しください"
 msgid "sheet|InfoError.csv|jp|8da773044679f11a0052964521ad4c7d"
-msgstr "認証失敗。SNSアカウントをご確認の上もう一度お試しください"
+msgstr "認証실패。SNSアカウントをご確認の上もう一度お試しください"
 
 #: translate_sheet.csv:674
 msgctxt "このコードは使えません"
@@ -10687,7 +10687,7 @@ msgstr "この電話番号は既に登録されています"
 #: translate_sheet.csv:679
 msgctxt "SMS送信失敗。時間をおいて再度お試しください"
 msgid "sheet|InfoError.csv|jp|a51c6b072d44e54b9cc01279b57bf75c"
-msgstr "SMS送信失敗。時間をおいて再度お試しください"
+msgstr "SMS送信실패。時間をおいて再度お試しください"
 
 #: translate_sheet.csv:680
 msgctxt "邮箱格式错误"
@@ -10967,12 +10967,12 @@ msgstr "この部屋は既に対戦開始しました"
 #: translate_sheet.csv:736
 msgctxt "参加可能な部屋がありません。時間をおいて再度お試しください"
 msgid "sheet|InfoError.csv|jp|5c1a4b1d5e3084e0ee77d49ebd0a1493"
-msgstr "参加可能な部屋가 없습니다.。時間をおいて再度お試しください"
+msgstr "参加可能な部屋가 없습니다.時間をおいて再度お試しください"
 
 #: translate_sheet.csv:737
 msgctxt "CPUプレイヤー参加失敗。人数上限に達しています"
 msgid "sheet|InfoError.csv|jp|9102c323e2c15fa159a146a51880dde9"
-msgstr "CPUプレイヤー参加失敗。人数上限に達しています"
+msgstr "CPUプレイヤー参加실패。人数上限に達しています"
 
 #: translate_sheet.csv:738
 msgctxt "モードエラー。部屋を作り直してください"
@@ -10982,7 +10982,7 @@ msgstr "モードエラー。部屋を作り直してください"
 #: translate_sheet.csv:739
 msgctxt "対戦が終了しました"
 msgid "sheet|InfoError.csv|jp|8f26f6a383371ce30f6a103b13d9d8af"
-msgstr "対戦が終了しました"
+msgstr "対戦が종료しました"
 
 #: translate_sheet.csv:740
 msgctxt "対戦が存在しません"
@@ -10997,7 +10997,7 @@ msgstr "参加条件に達していません"
 #: translate_sheet.csv:742
 msgctxt "対戦を終了できません"
 msgid "sheet|InfoError.csv|jp|27e2d0135dc87557d39d82002738d48a"
-msgstr "対戦を終了できません"
+msgstr "対戦を종료できません"
 
 #: translate_sheet.csv:743
 msgctxt "対戦を開始できません。時間をおいてお試しください"
@@ -11022,17 +11022,17 @@ msgstr "ポーズ累計時間が長すぎます"
 #: translate_sheet.csv:747
 msgctxt "終了投票の頻度が高すぎます"
 msgid "sheet|InfoError.csv|jp|beaec76ef7206ae66fbae74da334bdb5"
-msgstr "終了投票の頻度が高すぎます"
+msgstr "종료投票の頻度が高すぎます"
 
 #: translate_sheet.csv:748
 msgctxt "終了投票が終わりました"
 msgid "sheet|InfoError.csv|jp|549b30ff77fb31855a75cf66a48e691b"
-msgstr "終了投票が終わりました"
+msgstr "종료投票が終わりました"
 
 #: translate_sheet.csv:749
 msgctxt "友人戦のみ終了できます"
 msgid "sheet|InfoError.csv|jp|0abfb7e72c249964cda3583f3156872c"
-msgstr "친구戦のみ終了できます"
+msgstr "친구戦のみ종료できます"
 
 #: translate_sheet.csv:750
 msgctxt "観戦人数が上限に達しました"
@@ -11042,12 +11042,12 @@ msgstr "관전人数が上限に達しました"
 #: translate_sheet.csv:751
 msgctxt "リアルタイム観戦非対応"
 msgid "sheet|InfoError.csv|jp|0e869ebc27cddd4832bc0a7774001582"
-msgstr "リアルタイム관전非対応"
+msgstr "실시간관전非対応"
 
 #: translate_sheet.csv:752
 msgctxt "リアルタイム観戦権限がありません"
 msgid "sheet|InfoError.csv|jp|cc1a0cf0c2c5fc807ff440086faa7e6b"
-msgstr "リアルタイム관전권한가 없습니다."
+msgstr "실시간관전권한가 없습니다."
 
 #: translate_sheet.csv:753
 msgctxt "既にマッチングしています"
@@ -11186,7 +11186,7 @@ msgstr "ライブが見つかりません。もう一度お試しください"
 #: translate_sheet.csv:779
 msgctxt "他のサーバーでの対局は現在観戦することができません"
 msgid "sheet|InfoError.csv|jp|a8db51555ebda6caa617c2decec7d9c5"
-msgstr "他のサーバーでの対局は現在관전することができません"
+msgstr "他のサーバーでの대국は現在관전することができません"
 
 #: translate_sheet.csv:780
 msgctxt "購入機能は使用できません"
@@ -11241,7 +11241,7 @@ msgstr "この支払方法は現在사용できません"
 #: translate_sheet.csv:790
 msgctxt "購入が失敗しました、しばらくしてからもう一度お試しください(JP)"
 msgid "sheet|InfoError.csv|jp|534271971c4b723eb8097deddaead47b"
-msgstr "구입が失敗しました、しばらくしてからもう一度お試しください(JP)"
+msgstr "구입が실패しました、しばらくしてからもう一度お試しください(JP)"
 
 #: translate_sheet.csv:791
 msgctxt "購入機能は現在ご利用できません、暫くお待ち下さい(JP)"
@@ -11251,12 +11251,12 @@ msgstr "구입機能は現在ご利用できません、暫くお待ち下さい
 #: translate_sheet.csv:792
 msgctxt "購入が失敗しました、しばらくしてからもう一度お試しください(YoStar)"
 msgid "sheet|InfoError.csv|jp|0c751ae645c57567ad957facf72b4ae7"
-msgstr "구입が失敗しました、しばらくしてからもう一度お試しください(YoStar)"
+msgstr "구입が실패しました、しばらくしてからもう一度お試しください(YoStar)"
 
 #: translate_sheet.csv:793
 msgctxt "購入が失敗しました、しばらくしてからもう一度お試しください(EN)"
 msgid "sheet|InfoError.csv|jp|5c92b4eb1c019766698589a8b3a242a9"
-msgstr "구입が失敗しました、しばらくしてからもう一度お試しください(EN)"
+msgstr "구입が실패しました、しばらくしてからもう一度お試しください(EN)"
 
 #: translate_sheet.csv:794
 msgctxt "購入機能は現在ご利用できません、暫くお待ち下さい(EN)"
@@ -11362,7 +11362,7 @@ msgstr "本日の선물回数が上限に達しました。"
 #: translate_sheet.csv:814
 msgctxt "この衣装はまだ入手していません"
 msgid "sheet|InfoError.csv|jp|4f3ae2922e88f96776d2d419fc70516a"
-msgstr "この衣装はまだ입수していません"
+msgstr "こ의 의상はまだ입수していません"
 
 #: translate_sheet.csv:815
 msgctxt "絆レベルはMAXに達しました"
@@ -11442,7 +11442,7 @@ msgstr "大会数は上限に達しました"
 #: translate_sheet.csv:830
 msgctxt "大会IDの作成に失敗しました。時間をおいて再度お試しください"
 msgid "sheet|InfoError.csv|jp|d9f9aa2a834fc305e493a82be5dce8c7"
-msgstr "大会IDの作成に失敗しました。時間をおいて再度お試しください"
+msgstr "大会IDの作成に실패しました。時間をおいて再度お試しください"
 
 #: translate_sheet.csv:831
 msgctxt "多重ログインはできません。ページを更新してからもう一度お試しください"
@@ -11467,7 +11467,7 @@ msgstr "この大会はまだ開始していません"
 #: translate_sheet.csv:835
 msgctxt "この大会は既に終了しました"
 msgid "sheet|InfoError.csv|jp|8f62c9c412d7349cfc0a45c302e8a1ef"
-msgstr "この大会は既に終了しました"
+msgstr "この大会は既に종료しました"
 
 #: translate_sheet.csv:836
 msgctxt ""
@@ -11533,7 +11533,7 @@ msgctxt ""
 "対局数が多すぎるため大会に参加できませんでした。主催者にお問い合わせください"
 msgid "sheet|InfoError.csv|jp|10ae2ad1b9d969c1775e2268281d82bd"
 msgstr ""
-"対局数が多すぎるため大会に参加できませんでした。主催者にお問い合わせください"
+"대국数が多すぎるため大会に参加できませんでした。主催者にお問い合わせください"
 
 #: translate_sheet.csv:847
 msgctxt "当プレイヤーは既にマッチング中"
@@ -11553,7 +11553,7 @@ msgstr "このイベントは存在しません。ページを갱신してから
 #: translate_sheet.csv:850
 msgctxt "イベントは終了しました"
 msgid "sheet|InfoError.csv|jp|56c8b2bd04f17928f74d6211b6d995af"
-msgstr "イベントは終了しました"
+msgstr "イベントは종료しました"
 
 #: translate_sheet.csv:851
 msgctxt "この報酬の受け取り数は上限に達しました"
@@ -12726,7 +12726,7 @@ msgctxt "宝石、数独"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|desc_hobby_jp|"
 "94b32d3773f30fa9626bd219a97b50f1"
-msgstr "宝石、数独"
+msgstr "보석、数独"
 
 #: translate_sheet.csv:1004
 msgctxt ""
@@ -12882,7 +12882,7 @@ msgstr "緑宮慧太杯主催者用チケット"
 #: translate_sheet.csv:1030
 msgctxt "祈願の巻物"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|58915b36422839ceb7a9026ea7ad0f96"
-msgstr "祈願の巻物"
+msgstr "기원の巻物"
 
 #: translate_sheet.csv:1031
 msgctxt "縁を結ぶ為の巻物。使用すると1回祈願ができる。"
@@ -12931,7 +12931,7 @@ msgstr "勇気の宝玉"
 #: translate_sheet.csv:1039
 msgctxt "勇敢なる心。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|5fbdf07fd52afa73e54caab2110456b3"
-msgstr "勇敢なる心。작사と계약성립ときに必要。"
+msgstr "勇敢なる心。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1040
 msgctxt "意志の宝玉"
@@ -12941,7 +12941,7 @@ msgstr "意志の宝玉"
 #: translate_sheet.csv:1041
 msgctxt "後悔なき決意。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|1c72d019d580b05a23450fa318fefded"
-msgstr "後悔なき決意。작사と계약성립ときに必要。"
+msgstr "後悔なき決意。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1042
 msgctxt "誠実の宝玉"
@@ -12951,7 +12951,7 @@ msgstr "誠実の宝玉"
 #: translate_sheet.csv:1043
 msgctxt "確固たる誓い。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|3363e3a5710eb05bfde5119eaad5595c"
-msgstr "確固たる誓い。작사と계약성립ときに必要。"
+msgstr "確固たる誓い。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1044
 msgctxt "慈愛の宝玉"
@@ -12961,7 +12961,7 @@ msgstr "慈愛の宝玉"
 #: translate_sheet.csv:1045
 msgctxt "無償の愛。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|9b3b30e85055b8443a60d5a9414044a0"
-msgstr "無償の愛。작사と계약성립ときに必要。"
+msgstr "無償の愛。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1046
 msgctxt "知恵の宝玉"
@@ -12971,7 +12971,7 @@ msgstr "知恵の宝玉"
 #: translate_sheet.csv:1047
 msgctxt "知識への執念。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|0254205a18d1bc3cee431445e3162da3"
-msgstr "知識への執念。작사と계약성립ときに必要。"
+msgstr "知識への執念。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1048
 msgctxt "純真の宝玉"
@@ -12981,7 +12981,7 @@ msgstr "純真の宝玉"
 #: translate_sheet.csv:1049
 msgctxt "無垢なる善意。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|217143bb0ef572c2e25707c20b860d8c"
-msgstr "無垢なる善意。작사と계약성립ときに必要。"
+msgstr "無垢なる善意。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1050
 msgctxt "希望の宝玉"
@@ -12991,7 +12991,7 @@ msgstr "希望の宝玉"
 #: translate_sheet.csv:1051
 msgctxt "不滅の信仰。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|664e77de1d8fb224876e86bd9d26684e"
-msgstr "不滅の信仰。작사と계약성립ときに必要。"
+msgstr "不滅の信仰。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1052
 msgctxt "光明の宝玉"
@@ -13001,7 +13001,7 @@ msgstr "光明の宝玉"
 #: translate_sheet.csv:1053
 msgctxt "至明なる天光。雀士と契約を結ぶときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|6d97eef61146456d0c31b857a4b148d8"
-msgstr "至明なる天光。작사と계약성립ときに必要。"
+msgstr "至明なる天光。작사와 계약성립 시에 필요하다."
 
 #: translate_sheet.csv:1054
 msgctxt "名前変更の巻物"
@@ -13012,17 +13012,19 @@ msgstr "名前変更の巻物"
 msgctxt ""
 "名前を変える神秘の巻物。使用すると30日に1回のみプレイヤー名を変更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|0dc0fc9c2f960402fed127dd475bf029"
-msgstr "名前を変える神秘の巻物。사용すると30日に1回のみ플레이어명を変更できる。"
+msgstr ""
+"이름을 바꿔주는 신묘한 두루마리. 사용 시 30일에 1회에 한해 플레이어명을 바꿀 "
+"수 있다."
 
 #: translate_sheet.csv:1056
 msgctxt "お祈りの輝石"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|b909d2a338a520e162c8c7a65cbf144d"
-msgstr "お祈りの輝石"
+msgstr "기원の輝石"
 
 #: translate_sheet.csv:1057
 msgctxt "お祈りをするときに必要。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|a7dc9d4a3c0fd7a932d959fd9f84e529"
-msgstr "お祈りをするときに必要。"
+msgstr "기원을 하기 위해서 필요하다."
 
 #: translate_sheet.csv:1058
 msgctxt "ラノベ"
@@ -13048,8 +13050,8 @@ msgctxt ""
 "好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|94012ed98020533f4e901d41109a3c34"
 msgstr ""
-"見た目は微妙だが、味は悪くない。\\n작사にあげると絆ポイント200増加。クッキーが"
-"好きな작사にあげるとさらに増加。"
+"見た目は微妙だが、味は悪くない。\\n작사에게 주면 친밀도가 200증가。クッキー을 "
+"좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1062
 msgctxt "バタークッキー"
@@ -13062,8 +13064,8 @@ msgctxt ""
 "とさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|4ed755cb67bef7f36cfb134c43bda8f1"
 msgstr ""
-"昔ながらの味。\\n작사にあげると絆ポイント1000増加。クッキーが好きな작사にあげる"
-"とさらに増加。"
+"昔ながらの味。\\n작사에게 주면 친밀도가 1000증가。クッキー을 좋아하는 작사에게 "
+"주면 추가로 증가."
 
 #: translate_sheet.csv:1064
 msgctxt "香ばしいクッキー"
@@ -13076,13 +13078,13 @@ msgctxt ""
 "げるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|dd95ff4db1d3a2d57b828b4bde279f4e"
 msgstr ""
-"その香りは犯罪的。\\n작사にあげると絆ポイント5000増加。クッキーが好きな작사にあ"
-"げるとさらに増加。"
+"その香りは犯罪的。\\n작사에게 주면 친밀도가 5000증가。クッキー을 좋아하는 작사"
+"에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1066
 msgctxt "レトロゲーム機"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|f4e5416c33cead5d3c7cdb6af8a58782"
-msgstr "レトロゲーム機"
+msgstr "고전 게임기"
 
 #: translate_sheet.csv:1067
 msgctxt ""
@@ -13090,13 +13092,13 @@ msgctxt ""
 "ゲームが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|c5a6f5e4b6bd65ee723e710f954ab434"
 msgstr ""
-"あの懐かしのブロック消しゲームが遊べる。\\n작사にあげると絆ポイント200増加。"
-"ゲームが好きな작사にあげるとさらに増加。"
+"추억의 게임을 즐길 수 있다. 왠지 리포트를 작성하고 싶어진다. \\n작사에게 주면 "
+"친밀도가 200 증가. 게임을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1068
 msgctxt "携帯ゲーム機"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|c1c706b5df66208b5944e8537f889a75"
-msgstr "携帯ゲーム機"
+msgstr "휴대용 게임기"
 
 #: translate_sheet.csv:1069
 msgctxt ""
@@ -13104,13 +13106,13 @@ msgctxt ""
 "1000増加。ゲームが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|3bcf17b3eefff894d118dbc027942048"
 msgstr ""
-"スクリーンを回転できるスタイリッシュな携帯ゲーム機。\\n작사にあげると絆ポイント"
-"1000増加。ゲームが好きな작사にあげるとさらに増加。"
+"컬러가 나오는 휴대용 게임기. 리포트를 작성하고 싶어진다 \\n작사에게 주면 친밀도"
+"가 1000증가。ゲーム을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1070
 msgctxt "次世代ゲーム機"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|09c1a9f73a15be822f2887aff66f8517"
-msgstr "次世代ゲーム機"
+msgstr "차세대 게임기"
 
 #: translate_sheet.csv:1071
 msgctxt ""
@@ -13118,13 +13120,13 @@ msgctxt ""
 "ゲームが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|8148f36abcff53fd04eed1440b3c18ea"
 msgstr ""
-"最新機能を持った筐体。雀魂のプレイが捗る。\\n작사にあげると絆ポイント5000増加。"
-"ゲームが好きな작사にあげるとさらに増加。"
+"리얼한 언리얼로 언리얼한 리얼을 만드는 최신형 게임기.  \\n작사에게 주면 친밀도"
+"가 5000증가. 게임을 좋아하는 작사에게 주면 추가로 증가.."
 
 #: translate_sheet.csv:1072
 msgctxt "シンプルな美術品"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|919b00ce86441bdc1527810cadc6f13e"
-msgstr "シンプルな美術品"
+msgstr "단순한 미술품"
 
 #: translate_sheet.csv:1073
 msgctxt ""
@@ -13132,13 +13134,13 @@ msgctxt ""
 "とさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|81cce1c49edd5fdceb5af549413693d5"
 msgstr ""
-"机の上に飾れる。\\n작사にあげると絆ポイント200増加。美術品が好きな작사にあげる"
-"とさらに増加。"
+"책상 위에 장식할 수 있다. \\n작사에게 주면 친밀도가 200증가。미술품을 좋아하는 "
+"작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1074
 msgctxt "立派な絵画"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|bec275f960e48bfb00a7d92a3c1243d7"
-msgstr "立派な絵画"
+msgstr "멋쟁이 회화"
 
 #: translate_sheet.csv:1075
 msgctxt ""
@@ -13146,13 +13148,13 @@ msgctxt ""
 "品が好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|d97909d1a47a18bdde5516bf341b3d61"
 msgstr ""
-"部屋に飾ると、芸術的な雰囲気を出せる。\\n작사にあげると絆ポイント1000増加。美術"
-"品が好きな작사にあげるとさらに増加。"
+"분위기 있는 방을 만들 수 있다。\\n작사에게 주면 친밀도가 1000증가。미술품을 좋"
+"아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1076
 msgctxt "不朽の名画"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|0927c6906739c50388e78a2063a30d1b"
-msgstr "不朽の名画"
+msgstr "불후의 명화"
 
 #: translate_sheet.csv:1077
 msgctxt ""
@@ -13160,8 +13162,8 @@ msgctxt ""
 "品が好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|ca390d6cef39f03cfb609c7a36614673"
 msgstr ""
-"有名画家の作品。値段は怖くて聞けない。\\n작사にあげると絆ポイント5000増加。美術"
-"品が好きな작사にあげるとさらに増加。"
+"유명 화가의 작품. 부르는게 값이다. \\n작사에게 주면 친밀도가 5000증가。미술품"
+"을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1078
 msgctxt "普通のジョッキ"
@@ -13174,8 +13176,8 @@ msgctxt ""
 "げるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|d09ba7f9e8f5725c90aa03f3fa0c52d7"
 msgstr ""
-"どこでもあるジョッキ。\\n작사にあげると絆ポイント200増加。酒器が好きな작사にあ"
-"げるとさらに増加。"
+"어디서나 볼 수 있는 맥주잔.\\n작사에게 주면 친밀도가 200증가。술잔을 좋아하는 "
+"작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1080
 msgctxt "上品なおちょこ"
@@ -13188,8 +13190,8 @@ msgctxt ""
 "雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|405df325dc59035a3b3680defc96f138"
 msgstr ""
-"日本酒をより楽しめるおちょこ。\\n작사にあげると絆ポイント1000増加。酒器が好きな"
-"작사にあげるとさらに増加。"
+"사케를 풍부하게 즐길 수 있게 해주는 술잔. \\n작사에게 주면 친밀도가 1000증가。"
+"술잔을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1082
 msgctxt "高級ワイングラス"
@@ -13202,8 +13204,8 @@ msgctxt ""
 "酒器が好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|4498a4e4dda3ca6a5063a844d9612cae"
 msgstr ""
-"かなり高価なワイングラス。怖くて使えない。\\n작사にあげると絆ポイント5000増加。"
-"酒器が好きな작사にあげるとさらに増加。"
+"꽤 비싼 와인잔. 깨질까봐 두렵다.\\n작사에게 주면 친밀도가 5000증가。술잔을 좋아"
+"하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1084
 msgctxt "小粒なダイヤ"
@@ -13216,8 +13218,8 @@ msgctxt ""
 "雀士にあげるとさらに増加"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|1c526d62833b2f2cb14d36b8c26d7a21"
 msgstr ""
-"よくある장식품。価格は一般的。\\n작사にあげると絆ポイント200増加。宝石が好きな"
-"작사にあげるとさらに増加"
+"よくある장식품。価格は一般的。\\n작사에게 주면 친밀도가 200증가。보석을 좋아하"
+"는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1086
 msgctxt "巨大なダイヤ"
@@ -13230,8 +13232,8 @@ msgctxt ""
 "に増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|689c12a5936697fd3f01cece4c62864b"
 msgstr ""
-"贅沢の象徴。\\n작사にあげると絆ポイント1000増加。宝石が好きな작사にあげるとさら"
-"に増加。"
+"사치의 상징.\\n작사에게 주면 친밀도가 1000증가。보석을 좋아하는 작사에게 주면 "
+"추가로 증가."
 
 #: translate_sheet.csv:1088
 msgctxt "碧洋のハート"
@@ -13244,13 +13246,13 @@ msgctxt ""
 "らに増加"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|743401c36ce42f75e2e0a0eb98f857db"
 msgstr ""
-"稀に見る珍品。\\n작사にあげると絆ポイント5000増加。宝石が好きな작사にあげるとさ"
-"らに増加"
+"稀に見る珍品。\\n작사에게 주면 친밀도가 5000증가。보석을 좋아하는 작사에게 주"
+"면 추가로 증가."
 
 #: translate_sheet.csv:1090
 msgctxt "テディベア"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|d80ea3b2debadc451aafae2f5748f12d"
-msgstr "テディベア"
+msgstr "테디베어"
 
 #: translate_sheet.csv:1091
 msgctxt ""
@@ -13258,13 +13260,13 @@ msgctxt ""
 "あげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|1510c0a1a07895f9b004eaf81766abc9"
 msgstr ""
-"ただのテディベア。\\n작사にあげると絆ポイント200増加。ぬいぐるみが好きな작사に"
-"あげるとさらに増加。"
+"평범한 테디베어。\\n작사에게 주면 친밀도가 200증가。인형을 좋아하는 작사에게 주"
+"면 추가로 증가."
 
 #: translate_sheet.csv:1092
 msgctxt "テディベアL"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|182105febe170b280853a81aa4454ca2"
-msgstr "テディベアL"
+msgstr "테디베어L"
 
 #: translate_sheet.csv:1093
 msgctxt ""
@@ -13272,13 +13274,13 @@ msgctxt ""
 "絆ポイント1000増加。ぬいぐるみが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|8519168c5e50087ec1298e7a690ddd76"
 msgstr ""
-"抱くと安心できるらしいテディベア。やんちゃな子でも静かになる。\\n작사にあげると"
-"絆ポイント1000増加。ぬいぐるみが好きな작사にあげるとさらに増加。"
+"안으면 기분 좋은 테디베어. 울던 아이도 그친다.\\n작사에게 주면 친밀도가 1000증"
+"가。인형을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1094
 msgctxt "テディベアXXL"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|e427a0829b6feb591be1759aa34d0e43"
-msgstr "テディベアXXL"
+msgstr "테디베어XXL"
 
 #: translate_sheet.csv:1095
 msgctxt ""
@@ -13286,8 +13288,8 @@ msgctxt ""
 "みが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|f3a8f11c72c0f923c4e54aafa21924b4"
 msgstr ""
-"等身大のテディベア。強烈な安心感。\\n작사にあげると絆ポイント5000増加。ぬいぐる"
-"みが好きな작사にあげるとさらに増加。"
+"어마무시하게 큰 테디베어. 푹신함도 어마무시하다.\\n작사에게 주면 친밀도가 5000"
+"증가。인형을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1096
 msgctxt "フリーペーパー"
@@ -13300,8 +13302,8 @@ msgctxt ""
 "な雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|56fc387d37893141b477e294abe85a10"
 msgstr ""
-"コミケ等で無料で貰えるチラシ。\\n작사にあげると絆ポイント200増加。同人誌が好き"
-"な작사にあげるとさらに増加。"
+"코미케의 무료 전단지.\\n작사에게 주면 친밀도가 200증가。동인지를 좋아하는 작사"
+"에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1098
 msgctxt "薄い本"
@@ -13314,13 +13316,13 @@ msgctxt ""
 "げるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|e64fe162e4eb0f7925c1e5cf44e337ab"
 msgstr ""
-"作りが簡単な同人誌。\\n작사にあげると絆ポイント1000増加。同人誌が好きな작사にあ"
-"げるとさらに増加。"
+"단편 동인지.\\n작사에게 주면 친밀도가 1000증가。동인지를 좋아하는 작사에게 주"
+"면 추가로 증가."
 
 #: translate_sheet.csv:1100
 msgctxt "大手の同人誌"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|04dbd5eca100c39c00d0ab659e4ee59b"
-msgstr "大手の同人誌"
+msgstr "大手の동인지"
 
 #: translate_sheet.csv:1101
 msgctxt ""
@@ -13328,8 +13330,8 @@ msgctxt ""
 "げるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|96b61898d7ba0f61714416902596dbd5"
 msgstr ""
-"豪華な装丁の同人誌。\\n작사にあげると絆ポイント5000増加。同人誌が好きな작사にあ"
-"げるとさらに増加。"
+"호화로운 장편의 동인지.\\n작사에게 주면 친밀도가 5000증가。동인지를 좋아하는 작"
+"사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1102
 msgctxt "素朴な服"
@@ -13342,8 +13344,8 @@ msgctxt ""
 "絆ポイント200増加。おしゃれが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|5abccc7fab346861ce21e7294a0cc4a2"
 msgstr ""
-"일반の女性向けファッション。これが好きだという人もいるようだ。\\n작사にあげると"
-"絆ポイント200増加。おしゃれが好きな작사にあげるとさらに増加。"
+"일반の女性向けファッション。これが好きだという人もいるようだ。\\n작사에게 주면 "
+"친밀도가 200증가。おしゃれ을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1104
 msgctxt "セーラー服"
@@ -13356,8 +13358,8 @@ msgctxt ""
 "しゃれが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|2b43d68a3b2966ee58d62814c4d7c461"
 msgstr ""
-"学校のセーラー服。マニアックじゃないよ？\\n작사にあげると絆ポイント1000増加。お"
-"しゃれが好きな작사にあげるとさらに増加。"
+"学校のセーラー服。マニアックじゃないよ？\\n작사에게 주면 친밀도가 1000증가。お"
+"しゃれ을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1106
 msgctxt "派手なワンピース"
@@ -13370,8 +13372,8 @@ msgctxt ""
 "おしゃれが好きな雀士にあげるとさらに増加。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|42c45911c1c992a91509ae5b9e6e9eb2"
 msgstr ""
-"華麗な服。セレブの雰囲気を醸し出している。\\n작사にあげると絆ポイント5000増加。"
-"おしゃれが好きな작사にあげるとさらに増加。"
+"華麗な服。セレブの雰囲気を醸し出している。\\n작사에게 주면 친밀도가 5000증가。"
+"おしゃれ을 좋아하는 작사에게 주면 추가로 증가."
 
 #: translate_sheet.csv:1108
 msgctxt "絆のハート"
@@ -13384,7 +13386,7 @@ msgctxt ""
 "費しない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|40c449ce3c7ea25b33e9a128813ab647"
 msgstr ""
-"絆の結晶。\\n작사にあげると絆ポイント1000増加。この아이템は선물回数を消費しな"
+"絆の結晶。\\n작사에게 주면 친밀도가 1000증가。この아이템は선물回数を消費しな"
 "い。"
 
 #: translate_sheet.csv:1110
@@ -13398,7 +13400,7 @@ msgctxt ""
 "レゼント回数を消費しない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|e0d26b5a3dec99fd0bfa852e56f05937"
 msgstr ""
-"互いの愛を結びつける組紐。\\n작사にあげると絆ポイント1000増加。この아이템は선물"
+"互いの愛を結びつける組紐。\\n작사에게 주면 친밀도가 1000증가。この아이템は선물"
 "回数を消費しない。"
 
 #: translate_sheet.csv:1112
@@ -13413,7 +13415,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|445ba4a95f965b03896539b0bf64f5c3"
 msgstr ""
 "バレンタインデー限定チョコレートセット。一粒ごとに異なる秘密の味が楽しめる。愛"
-"情たっぷり。\\n작사にあげると絆ポイント1000増加。この선물は봉납できない。"
+"情たっぷり。\\n작사에게 주면 친밀도가 1000증가。この선물は봉납できない。"
 
 #: translate_sheet.csv:1114
 msgctxt ""
@@ -13421,8 +13423,8 @@ msgctxt ""
 "とさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|2a5a01c42b2a91ff801c40d203a3b154"
 msgstr ""
-"昔ながらの味。\\n작사にあげると絆ポイント1000増加。クッキーが好きな작사にあげる"
-"とさらに増加。この선물は봉납できない。"
+"昔ながらの味。\\n작사에게 주면 친밀도가 1000증가。クッキー을 좋아하는 작사에게 "
+"주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1115
 msgctxt ""
@@ -13430,8 +13432,8 @@ msgctxt ""
 "げるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|e49416408142fd3dbde55a3956ceec78"
 msgstr ""
-"その香りは犯罪的。\\n작사にあげると絆ポイント5000増加。クッキーが好きな작사にあ"
-"げるとさらに増加。この선물は봉납できない。"
+"その香りは犯罪的。\\n작사에게 주면 친밀도가 5000증가。クッキー을 좋아하는 작사"
+"에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1116
 msgctxt ""
@@ -13439,8 +13441,8 @@ msgctxt ""
 "1000増加。ゲームが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|b4803fbf1d9ad6ffcaba150264596f77"
 msgstr ""
-"スクリーンを回転できるスタイリッシュな携帯ゲーム機。\\n작사にあげると絆ポイント"
-"1000増加。ゲームが好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"スクリーンを回転できるスタイリッシュな휴대용 게임기。\\n작사에게 주면 친밀도가 "
+"1000증가。ゲーム을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1117
 msgctxt ""
@@ -13448,8 +13450,8 @@ msgctxt ""
 "ゲームが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|ba24b6a091f42dab1323c55765a07719"
 msgstr ""
-"最新機能を持った筐体。雀魂のプレイが捗る。\\n작사にあげると絆ポイント5000増加。"
-"ゲームが好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"最新機能を持った筐体。雀魂のプレイが捗る。\\n작사에게 주면 친밀도가 5000증가。"
+"ゲーム을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1118
 msgctxt ""
@@ -13457,8 +13459,8 @@ msgctxt ""
 "品が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|185a22813e5d60484cf9bf18fcfdac15"
 msgstr ""
-"部屋に飾ると、芸術的な雰囲気を出せる。\\n작사にあげると絆ポイント1000増加。美術"
-"品が好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"部屋に飾ると、芸術的な雰囲気を出せる。\\n작사에게 주면 친밀도가 1000증가。미술"
+"품을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1119
 msgctxt ""
@@ -13466,8 +13468,8 @@ msgctxt ""
 "品が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|ed0d130f7dca557fcfe0a7bc5f06e3fa"
 msgstr ""
-"有名画家の作品。値段は怖くて聞けない。\\n작사にあげると絆ポイント5000増加。美術"
-"品が好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"有名画家の作品。値段は怖くて聞けない。\\n작사에게 주면 친밀도가 5000증가。미술"
+"품을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1120
 msgctxt ""
@@ -13475,8 +13477,8 @@ msgctxt ""
 "雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|bea7b6ccbd5f616f00fc37ad6ed0eeeb"
 msgstr ""
-"日本酒をより楽しめるおちょこ。\\n작사にあげると絆ポイント1000増加。酒器が好きな"
-"작사にあげるとさらに増加。この선물は봉납できない。"
+"日本酒をより楽しめるおちょこ。\\n작사에게 주면 친밀도가 1000증가。술잔을 좋아하"
+"는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1121
 msgctxt ""
@@ -13484,8 +13486,8 @@ msgctxt ""
 "酒器が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|0d8bf7cba3ec66c97ddbd940c0f244f8"
 msgstr ""
-"かなり高価なワイングラス。怖くて使えない。\\n작사にあげると絆ポイント5000増加。"
-"酒器が好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"かなり高価なワイングラス。怖くて使えない。\\n작사에게 주면 친밀도가 5000증가。"
+"술잔을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1122
 msgctxt ""
@@ -13493,8 +13495,8 @@ msgctxt ""
 "に増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|e911093c27370493707acf0bf74240d8"
 msgstr ""
-"贅沢の象徴。\\n작사にあげると絆ポイント1000増加。宝石が好きな작사にあげるとさら"
-"に増加。この선물は봉납できない。"
+"贅沢の象徴。\\n작사에게 주면 친밀도가 1000증가。보석을 좋아하는 작사에게 주면 "
+"추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1123
 msgctxt ""
@@ -13502,8 +13504,8 @@ msgctxt ""
 "らに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|3a36d921d20dd6e3a716e600d3630980"
 msgstr ""
-"稀に見る珍品。\\n작사にあげると絆ポイント5000増加。宝石が好きな작사にあげるとさ"
-"らに増加。この선물は봉납できない。"
+"稀に見る珍品。\\n작사에게 주면 친밀도가 5000증가。보석을 좋아하는 작사에게 주"
+"면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1124
 msgctxt ""
@@ -13512,9 +13514,9 @@ msgctxt ""
 "納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|1c21b38d44d114d4519f36036ff60b04"
 msgstr ""
-"抱くと安心できるらしいテディベア。やんちゃな子でも静かになる。\\n작사にあげると"
-"絆ポイント1000増加。ぬいぐるみが好きな작사にあげるとさらに増加。この선물は봉납"
-"できない。"
+"抱くと安心できるらしい테디베어。やんちゃな子でも静かになる。\\n작사에게 주면 친"
+"밀도가 1000증가。인형을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できな"
+"い。"
 
 #: translate_sheet.csv:1125
 msgctxt ""
@@ -13522,8 +13524,8 @@ msgctxt ""
 "みが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|850feddc51eb063a90b4b06ae1e43e4d"
 msgstr ""
-"等身大のテディベア。強烈な安心感。\\n작사にあげると絆ポイント5000増加。ぬいぐる"
-"みが好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"等身大の테디베어。強烈な安心感。\\n작사에게 주면 친밀도가 5000증가。인형을 좋아"
+"하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1126
 msgctxt ""
@@ -13531,8 +13533,8 @@ msgctxt ""
 "げるとさらに増加。この贈り物は奉納できません、"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|7b6760f889c0f51b5042af9670609b3f"
 msgstr ""
-"作りが簡単な同人誌。\\n작사にあげると絆ポイント1000増加。同人誌が好きな작사にあ"
-"げるとさらに増加。この선물は봉납できません、"
+"作りが簡単な동인지。\\n작사에게 주면 친밀도가 1000증가。동인지를 좋아하는 작사"
+"에게 주면 추가로 증가.この선물は봉납できません、"
 
 #: translate_sheet.csv:1127
 msgctxt ""
@@ -13540,8 +13542,8 @@ msgctxt ""
 "げるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|8a1f7ae46d66bef6c45fa4b722cf34db"
 msgstr ""
-"豪華な装丁の同人誌。\\n작사にあげると絆ポイント5000増加。同人誌が好きな작사にあ"
-"げるとさらに増加。この선물は봉납できない。"
+"豪華な装丁の동인지。\\n작사에게 주면 친밀도가 5000증가。동인지를 좋아하는 작사"
+"에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1128
 msgctxt ""
@@ -13549,8 +13551,8 @@ msgctxt ""
 "しゃれが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|f17a48cf6c3055093373ca0d8b8f12b8"
 msgstr ""
-"学校のセーラー服。マニアックじゃないよ？\\n작사にあげると絆ポイント1000増加。お"
-"しゃれが好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"学校のセーラー服。マニアックじゃないよ？\\n작사에게 주면 친밀도가 1000증가。お"
+"しゃれ을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1129
 msgctxt ""
@@ -13558,8 +13560,8 @@ msgctxt ""
 "おしゃれが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|5645436d78a1583f7a8cb1e8dfb68090"
 msgstr ""
-"華麗な服。セレブの雰囲気を醸し出している。\\n작사にあげると絆ポイント5000増加。"
-"おしゃれが好きな작사にあげるとさらに増加。この선물は봉납できない。"
+"華麗な服。セレブの雰囲気を醸し出している。\\n작사에게 주면 친밀도가 5000증가。"
+"おしゃれ을 좋아하는 작사에게 주면 추가로 증가.この선물は봉납できない。"
 
 #: translate_sheet.csv:1130
 msgctxt "旅人の福袋"
@@ -13812,7 +13814,7 @@ msgstr "子ネコの手"
 #: translate_sheet.csv:1170
 msgctxt "子猫の前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|981b5e8bd770647aa343d917578b05ac"
-msgstr "子猫の前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
+msgstr "子猫の前足。\\n装飾で設定することで、타패時などの演出を変更できる。"
 
 #: translate_sheet.csv:1171
 msgctxt "エメラルドの雀卓"
@@ -14026,7 +14028,7 @@ msgctxt ""
 "稀少な三日月ネコの前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|a4d25c00b0f620a831207278b980bb55"
 msgstr ""
-"稀少な三日月ネコの前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
+"稀少な三日月ネコの前足。\\n装飾で設定することで、타패時などの演出を変更できる。"
 
 #: translate_sheet.csv:1209
 msgctxt "黒ネコの手"
@@ -14038,7 +14040,7 @@ msgctxt ""
 "可愛い黒猫の前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|b032e05ca33d7fcc6b7eb8cf3fdd27fc"
 msgstr ""
-"可愛い黒猫の前足。\\n装飾で設定することで、打牌時などの演出を変更できる。"
+"可愛い黒猫の前足。\\n装飾で設定することで、타패時などの演出を変更できる。"
 
 #: translate_sheet.csv:1211
 msgctxt "立直演出：残影"
@@ -14324,7 +14326,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|c3910f0939b57761720bcff2d35bcaa2"
 msgstr ""
 "我が征く先は星の海\\n装飾で設定することで、和了時の演出を変更できる。（イベント"
-"期間限定。期間終了後は입수できなくなります。）"
+"기간한정。期間종료後は입수できなくなります。）"
 
 #: translate_sheet.csv:1257
 msgctxt "和了演出：エリスの瞳"
@@ -14337,8 +14339,8 @@ msgctxt ""
 "限定。期間終了後は入手できなくなります。）"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|6bf1b62aa3da83ceb1e1669f82ebf560"
 msgstr ""
-"「見～つけた」\\n装飾で設定することで、和了時の演出を変更できる。（イベント期間"
-"限定。期間終了後は입수できなくなります。）"
+"「見～つけた」\\n装飾で設定することで、和了時の演出を変更できる。（イベント기간"
+"한정。期間종료後は입수できなくなります。）"
 
 #: translate_sheet.csv:1259
 msgctxt "立直演出：コウモリ"
@@ -14408,7 +14410,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|957bb161ba9565ab7e0edbad16a264d9"
 msgstr ""
 "見よ、あの空の輝き\\n装飾で設定することで、立直時の演出を変更できる。（イベント"
-"期間限定。期間終了後は입수できなくなります。）"
+"기간한정。期間종료後は입수できなくなります。）"
 
 #: translate_sheet.csv:1269
 msgctxt "立直演出：鮮血・ロンギヌス"
@@ -14422,7 +14424,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|010f9d11b72a100eea4803e58b87f02d"
 msgstr ""
 "ロンギヌスの槍、手にしたら二度と手放せなくなる\\n装飾で設定することで、立直時の"
-"演出を変更できる。（イベント期間限定。期間終了後は입수できなくなります。）"
+"演出を変更できる。（イベント기간한정。期間종료後は입수できなくなります。）"
 
 #: translate_sheet.csv:1271
 msgctxt "アイコンフレーム－若葉"
@@ -14502,7 +14504,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|2627133167dd4f286842a0b7787b22b4"
 msgstr ""
 "アベルの血を吸い、真紅に鈍く光る短剣\\n装飾で設定することで、立直棒を変更でき"
-"る。（イベント期間限定。期間終了後は입수できなくなります。）"
+"る。（イベント기간한정。期間종료後は입수できなくなります。）"
 
 #: translate_sheet.csv:1283
 msgctxt "ゴーストの麻雀牌"
@@ -14574,7 +14576,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|299d889c73f12779e27695637c7a2700"
 msgstr ""
 "桜の花びらが落ちるスピードって、秒速5センチメートルらしいよ？\\n메인画面または"
-"対局画面の設定で、BGMを『早春の花見』に変更できる。"
+"대국画面の設定で、BGMを『早春の花見』に変更できる。"
 
 #: translate_sheet.csv:1293
 msgctxt "真夏の律動"
@@ -14587,7 +14589,7 @@ msgctxt ""
 "で、BGMを「真夏の律動」に変更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|f781ac7023f1a18635ca45fd73f134f4"
 msgstr ""
-"スイカとアイスバーがない夏はありえないにゃ！\\n메인画面または対局画面の設定で、"
+"スイカとアイスバーがない夏はありえないにゃ！\\n메인画面または대국画面の設定で、"
 "BGMを「真夏の律動」に変更できる。"
 
 #: translate_sheet.csv:1295
@@ -14601,7 +14603,7 @@ msgctxt ""
 "更できる。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|362a96c209c1b6fa884284e3b2fab964"
 msgstr ""
-"麻雀はたのしいね！\\n메인画面または対局画面の設定で、BGMを「竹取の囁き」に変更"
+"麻雀はたのしいね！\\n메인画面または대국画面の設定で、BGMを「竹取の囁き」に変更"
 "できる。"
 
 #: translate_sheet.csv:1297
@@ -14945,7 +14947,7 @@ msgstr ""
 #: translate_sheet.csv:1347
 msgctxt "【期間限定】春節スタンプ：一姫"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|5ba189ad5778eae62e062e68e5820986"
-msgstr "【期間限定】春節スタンプ：이치히메"
+msgstr "【기간한정】春節スタンプ：이치히메"
 
 #: translate_sheet.csv:1348
 msgctxt ""
@@ -14953,13 +14955,13 @@ msgctxt ""
 "で使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|686ad3a0dc7cb67f13e261f32e7fa2aa"
 msgstr ""
-"一姬の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月28日5:00ま"
+"一姬の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月28日5:00ま"
 "で사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1349
 msgctxt "【期間限定】春節スタンプ：美樹"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|ec942569bbd5e6c4ab98a1114346795f"
-msgstr "【期間限定】春節スタンプ：美樹"
+msgstr "【기간한정】春節スタンプ：美樹"
 
 #: translate_sheet.csv:1350
 msgctxt ""
@@ -14967,13 +14969,13 @@ msgctxt ""
 "5:00まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|e10b97c0af1adbe6578d37ef73174917"
 msgstr ""
-"니카이도 미키の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月"
+"니카이도 미키の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月"
 "28日5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1351
 msgctxt "【期間限定】春節スタンプ：千織"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|0962d5d19d32f2d576de31c55d481ddf"
-msgstr "【期間限定】春節スタンプ：千織"
+msgstr "【기간한정】春節スタンプ：千織"
 
 #: translate_sheet.csv:1352
 msgctxt ""
@@ -14981,13 +14983,13 @@ msgctxt ""
 "5:00まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|bf18dce8c3b8a73cad629bb2fb871c1e"
 msgstr ""
-"미카미 치오리の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月"
+"미카미 치오리の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月"
 "28日5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1353
 msgctxt "【期間限定】春節スタンプ：相原舞"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|82445da3b8fa274c835f53650890fa99"
-msgstr "【期間限定】春節スタンプ：아이하라 마이"
+msgstr "【기간한정】春節スタンプ：아이하라 마이"
 
 #: translate_sheet.csv:1354
 msgctxt ""
@@ -14995,13 +14997,13 @@ msgctxt ""
 "まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|76d12cae2a856c2a563d277b6633cf66"
 msgstr ""
-"아이하라 마이の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月"
+"아이하라 마이の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月"
 "28日5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1355
 msgctxt "【期間限定】春節スタンプ：佳奈"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|fdf7122e2daa5478065cedd1cf044cdd"
-msgstr "【期間限定】春節スタンプ：佳奈"
+msgstr "【기간한정】春節スタンプ：佳奈"
 
 #: translate_sheet.csv:1356
 msgctxt ""
@@ -15009,13 +15011,13 @@ msgctxt ""
 "5:00まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|f637ca29955da3051fd492df299af2a1"
 msgstr ""
-"후지타 카나の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月28"
+"후지타 카나の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月28"
 "日5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1357
 msgctxt "【期間限定】春節スタンプ：撫子"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|404afb8a58f7724225781da4ebd6aad9"
-msgstr "【期間限定】春節スタンプ：나데시코"
+msgstr "【기간한정】春節スタンプ：나데시코"
 
 #: translate_sheet.csv:1358
 msgctxt ""
@@ -15023,13 +15025,13 @@ msgctxt ""
 "で使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|2e65fc746fab054fbc6fe76d9eb7d4a3"
 msgstr ""
-"나데시코の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月28日"
+"나데시코の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月28日"
 "5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1359
 msgctxt "【期間限定】春節スタンプ：唯"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|4f70f0c39bdf5acaca3f8de89dd782fc"
-msgstr "【期間限定】春節スタンプ：唯"
+msgstr "【기간한정】春節スタンプ：唯"
 
 #: translate_sheet.csv:1360
 msgctxt ""
@@ -15037,13 +15039,13 @@ msgctxt ""
 "まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|89062c9b4a8589c58d8b56a31d2b4bd4"
 msgstr ""
-"야기 유이の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月28日"
+"야기 유이の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月28日"
 "5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1361
 msgctxt "【期間限定】春節スタンプ：璃雨"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|40104db5bea0d2282a683525d926e53e"
-msgstr "【期間限定】春節スタンプ：璃雨"
+msgstr "【기간한정】春節スタンプ：璃雨"
 
 #: translate_sheet.csv:1362
 msgctxt ""
@@ -15051,13 +15053,13 @@ msgctxt ""
 "5:00まで使用可能です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|387d095b8dd8a10748a2b698ef5941c2"
 msgstr ""
-"쿠죠 리우の春節期間限定スタンプが使えるようになる。このスタンプは2019年2月28日"
+"쿠죠 리우の春節기간한정スタンプが使えるようになる。このスタンプは2019年2月28日"
 "5:00まで사용可能です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1363
 msgctxt "春節期間限定スタンプ・一姫"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|d1ba88378c2cb7571b69c7e4a105028b"
-msgstr "春節期間限定スタンプ・이치히메"
+msgstr "春節기간한정スタンプ・이치히메"
 
 #: translate_sheet.csv:1364
 msgctxt ""
@@ -15069,117 +15071,117 @@ msgstr ""
 #: translate_sheet.csv:1365
 msgctxt "春節期間限定スタンプ・二階堂美樹"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|f41675139a0ba9c59c393eb7d00da8a9"
-msgstr "春節期間限定スタンプ・니카이도 미키"
+msgstr "春節기간한정スタンプ・니카이도 미키"
 
 #: translate_sheet.csv:1366
 msgctxt "春節期間限定スタンプ・藤田佳奈"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|0055c938f3c609a524f8784ba7a4c65d"
-msgstr "春節期間限定スタンプ・후지타 카나"
+msgstr "春節기간한정スタンプ・후지타 카나"
 
 #: translate_sheet.csv:1367
 msgctxt "春節期間限定スタンプ・三上千織"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|99ad8451f0fca0155a73058bf19662c0"
-msgstr "春節期間限定スタンプ・미카미 치오리"
+msgstr "春節기간한정スタンプ・미카미 치오리"
 
 #: translate_sheet.csv:1368
 msgctxt "春節期間限定スタンプ・相原舞"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|9464c289a981e9094cc8e115f65953f6"
-msgstr "春節期間限定スタンプ・아이하라 마이"
+msgstr "春節기간한정スタンプ・아이하라 마이"
 
 #: translate_sheet.csv:1369
 msgctxt "春節期間限定スタンプ・撫子"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|a6c2ac516f53004faed16376302689b7"
-msgstr "春節期間限定スタンプ・나데시코"
+msgstr "春節기간한정スタンプ・나데시코"
 
 #: translate_sheet.csv:1370
 msgctxt "春節期間限定スタンプ・八木唯"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|1ccfb39d441185b5a18b79e028a6bbe1"
-msgstr "春節期間限定スタンプ・야기 유이"
+msgstr "春節기간한정スタンプ・야기 유이"
 
 #: translate_sheet.csv:1371
 msgctxt "春節期間限定スタンプ・九条璃雨"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|b203a80cb948e60d7ff20f685fd3d24e"
-msgstr "春節期間限定スタンプ・쿠죠 리우"
+msgstr "春節기간한정スタンプ・쿠죠 리우"
 
 #: translate_sheet.csv:1372
 msgctxt "春節期間限定スタンプ・ジニア"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|ad5a9d8a8c416dd65ca89071fe2998c4"
-msgstr "春節期間限定スタンプ・지니아"
+msgstr "春節기간한정スタンプ・지니아"
 
 #: translate_sheet.csv:1373
 msgctxt "春節期間限定スタンプ・カーヴィ"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|c7895ca57bfafbf8c60624c0c656e408"
-msgstr "春節期間限定スタンプ・카비"
+msgstr "春節기간한정スタンプ・카비"
 
 #: translate_sheet.csv:1374
 msgctxt "春節期間限定スタンプ・四宮夏生"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|21943b06ea85bdc1a1431a9d15a1a9da"
-msgstr "春節期間限定スタンプ・시노미야 나츠키"
+msgstr "春節기간한정スタンプ・시노미야 나츠키"
 
 #: translate_sheet.csv:1375
 msgctxt "春節期間限定スタンプ・ワン次郎"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|db2e4d646a2c89dc306e783340a931ce"
-msgstr "春節期間限定スタンプ・왕지로"
+msgstr "春節기간한정スタンプ・왕지로"
 
 #: translate_sheet.csv:1376
 msgctxt "春節期間限定スタンプ・一ノ瀬空"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|e1842887935b707889babfbc5270d937"
-msgstr "春節期間限定スタンプ・이치노세 소라"
+msgstr "春節기간한정スタンプ・이치노세 소라"
 
 #: translate_sheet.csv:1377
 msgctxt "春節期間限定スタンプ・明智英樹"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|a836442abfb6d06066e3044107303ea7"
-msgstr "春節期間限定スタンプ・아케치 히데키"
+msgstr "春節기간한정スタンプ・아케치 히데키"
 
 #: translate_sheet.csv:1378
 msgctxt "春節期間限定スタンプ・軽庫娘"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|66b04829d4d692cfe9b1f70412d67913"
-msgstr "春節期間限定スタンプ・케이쿠무스메"
+msgstr "春節기간한정スタンプ・케이쿠무스메"
 
 #: translate_sheet.csv:1379
 msgctxt "春節期間限定スタンプ・サラ"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|af4dc3ae02c1caa927ca6d20472c3bac"
-msgstr "春節期間限定スタンプ・사라"
+msgstr "春節기간한정スタンプ・사라"
 
 #: translate_sheet.csv:1380
 msgctxt "春節期間限定スタンプ・二之宮花"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|ca12e1bc62f6c428bc98525b3012ddd9"
-msgstr "春節期間限定スタンプ・니노미야 하나"
+msgstr "春節기간한정スタンプ・니노미야 하나"
 
 #: translate_sheet.csv:1381
 msgctxt "春節期間限定スタンプ・白石奈々"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|997e49d6d5a93b4bb5f34f5b9a0a91c9"
-msgstr "春節期間限定スタンプ・시라이시 나나"
+msgstr "春節기간한정スタンプ・시라이시 나나"
 
 #: translate_sheet.csv:1382
 msgctxt "春節期間限定スタンプ・小鳥遊雛田"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|4c40fa1472940209c1de8c92c611fd84"
-msgstr "春節期間限定スタンプ・타카나시 히나타"
+msgstr "春節기간한정スタンプ・타카나시 히나타"
 
 #: translate_sheet.csv:1383
 msgctxt "春節期間限定スタンプ・五十嵐陽菜"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|90975757dfb2ccfabb40d648aa67b744"
-msgstr "春節期間限定スタンプ・이가라시 하루나"
+msgstr "春節기간한정スタンプ・이가라시 하루나"
 
 #: translate_sheet.csv:1384
 msgctxt "春節期間限定スタンプ・涼宮杏樹"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|92a6ab4c2c9331925a7b7157a6a15538"
-msgstr "春節期間限定スタンプ・스즈미야 안즈"
+msgstr "春節기간한정スタンプ・스즈미야 안즈"
 
 #: translate_sheet.csv:1385
 msgctxt "春節期間限定スタンプ・ジョセフ"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|b194099ab657335caec8f0aeb22bac8e"
-msgstr "春節期間限定スタンプ・조셉"
+msgstr "春節기간한정スタンプ・조셉"
 
 #: translate_sheet.csv:1386
 msgctxt "春節期間限定スタンプ・斎藤治"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|80df9b833f3c55eddd7e798792827a5a"
-msgstr "春節期間限定スタンプ・사이토 오사무"
+msgstr "春節기간한정スタンプ・사이토 오사무"
 
 #: translate_sheet.csv:1387
 msgctxt "【期間限定スタンプ】月餅"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|1cd0ab193494baccf5dd59315c52a7a3"
-msgstr "【期間限定スタンプ】月餅"
+msgstr "【기간한정スタンプ】月餅"
 
 #: translate_sheet.csv:1388
 msgctxt ""
@@ -15187,33 +15189,33 @@ msgctxt ""
 "です。期間後は使用不可になります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|6cc4afbdc85738f94d6eac5ba1d24ad0"
 msgstr ""
-"期間限定スタンプが使えるようになる。このスタンプは2019年9月28日6:00まで사용可能"
+"기간한정スタンプが使えるようになる。このスタンプは2019年9月28日6:00まで사용可能"
 "です。期間後は사용不可になります。"
 
 #: translate_sheet.csv:1389
 msgctxt "【期間限定】ニャンニャン花火"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|00a13af309d3edb85cd5b63b50df26ac"
-msgstr "【期間限定】ニャンニャン花火"
+msgstr "【기간한정】ニャンニャン花火"
 
 #: translate_sheet.csv:1390
 msgctxt "期間限定スタンプ。2019年10月31日06:00以降使用できなくなります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|37068191476e03d0ec5469e4309d4c5a"
-msgstr "期間限定スタンプ。2019年10月31日06:00以降사용できなくなります。"
+msgstr "기간한정スタンプ。2019年10月31日06:00以降사용できなくなります。"
 
 #: translate_sheet.csv:1391
 msgctxt "期間限定スタンプ。2019年11月10日06:00以降使用できなくなります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|8b7e4b53c3416a8acc58418db18b54f8"
-msgstr "期間限定スタンプ。2019年11月10日06:00以降사용できなくなります。"
+msgstr "기간한정スタンプ。2019年11月10日06:00以降사용できなくなります。"
 
 #: translate_sheet.csv:1392
 msgctxt "【期間限定】さぷらいずぅ！"
 msgid "sheet|ItemDefinitionItem.csv|name_jp|da0bd3bfbae0de7f904b54150e690e17"
-msgstr "【期間限定】さぷらいずぅ！"
+msgstr "【기간한정】さぷらいずぅ！"
 
 #: translate_sheet.csv:1393
 msgctxt "期間限定スタンプ。2019年12月12日06:00以降使用できなくなります。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|23926a43ad1baf99f0c935a70458dbff"
-msgstr "期間限定スタンプ。2019年12月12日06:00以降사용できなくなります。"
+msgstr "기간한정スタンプ。2019年12月12日06:00以降사용できなくなります。"
 
 #: translate_sheet.csv:1394
 msgctxt ""
@@ -15221,7 +15223,7 @@ msgctxt ""
 "す。"
 msgid "sheet|ItemDefinitionItem.csv|desc_jp|df058384b62fbce9a0bb7550f3f6bf29"
 msgstr ""
-"アプリリリース祝いの期間限定スタンプ。2019年12月27日06:00以降사용できなくなりま"
+"アプリリリース祝いの기간한정スタンプ。2019年12月27日06:00以降사용できなくなりま"
 "す。"
 
 #: translate_sheet.csv:1395
@@ -15252,12 +15254,12 @@ msgstr "デフォルトスキン"
 #: translate_sheet.csv:1402
 msgctxt "一姬"
 msgid "sheet|ItemDefinitionSkin.csv|name_jp|420b9b8b4526d65bfcd962d468c42985"
-msgstr "一姬"
+msgstr "이치히메"
 
 #: translate_sheet.csv:1403
 msgctxt "一姬の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|1a5e96b1f121a457f079f9bf489e30e4"
-msgstr "一姬の初期衣装"
+msgstr "이치히메의 기본 의상"
 
 #: translate_sheet.csv:1404
 msgctxt "契約"
@@ -15289,12 +15291,12 @@ msgstr "작혼 여름 페스티벌 비치파티에서 구입할 수 있는 한�
 msgctxt "期間限定"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_jp|0f3d3fdfbb3fccc23dc55742d5ff704d"
-msgstr "期間限定"
+msgstr "기간한정"
 
 #: translate_sheet.csv:1410
 msgctxt "新年初詣"
 msgid "sheet|ItemDefinitionSkin.csv|name_jp|3e9f5db920183412489260ab035367c1"
-msgstr "新年初詣"
+msgstr "신년참배"
 
 #: translate_sheet.csv:1411
 msgctxt "魂天初詣にて購入できる限定の着せ替え衣装"
@@ -15309,7 +15311,7 @@ msgstr "니카이도 미키"
 #: translate_sheet.csv:1413
 msgctxt "二階堂美樹の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|e1af090667a2b2876ecddb19a90019f3"
-msgstr "니카이도 미키の初期衣装"
+msgstr "니카이도 미키의 기본 의상"
 
 #: translate_sheet.csv:1414
 msgctxt "二階堂美樹と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15319,7 +15321,7 @@ msgstr "니카이도 미키와 계약을 맺으면 획득할 수 있는 코스�
 #: translate_sheet.csv:1415
 msgctxt "仮装舞踏会"
 msgid "sheet|ItemDefinitionSkin.csv|name_jp|e829294f36ad71c217626a37415b3518"
-msgstr "仮装舞踏会"
+msgstr "가면 무도회"
 
 #: translate_sheet.csv:1416
 msgctxt "ハロウィンテーマの着せ替え衣装"
@@ -15329,12 +15331,12 @@ msgstr "ハロウィンテーマの着せ替え衣装"
 #: translate_sheet.csv:1417
 msgctxt "春容万象"
 msgid "sheet|ItemDefinitionSkin.csv|name_jp|eda0cf0d28faae1f9b5df2eed940e43e"
-msgstr "春容万象"
+msgstr "춘용만상"
 
 #: translate_sheet.csv:1418
 msgctxt "春容万象にて購入できる限定の着せ替え衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|40960ab1beabb3b892b390b1a3e914dc"
-msgstr "春容万象にて구입できる限定の着せ替え衣装"
+msgstr "춘용만상にて구입できる限定の着せ替え衣装"
 
 #: translate_sheet.csv:1419
 msgctxt "藤田佳奈"
@@ -15344,7 +15346,7 @@ msgstr "후지타 카나"
 #: translate_sheet.csv:1420
 msgctxt "藤田佳奈の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|112ef8500b8509d8ee0e445134a429b6"
-msgstr "후지타 카나の初期衣装"
+msgstr "후지타 카나의 기본 의상"
 
 #: translate_sheet.csv:1421
 msgctxt "藤田佳奈と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15354,12 +15356,12 @@ msgstr "후지타 카나와 계약을 맺으면 획득할 수 있는 코스튬."
 #: translate_sheet.csv:1422
 msgctxt "クリスマスフェス"
 msgid "sheet|ItemDefinitionSkin.csv|name_jp|d3ef368d63cd09595fccb887e9e23fba"
-msgstr "クリスマスフェス"
+msgstr "크리스마스 페스티벌"
 
 #: translate_sheet.csv:1423
 msgctxt "クリスマスフェスにて購入できる限定の着せ替え衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|2a5c2964ffabfa2627680d669c8df1fc"
-msgstr "クリスマスフェスにて구입できる限定の着せ替え衣装"
+msgstr "크리스마스 페스티벌にて구입できる限定の着せ替え衣装"
 
 #: translate_sheet.csv:1424
 msgctxt "三上千織"
@@ -15369,7 +15371,7 @@ msgstr "미카미 치오리"
 #: translate_sheet.csv:1425
 msgctxt "三上千織の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|33d6c1cf8919023119efeed135e1b494"
-msgstr "미카미 치오리の初期衣装"
+msgstr "미카미 치오리의 기본 의상"
 
 #: translate_sheet.csv:1426
 msgctxt "三上千織と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15384,7 +15386,7 @@ msgstr "아이하라 마이"
 #: translate_sheet.csv:1428
 msgctxt "相原舞の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|37577664d32440e1b190e6ca9f697475"
-msgstr "아이하라 마이の初期衣装"
+msgstr "아이하라 마이의 기본 의상"
 
 #: translate_sheet.csv:1429
 msgctxt "相原舞と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15399,7 +15401,7 @@ msgstr "나데시코"
 #: translate_sheet.csv:1431
 msgctxt "撫子の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|8c94c2f73be7dab8f514518e29b8269d"
-msgstr "나데시코の初期衣装"
+msgstr "나데시코의 기본 의상"
 
 #: translate_sheet.csv:1432
 msgctxt "撫子と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15414,7 +15416,7 @@ msgstr "야기 유이"
 #: translate_sheet.csv:1434
 msgctxt "八木唯の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|cdd6864595434effa472ce29e53ca6f4"
-msgstr "야기 유이の初期衣装"
+msgstr "야기 유이의 기본 의상"
 
 #: translate_sheet.csv:1435
 msgctxt "八木唯と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15429,7 +15431,7 @@ msgstr "쿠죠 리우"
 #: translate_sheet.csv:1437
 msgctxt "九条璃雨の初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|473be81e52258e5be111a9bff40009ab"
-msgstr "쿠죠 리우の初期衣装"
+msgstr "쿠죠 리우의 기본 의상"
 
 #: translate_sheet.csv:1438
 msgctxt "九条璃雨と契約を結んだ時に入手できる着せ替え衣装。"
@@ -15444,7 +15446,7 @@ msgstr "지니아"
 #: translate_sheet.csv:1440
 msgctxt "ジニアの初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|f47dde42e48b87fdd4d81d47ee4cc77c"
-msgstr "지니아の初期衣装"
+msgstr "지니아의 기본 의상"
 
 #: translate_sheet.csv:1441
 msgctxt "ジニアと契約を結んだ時に入手できる着せ替え衣装。"
@@ -15459,12 +15461,12 @@ msgstr "카비"
 #: translate_sheet.csv:1443
 msgctxt "カーヴィの初期衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|392d4e4b7a0c5fe7a7c482ae2df06ccf"
-msgstr "카비の初期衣装"
+msgstr "카비의 기본 의상"
 
 #: translate_sheet.csv:1444
 msgctxt "カーヴィと契約を結んだ時に入手できる着せ替え衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|53d6fcb6c5177b9a41144b91320839bb"
-msgstr "카비と계약を結んだ時に입수できる着せ替え衣装"
+msgstr "카비와 계약을 맺으면 획득할 수 있는 코스튬."
 
 #: translate_sheet.csv:1445
 msgctxt "四宮夏生"
@@ -15550,7 +15552,7 @@ msgstr "idao"
 #: translate_sheet.csv:1461
 msgctxt "白石奈々と契約を結んだ時に入手できる着せ替え衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|8f5d4f3af66e63340a3471e382011499"
-msgstr "시라이시 나나と계약を結んだ時に입수できる着せ替え衣装"
+msgstr "시라이시 나나와 계약을 맺으면 획득할 수 있는 코스튬."
 
 #: translate_sheet.csv:1462
 msgctxt "小鳥遊雛田"
@@ -15560,7 +15562,7 @@ msgstr "타카나시 히나타"
 #: translate_sheet.csv:1463
 msgctxt "小鳥遊雛田と契約を結んだ時に入手できる着せ替え衣装"
 msgid "sheet|ItemDefinitionSkin.csv|desc_jp|95958ffbcee9485534f1ec869a067353"
-msgstr "타카나시 히나타と계약を結んだ時に입수できる着せ替え衣装"
+msgstr "타카나시 히나타와 계약을 맺으면 획득할 수 있는 코스튬."
 
 #: translate_sheet.csv:1464
 msgctxt "五十嵐陽菜"
@@ -15615,7 +15617,7 @@ msgstr "에인과 계약을 맺으면 획득할 수 있는 코스튬."
 #: translate_sheet.csv:1475
 msgctxt "称号なし"
 msgid "sheet|ItemDefinitionTitle.csv|name_jp|38afe79e3664769d5b6baee548591313"
-msgstr "칭호なし"
+msgstr "칭호 없음"
 
 #: translate_sheet.csv:1477
 msgctxt "原初の火"
@@ -15770,7 +15772,7 @@ msgstr "初めて魂天段位を達成したプレイヤー（4인전）"
 #: translate_sheet.csv:1507
 msgctxt "公認プレイヤー"
 msgid "sheet|ItemDefinitionTitle.csv|name_jp|73bac66eb4b0d16d3714e070c0abaca8"
-msgstr "公認プレイヤー"
+msgstr "공인 유저"
 
 #: translate_sheet.csv:1508
 msgctxt "雀魂公認の選ばれしプレイヤー"
@@ -15892,28 +15894,28 @@ msgctxt "初心"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|name_jp|"
 "457f92dc631e042cfdcf346970507b35"
-msgstr "初心"
+msgstr "초심"
 
 #: translate_sheet.csv:1530
 msgctxt "初心★1"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|full_name_jp|"
 "25336468a858d48e7e135b62264b9394"
-msgstr "初心★1"
+msgstr "초심★1"
 
 #: translate_sheet.csv:1531
 msgctxt "初心★2"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|full_name_jp|"
 "1cfa2b955cc61845ce1b3169a6f0cf26"
-msgstr "初心★2"
+msgstr "초심★2"
 
 #: translate_sheet.csv:1532
 msgctxt "初心★3"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|full_name_jp|"
 "105e3185b2de01ace193a1f56b3d0b1d"
-msgstr "初心★3"
+msgstr "초심★3"
 
 #: translate_sheet.csv:1533
 msgctxt "雀士"
@@ -16032,14 +16034,14 @@ msgctxt "魂天"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|name_jp|"
 "7a8481c7e169efaf0c4a666578e8c2af"
-msgstr "魂天"
+msgstr "혼천"
 
 #: translate_sheet.csv:1550
 msgctxt "魂天"
 msgid ""
 "sheet|LevelDefinitionLevelDefinition.csv|full_name_jp|"
 "7a8481c7e169efaf0c4a666578e8c2af"
-msgstr "魂天"
+msgstr "혼천"
 
 #: translate_sheet.csv:1551
 msgctxt "開運御守（30日）"
@@ -16092,12 +16094,12 @@ msgstr "香ばしいクッキー"
 #: translate_sheet.csv:1559
 msgctxt "次世代ゲーム機"
 msgid "sheet|ShopsGoods.csv|name_jp|09c1a9f73a15be822f2887aff66f8517"
-msgstr "次世代ゲーム機"
+msgstr "차세대 게임기"
 
 #: translate_sheet.csv:1560
 msgctxt "不朽の名画"
 msgid "sheet|ShopsGoods.csv|name_jp|0927c6906739c50388e78a2063a30d1b"
-msgstr "不朽の名画"
+msgstr "불후의 명화"
 
 #: translate_sheet.csv:1561
 msgctxt "高級ワイングラス"
@@ -16112,12 +16114,12 @@ msgstr "碧洋のハート"
 #: translate_sheet.csv:1563
 msgctxt "テディベアXXL"
 msgid "sheet|ShopsGoods.csv|name_jp|e427a0829b6feb591be1759aa34d0e43"
-msgstr "テディベアXXL"
+msgstr "테디베어XXL"
 
 #: translate_sheet.csv:1564
 msgctxt "大手の同人誌"
 msgid "sheet|ShopsGoods.csv|name_jp|04dbd5eca100c39c00d0ab659e4ee59b"
-msgstr "大手の同人誌"
+msgstr "大手の동인지"
 
 #: translate_sheet.csv:1565
 msgctxt "派手なワンピース"
@@ -16192,12 +16194,12 @@ msgstr "バタークッキー"
 #: translate_sheet.csv:1579
 msgctxt "携帯ゲーム機"
 msgid "sheet|ShopsGoods.csv|name_jp|c1c706b5df66208b5944e8537f889a75"
-msgstr "携帯ゲーム機"
+msgstr "휴대용 게임기"
 
 #: translate_sheet.csv:1580
 msgctxt "立派な絵画"
 msgid "sheet|ShopsGoods.csv|name_jp|bec275f960e48bfb00a7d92a3c1243d7"
-msgstr "立派な絵画"
+msgstr "멋쟁이 회화"
 
 #: translate_sheet.csv:1581
 msgctxt "上品なおちょこ"
@@ -16212,7 +16214,7 @@ msgstr "巨大なダイヤ"
 #: translate_sheet.csv:1583
 msgctxt "テディベアL"
 msgid "sheet|ShopsGoods.csv|name_jp|182105febe170b280853a81aa4454ca2"
-msgstr "テディベアL"
+msgstr "테디베어L"
 
 #: translate_sheet.csv:1584
 msgctxt "薄い本"
@@ -16262,7 +16264,7 @@ msgstr "聖なる夜の雀卓"
 #: translate_sheet.csv:1593
 msgctxt "祈願の巻物"
 msgid "sheet|ShopsGoods.csv|name_jp|58915b36422839ceb7a9026ea7ad0f96"
-msgstr "祈願の巻物"
+msgstr "기원の巻物"
 
 #: translate_sheet.csv:1594
 msgctxt "名前変更の巻物"
@@ -16272,77 +16274,77 @@ msgstr "名前変更の巻物"
 #: translate_sheet.csv:1595
 msgctxt "一姫の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|ef89e29789107b40cd63ea832c72046e"
-msgstr "이치히메の衣装"
+msgstr "이치히메의 의상"
 
 #: translate_sheet.csv:1596
 msgctxt "相原舞の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|dc8b921f979f30746415389bf692f213"
-msgstr "아이하라 마이の衣装"
+msgstr "아이하라 마이의 의상"
 
 #: translate_sheet.csv:1597
 msgctxt "撫子の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|c954eda80f8cc3ec430fea54560a4a17"
-msgstr "나데시코の衣装"
+msgstr "나데시코의 의상"
 
 #: translate_sheet.csv:1598
 msgctxt "九条璃雨の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|4349dcef061ecaae49617ade84b81296"
-msgstr "쿠죠 리우の衣装"
+msgstr "쿠죠 리우의 의상"
 
 #: translate_sheet.csv:1599
 msgctxt "仮装舞踏会"
 msgid "sheet|ShopsGoods.csv|name_jp|e829294f36ad71c217626a37415b3518"
-msgstr "仮装舞踏会"
+msgstr "가면 무도회"
 
 #: translate_sheet.csv:1600
 msgctxt "二階堂美樹の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|ed1c28be8f64a720fa40767745fe48eb"
-msgstr "니카이도 미키の衣装"
+msgstr "니카이도 미키의 의상"
 
 #: translate_sheet.csv:1601
 msgctxt "ジニアの衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|b13dbd8db9b6da50b19a4e96916f5119"
-msgstr "지니아の衣装"
+msgstr "지니아의 의상"
 
 #: translate_sheet.csv:1602
 msgctxt "四宮夏生の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|a6e68b81d3a80ee8051860a41f56697a"
-msgstr "시노미야 나츠키の衣装"
+msgstr "시노미야 나츠키의 의상"
 
 #: translate_sheet.csv:1603
 msgctxt "ワン次郎の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|ecadbacac92676cf4c1a76c75c0dd872"
-msgstr "왕지로の衣装"
+msgstr "왕지로의 의상"
 
 #: translate_sheet.csv:1604
 msgctxt "クリスマスフェス"
 msgid "sheet|ShopsGoods.csv|name_jp|d3ef368d63cd09595fccb887e9e23fba"
-msgstr "クリスマスフェス"
+msgstr "크리스마스 페스티벌"
 
 #: translate_sheet.csv:1605
 msgctxt "藤田佳奈の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|df91bca6481bfc9f9b746e1e65c5c2a1"
-msgstr "후지타 카나の衣装"
+msgstr "후지타 카나의 의상"
 
 #: translate_sheet.csv:1606
 msgctxt "三上千織の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|09ce9b5f9220d79ad5799e68213bc088"
-msgstr "미카미 치오리の衣装"
+msgstr "미카미 치오리의 의상"
 
 #: translate_sheet.csv:1607
 msgctxt "八木唯の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|6a52f5fb228eb087e500be85b3a73669"
-msgstr "야기 유이の衣装"
+msgstr "야기 유이의 의상"
 
 #: translate_sheet.csv:1608
 msgctxt "一ノ瀬空の衣装"
 msgid "sheet|ShopsGoods.csv|desc_jp|a1a2bc3eee82efbc211bb99d2a7e6373"
-msgstr "이치노세 소라の衣装"
+msgstr "이치노세 소라의 의상"
 
 #: translate_sheet.csv:1609
 msgctxt "新年初詣"
 msgid "sheet|ShopsGoods.csv|name_jp|3e9f5db920183412489260ab035367c1"
-msgstr "新年初詣"
+msgstr "신년참배"
 
 #: translate_sheet.csv:1610
 msgctxt "一姫の着せ替え衣装"
@@ -16357,7 +16359,7 @@ msgstr "사라の着せ替え衣装"
 #: translate_sheet.csv:1612
 msgctxt "春容万象"
 msgid "sheet|ShopsGoods.csv|name_jp|eda0cf0d28faae1f9b5df2eed940e43e"
-msgstr "春容万象"
+msgstr "춘용만상"
 
 #: translate_sheet.csv:1613
 msgctxt "美樹の着せ替え衣装"
@@ -16387,12 +16389,12 @@ msgstr "手作りクッキー"
 #: translate_sheet.csv:1618
 msgctxt "レトロゲーム機"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|f4e5416c33cead5d3c7cdb6af8a58782"
-msgstr "レトロゲーム機"
+msgstr "고전 게임기"
 
 #: translate_sheet.csv:1619
 msgctxt "シンプルな美術品"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|919b00ce86441bdc1527810cadc6f13e"
-msgstr "シンプルな美術品"
+msgstr "단순한 미술품"
 
 #: translate_sheet.csv:1620
 msgctxt "普通のジョッキ"
@@ -16407,7 +16409,7 @@ msgstr "小粒なダイヤ"
 #: translate_sheet.csv:1622
 msgctxt "テディベア"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|d80ea3b2debadc451aafae2f5748f12d"
-msgstr "テディベア"
+msgstr "테디베어"
 
 #: translate_sheet.csv:1623
 msgctxt "フリーペーパー"
@@ -16427,12 +16429,12 @@ msgstr "バタークッキー"
 #: translate_sheet.csv:1626
 msgctxt "携帯ゲーム機"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|c1c706b5df66208b5944e8537f889a75"
-msgstr "携帯ゲーム機"
+msgstr "휴대용 게임기"
 
 #: translate_sheet.csv:1627
 msgctxt "立派な絵画"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|bec275f960e48bfb00a7d92a3c1243d7"
-msgstr "立派な絵画"
+msgstr "멋쟁이 회화"
 
 #: translate_sheet.csv:1628
 msgctxt "上品なおちょこ"
@@ -16447,7 +16449,7 @@ msgstr "巨大なダイヤ"
 #: translate_sheet.csv:1630
 msgctxt "テディベアL"
 msgid "sheet|ShopsZhpGoods.csv|name_jp|182105febe170b280853a81aa4454ca2"
-msgstr "テディベアL"
+msgstr "테디베어L"
 
 #: translate_sheet.csv:1631
 msgctxt "薄い本"
@@ -16514,7 +16516,7 @@ msgctxt ""
 "局数：東風戦\\n赤ドラ：3枚\\n喰い断：あり\\n長考時間：5+20"
 msgid "sheet|StrStr.csv|jp|bd70dfa439611e8d5a6cabf5cb9278b0"
 msgstr ""
-"配原：25000\\n南入：東場終了後に、1位の持ち点が30000点未満の場合、南場に入る\\n"
+"配原：25000\\n南入：東場종료後に、1位の持ち点が30000点未満の場合、南場に入る\\n"
 "局数：동풍전\\n적도라：3枚\\n喰い断：あり\\n長考時間：5+20"
 
 #: translate_sheet.csv:1643
@@ -16523,7 +16525,7 @@ msgctxt ""
 "局数：半荘\\n赤ドラ：3枚\\n喰い断：あり\\n長考時間：5+20"
 msgid "sheet|StrStr.csv|jp|0c13890cefb1b74ece485674e740d837"
 msgstr ""
-"配原：25000\\n西入：南場終了後に、1位の持ち点が30000点未満の場合、西場に入る\\n"
+"配原：25000\\n西入：南場종료後に、1位の持ち点が30000点未満の場合、西場に入る\\n"
 "局数：半荘\\n적도라：3枚\\n喰い断：あり\\n長考時間：5+20"
 
 #: translate_sheet.csv:1644
@@ -16625,7 +16627,7 @@ msgctxt ""
 msgid "sheet|StrStr.csv|jp|48fef0b260d6d5de1eca93072270a8c9"
 msgstr ""
 "モード：\\n四人：四人対戦ルール\\n三人：三人対戦ルール\\n局数：\\nCPU練習戦："
-"CPUプレイヤーとの練習対戦。東一局で終了\\n동풍전：プレイヤーやCPUプレイヤーとの"
+"CPUプレイヤーとの練習対戦。東一局で종료\\n동풍전：プレイヤーやCPUプレイヤーとの"
 "동풍전\\n半荘：プレイヤーやCPUプレイヤーとの반장전\\n친구戦は清算点を計算します"
 "が，段位点数や코인に影響しません。"
 
@@ -16682,7 +16684,7 @@ msgstr "관전を読み込み時にエラーが発生しました。もう一度
 #: translate_sheet.csv:1656
 msgctxt "対戦終了しました。観戦を終了します。"
 msgid "sheet|StrStr.csv|jp|df7c21453de0640257aa9469df6df477"
-msgstr "対戦終了しました。관전を終了します。"
+msgstr "対戦종료しました。관전を종료します。"
 
 #: translate_sheet.csv:1657
 msgctxt "プレイヤーはコメント機能を無効にしています。"
@@ -16729,7 +16731,7 @@ msgctxt ""
 "役はない"
 msgid "sheet|StrStr.csv|jp|6df6fd2eeec7dba3c47515ad7c6976fc"
 msgstr ""
-"配原：35000\\n南入：東場終了後に、1位の持ち点が40000点未満の場合、南場に入る\\n"
+"配原：35000\\n南入：東場종료後に、1位の持ち点が40000点未満の場合、南場に入る\\n"
 "局数：동풍전\\n적도라：2枚\\n喰い断：あり\\n쯔모損：あり\\n長考時間：5+20\\n嶺"
 "上牌8枚\\n二萬-八萬は사용しない\\n「チー」が禁止\\n「北」は抜きドラである\\n北"
 "抜きで嶺上で上がった場合，嶺上開花とする\\n北を抜いた時点で、リーチの一発、더"
@@ -16746,7 +16748,7 @@ msgctxt ""
 "役はない"
 msgid "sheet|StrStr.csv|jp|f42a0225651e1462582c7220a82d8174"
 msgstr ""
-"配原：35000\\n西入：南場終了後に、1位の持ち点が40000点未満の場合、西場に入る\\n"
+"配原：35000\\n西入：南場종료後に、1位の持ち点が40000点未満の場合、西場に入る\\n"
 "局数：南風戦\\n적도라：2枚\\n喰い断：あり\\n쯔모損：あり\\n長考時間：5+20\\n嶺"
 "上牌8枚\\n二萬-八萬は사용しない\\n「チー」が禁止\\n「北」は抜きドラである\\n北"
 "抜きで嶺上で上がった場合，嶺上開花とする\\n北を抜いた時点で、リーチの一発、더"
@@ -16827,7 +16829,7 @@ msgstr ""
 "する度に輝石が60個消費されます。\\n- ルールの상세設定をしない場合、大会は段位戦"
 "と同じルールを사용します。\\n- 主催者は他のプレイヤーを管理者に指名することがで"
 "きます。\\n- 主催者と管理者は「大会管理」から大会の統計データを確認することがで"
-"きます。\\n- 大会の対戦では自動マッチングは行えません。"
+"きます。\\n- 大会 등급전에서 は自動マッチングは行えません。"
 
 #: translate_sheet.csv:1672
 msgctxt ""
@@ -16859,7 +16861,7 @@ msgstr ""
 #: translate_sheet.csv:1675
 msgctxt "対戦サーバーリストが空きです。通信が失敗しました。"
 msgid "sheet|StrStr.csv|jp|cb226d12d621f34b67bfacaf345dc81b"
-msgstr "対戦サーバー목록が空きです。通信が失敗しました。"
+msgstr "対戦サーバー목록が空きです。通信が실패しました。"
 
 #: translate_sheet.csv:1676
 msgctxt ""
@@ -17045,7 +17047,7 @@ msgstr "CPU(보통)"
 #: translate_sheet.csv:1705
 msgctxt "牌譜データのダウンロードに失敗"
 msgid "sheet|StrStr.csv|jp|56abf9028e71cd558ed6bb48300bb503"
-msgstr "牌譜データのダウンロードに失敗"
+msgstr "牌譜データのダウンロードに실패"
 
 #: translate_sheet.csv:1706
 msgctxt "通信が不安定です。更新してもう一度お試し下さい"
@@ -17060,7 +17062,7 @@ msgstr "自動再接続時に로그인できませんでした"
 #: translate_sheet.csv:1708
 msgctxt "対戦データの読み込みが失敗しました"
 msgid "sheet|StrStr.csv|jp|62a42d81bbe0a6acaa9476671e07a561"
-msgstr "対戦データの読み込みが失敗しました"
+msgstr "対戦データの読み込みが실패しました"
 
 #: translate_sheet.csv:1709
 msgctxt "メンテナンス中"
@@ -17345,7 +17347,7 @@ msgstr "利用停止期限："
 #: translate_sheet.csv:1765
 msgctxt "原因："
 msgid "sheet|StrStr.csv|jp|7e87cede03097b7006f46290649bb73a"
-msgstr "原因："
+msgstr "원인："
 
 #: translate_sheet.csv:1766
 msgctxt "未知のエラー（３）："
@@ -17420,7 +17422,7 @@ msgstr "加载新数据出错，请稍后重试"
 #: translate_sheet.csv:1780
 msgctxt "フォロー中の大会はありません"
 msgid "sheet|StrStr.csv|jp|c3eea5b8b1b47bbc235dc959d6e81783"
-msgstr "후로중の大会はありません"
+msgstr "팔로우 중인 대회가 없습니다"
 
 #: translate_sheet.csv:1781
 msgctxt "試合データは現在ありません"
@@ -17630,7 +17632,7 @@ msgstr "확인"
 #: translate_sheet.csv:1822
 msgctxt "チャット部屋に接続失敗"
 msgid "sheet|StrStr.csv|jp|86a47eaea048e3fc5b0e9101a997cc50"
-msgstr "チャット部屋に接続失敗"
+msgstr "チャット部屋に接続실패"
 
 #: translate_sheet.csv:1823
 msgctxt "〈システム〉"
@@ -17655,7 +17657,7 @@ msgstr "对局始め"
 #: translate_sheet.csv:1827
 msgctxt "対局終了："
 msgid "sheet|StrStr.csv|jp|9c30e64cf53c8db7764856c7d79ba033"
-msgstr "対局終了："
+msgstr "대국종료："
 
 #: translate_sheet.csv:1828
 msgctxt "点"
@@ -17690,12 +17692,12 @@ msgstr "準備完了"
 #: translate_sheet.csv:1834
 msgctxt "大会が終了しました"
 msgid "sheet|StrStr.csv|jp|55f53a0717f5df4ffca8a2a843d14e22"
-msgstr "大会が終了しました"
+msgstr "大会が종료しました"
 
 #: translate_sheet.csv:1835
 msgctxt "フォロー中"
 msgid "sheet|StrStr.csv|jp|7fd34c1beda94c01afb15338bd56dec3"
-msgstr "후로중"
+msgstr "팔로우 중"
 
 #: translate_sheet.csv:1836
 msgctxt "フォロー"
@@ -17710,7 +17712,7 @@ msgstr "予約中は牌譜を確認できません。"
 #: translate_sheet.csv:1838
 msgctxt "予約中は観戦できません。"
 msgid "sheet|StrStr.csv|jp|174f0b23d73a9c0201fca9be4df465da"
-msgstr "予約中は관전できません。"
+msgstr "예약중엔 관전이 불가능합니다."
 
 #: translate_sheet.csv:1839
 msgctxt "万"
@@ -17735,7 +17737,7 @@ msgstr "予約中"
 #: translate_sheet.csv:1843
 msgctxt "予約失敗。もう一度お試し下さい"
 msgid "sheet|StrStr.csv|jp|ce7c7b2d7b9148be70a7cb70be835fa4"
-msgstr "予約失敗。もう一度お試し下さい"
+msgstr "予約실패。もう一度お試し下さい"
 
 #: translate_sheet.csv:1844
 msgctxt "まもなく開始"
@@ -17770,12 +17772,12 @@ msgstr "達成条件：{0}계약 포인트"
 #: translate_sheet.csv:1850
 msgctxt "{0}購入失敗"
 msgid "sheet|StrStr.csv|jp|35dee0afe6f938ecd482c697007a340d"
-msgstr "{0}구입失敗"
+msgstr "{0}구입실패"
 
 #: translate_sheet.csv:1851
 msgctxt "{0}購入成功"
 msgid "sheet|StrStr.csv|jp|0471b1e478c3285c6867f6a65f632c72"
-msgstr "{0}구입成功"
+msgstr "{0}구입성공"
 
 #: translate_sheet.csv:1852
 msgctxt "円"
@@ -17850,12 +17852,12 @@ msgstr "트리플 론"
 #: translate_sheet.csv:1866
 msgctxt "ツモ和"
 msgid "sheet|StrStr.csv|jp|eb08417b5187958bc1512fd0e211e603"
-msgstr "쯔모和"
+msgstr "쯔모화료"
 
 #: translate_sheet.csv:1867
 msgctxt "ロン和"
 msgid "sheet|StrStr.csv|jp|841e3d4c1236d725c536b08d6550a070"
-msgstr "ロン和"
+msgstr "론 화료"
 
 #: translate_sheet.csv:1868
 msgctxt "牌山データ無効"
@@ -17870,7 +17872,7 @@ msgstr "氏名を正しく入力してください"
 #: translate_sheet.csv:1870
 msgctxt "認証成功しました"
 msgid "sheet|StrStr.csv|jp|255cbb0bdc2978e78fa5f3766be67b4e"
-msgstr "認証成功しました"
+msgstr "認証성공しました"
 
 #: translate_sheet.csv:1871
 msgctxt "身分証明書が無効です"
@@ -17905,7 +17907,7 @@ msgstr "残り:"
 #: translate_sheet.csv:1877
 msgctxt "購入成功"
 msgid "sheet|StrStr.csv|jp|c63789a7a8d0b0e00892b5abf9e3e8ea"
-msgstr "구입成功"
+msgstr "구입성공"
 
 #: translate_sheet.csv:1878
 msgctxt "絆lv{0}で開放"
@@ -17955,7 +17957,7 @@ msgstr "便利表示無効"
 #: translate_sheet.csv:1887
 msgctxt "祈願"
 msgid "sheet|StrStr.csv|jp|1a846f4bee0b2d271a4ba2596edfb143"
-msgstr "祈願"
+msgstr "기원"
 
 #: translate_sheet.csv:1888
 msgctxt "ツモ損なし"
@@ -18005,7 +18007,7 @@ msgstr "役満の複合を無効にします"
 #: translate_sheet.csv:1897
 msgctxt "獲得成功"
 msgid "sheet|StrStr.csv|jp|d8bf72fdc286ec6fd9e43b8538806e2d"
-msgstr "獲得成功"
+msgstr "獲得성공"
 
 #: translate_sheet.csv:1898
 msgctxt "持ち数:{0}"
@@ -18060,7 +18062,7 @@ msgstr "친선전{0}"
 #: translate_sheet.csv:1908
 msgctxt "ストアとの通信が失敗しました"
 msgid "sheet|StrStr.csv|jp|5c73b808dff3c450d45a72e9cdb610dd"
-msgstr "ストアとの通信が失敗しました"
+msgstr "ストアとの通信が실패しました"
 
 #: translate_sheet.csv:1909
 msgctxt "Billing API バージョンエラー"
@@ -18080,12 +18082,12 @@ msgstr "操作時にエラーが発生しました"
 #: translate_sheet.csv:1912
 msgctxt "購入失敗：既に所持しています"
 msgid "sheet|StrStr.csv|jp|1bfcd9fb7eb5a59cad3773cdb2de806b"
-msgstr "구입失敗：既に所持しています"
+msgstr "구입실패：既に所持しています"
 
 #: translate_sheet.csv:1913
 msgctxt "対戦が終了しました。ロビーに移動します"
 msgid "sheet|StrStr.csv|jp|52d0a3e4d5e072018cc6f695eaf40e1d"
-msgstr "対戦が終了しました。ロビーに移動します"
+msgstr "対戦が종료しました。ロビーに移動します"
 
 #: translate_sheet.csv:1914
 msgctxt "席が見つかりません"
@@ -18095,12 +18097,12 @@ msgstr "席が見つかりません"
 #: translate_sheet.csv:1915
 msgctxt "交換失敗：{0}が足りません"
 msgid "sheet|StrStr.csv|jp|a8f0378e27361b3700736000dac8f6b6"
-msgstr "交換失敗：{0}が足りません"
+msgstr "交換실패：{0}が足りません"
 
 #: translate_sheet.csv:1916
 msgctxt "{0}の交換が成功しました"
 msgid "sheet|StrStr.csv|jp|935fa092f17a233c762fdf5d235a0ada"
-msgstr "{0}の交換が成功しました"
+msgstr "{0}の交換が성공しました"
 
 #: translate_sheet.csv:1917
 msgctxt "復活コイン"
@@ -18115,7 +18117,7 @@ msgstr "データが見つかりません。もう一度お試しください"
 #: translate_sheet.csv:1919
 msgctxt "受け取りました："
 msgid "sheet|StrStr.csv|jp|e23cb68e6dd52fe13838b6d91a86cbe4"
-msgstr "受け取りました："
+msgstr "받았습니다.："
 
 #: translate_sheet.csv:1920
 msgctxt "クエスト"
@@ -18155,7 +18157,7 @@ msgstr "사운드"
 #: translate_sheet.csv:1927
 msgctxt "打牌タイプ"
 msgid "sheet|StrStr.csv|jp|1e767c5f4c78070564c9a02e0175e76a"
-msgstr "打牌タイプ"
+msgstr "타패 타입"
 
 #: translate_sheet.csv:1928
 msgctxt "ワンクリック"
@@ -18170,7 +18172,7 @@ msgstr "ダブルタップ"
 #: translate_sheet.csv:1930
 msgctxt "ダブルタップ打牌&ツモ切り"
 msgid "sheet|StrStr.csv|jp|616c3095bb61458f9fc3d506f137ed67"
-msgstr "ダブルタップ打牌&패 버림"
+msgstr "ダブルタップ타패&패 버림"
 
 #: translate_sheet.csv:1931
 msgctxt "コメント"
@@ -18215,7 +18217,7 @@ msgstr "本人確認"
 #: translate_sheet.csv:1939
 msgctxt "シリアルコード"
 msgid "sheet|StrStr.csv|jp|ba96a9eddd7b7d56d4b28bcf89a168f5"
-msgstr "シリアルコード"
+msgstr "시리얼 코드"
 
 #: translate_sheet.csv:1940
 msgctxt "チュートリアル"
@@ -18245,7 +18247,7 @@ msgstr "칭호목록に入れました"
 #: translate_sheet.csv:1945
 msgctxt "シリアルコードを入力してください"
 msgid "sheet|StrStr.csv|jp|33209da6665cd8e31be2aea0617a0470"
-msgstr "シリアルコードを入力してください"
+msgstr "시리얼 코드を入力してください"
 
 #: translate_sheet.csv:1946
 msgctxt "はい"
@@ -18545,7 +18547,7 @@ msgstr "接続が切断されました。再接続しています"
 #: translate_sheet.csv:2005
 msgctxt "長時間無操作のため、接続が切断されました。"
 msgid "sheet|StrStr.csv|jp|9e5537ff91464664b57df07b1ce0e0ea"
-msgstr "長時間無操作のため、接続が切断されました。"
+msgstr "장시간 조작이 없어 접속을 종료하였습니다."
 
 #: translate_sheet.csv:2006
 msgctxt "-"
@@ -18560,7 +18562,7 @@ msgstr "累計オンライン時間"
 #: translate_sheet.csv:2008
 msgctxt "対戦中の対局があります"
 msgid "sheet|StrStr.csv|jp|fa7121049368784d62a60fd7b445e7be"
-msgstr "対戦中の対局があります"
+msgstr "対戦中の대국があります"
 
 #: translate_sheet.csv:2009
 msgctxt "再接続"
@@ -19025,7 +19027,7 @@ msgstr "작호、작성"
 #: translate_sheet.csv:2101
 msgctxt "雀聖以上"
 msgid "sheet|StrStr.csv|jp|78c391049ce2a200867f9dcb245461bd"
-msgstr "작성以上"
+msgstr "작성이상"
 
 #: translate_sheet.csv:2102
 msgctxt "接続数："
@@ -19050,12 +19052,12 @@ msgstr "랭킹"
 #: translate_sheet.csv:2106
 msgctxt "大会ロビー"
 msgid "sheet|StrStr.csv|jp|6448050ff5684da76868f786c3aeed8e"
-msgstr "大会ロビー"
+msgstr "대회 대기실"
 
 #: translate_sheet.csv:2107
 msgctxt "フォロー中の大会"
 msgid "sheet|StrStr.csv|jp|4e7b31fd8858d2f3a94f0b1cb09e6814"
-msgstr "후로중の大会"
+msgstr "팔로우중인 대회"
 
 #: translate_sheet.csv:2108
 msgctxt "開始前"
@@ -19070,12 +19072,12 @@ msgstr "開始時間："
 #: translate_sheet.csv:2110
 msgctxt "終了時間："
 msgid "sheet|StrStr.csv|jp|c20110c7551769b71a3960547ff88782"
-msgstr "終了時間："
+msgstr "종료時間："
 
 #: translate_sheet.csv:2111
 msgctxt "終了"
 msgid "sheet|StrStr.csv|jp|65be33879c8588fc712070d9bbf9b956"
-msgstr "終了"
+msgstr "종료"
 
 #: translate_sheet.csv:2112
 msgctxt "大会IDで検索"
@@ -19105,7 +19107,7 @@ msgstr "大会"
 #: translate_sheet.csv:2117
 msgctxt "ホーム"
 msgid "sheet|StrStr.csv|jp|3eaf708610cff30a289e653a3813a4f8"
-msgstr "ホーム"
+msgstr "메인"
 
 #: translate_sheet.csv:2118
 msgctxt "大会牌譜"
@@ -19120,7 +19122,7 @@ msgstr "大会관전"
 #: translate_sheet.csv:2120
 msgctxt "GMメッセージ"
 msgid "sheet|StrStr.csv|jp|0d8b95a9e9957fc96f1ed5801f11cf12"
-msgstr "GMメッセージ"
+msgstr "GM메세지"
 
 #: translate_sheet.csv:2121
 msgctxt "チャット"
@@ -19145,7 +19147,7 @@ msgstr "大会ルール"
 #: translate_sheet.csv:2125
 msgctxt "最近5戦の結果："
 msgid "sheet|StrStr.csv|jp|bc351d773fb3de8dd8ed2b60d6bf8781"
-msgstr "最近5戦の結果："
+msgstr "최근 5전의 결과："
 
 #: translate_sheet.csv:2126
 msgctxt "対局数："
@@ -19200,12 +19202,12 @@ msgstr "플레이어명"
 #: translate_sheet.csv:2136
 msgctxt "麻雀の基本ルールはご存知でしょうか？"
 msgid "sheet|StrStr.csv|jp|0cc1d349ea5e17aa573cf3daa9aa8e5c"
-msgstr "麻雀の基本ルールはご存知でしょうか？"
+msgstr "마작의 기본 룰은 알고 있나요?"
 
 #: translate_sheet.csv:2137
 msgctxt "まずは簡単な立直から始めましょう。"
 msgid "sheet|StrStr.csv|jp|057387a0e16adf254a6569c9083683fc"
-msgstr "まずは簡単な立直から始めましょう。"
+msgstr "우선 간단한 리치부터 시작해봅시다."
 
 #: translate_sheet.csv:2138
 msgctxt "大丈夫"
@@ -19325,12 +19327,12 @@ msgstr "本日の갱신回数が上限に達しました"
 #: translate_sheet.csv:2161
 msgctxt "重複した雀士キャラクターは願いの石に変換されます。"
 msgid "sheet|StrStr.csv|jp|34a1997f1c427388dc43cb8873f65060"
-msgstr "重複した작사캐릭터는 소원의 돌로 변환됩니다."
+msgstr "중복된 작사캐릭터는 소원의 돌로 변환됩니다."
 
 #: translate_sheet.csv:2162
 msgctxt "重複した装飾品は星の石に変換されます。"
 msgid "sheet|StrStr.csv|jp|7e653928b43840a1961794642a6f1a89"
-msgstr "重複した장식품는 별의 돌로 변환됩니다."
+msgstr "중복된 장식품는 별의 돌로 변환됩니다."
 
 #: translate_sheet.csv:2163
 msgctxt "贈り物を奉納すると星のかけらが入手できます"
@@ -19365,7 +19367,7 @@ msgstr "-1"
 #: translate_sheet.csv:2169
 msgctxt "毎日お祈り"
 msgid "sheet|StrStr.csv|jp|ebe0d0a6547e409d583b21f623086b79"
-msgstr "毎日お祈り"
+msgstr "毎日기원"
 
 #: translate_sheet.csv:2170
 msgctxt "第"
@@ -19435,7 +19437,7 @@ msgstr "1회 기원するたびに1点"
 #: translate_sheet.csv:2183
 msgctxt "（信仰）が入手できます。"
 msgid "sheet|StrStr.csv|jp|97b87bf775f3b176de5fb13d91ccc0ed"
-msgstr "（信仰）が입수できます。"
+msgstr "（신앙）을 입수할 수 있습니다."
 
 #: translate_sheet.csv:2184
 msgctxt "雀士キャラクター提供確率:5％"
@@ -19465,7 +19467,7 @@ msgstr "선물提供確率:80％"
 #: translate_sheet.csv:2189
 msgctxt "10回祈願では、紫色の贈り物を必ず1個以上獲得できます。"
 msgid "sheet|StrStr.csv|jp|6b26d66581947273b85d83625beb3bf3"
-msgstr "10회 기원では、紫色の선물を必ず1個以上獲得できます。"
+msgstr "10회 기원에선 자색 선물을 반드시 1개 이상 획득할 수 있습니다."
 
 #: translate_sheet.csv:2190
 msgctxt "キャラクター紹介"
@@ -19530,7 +19532,7 @@ msgstr "샘플3："
 #: translate_sheet.csv:2202
 msgctxt "お祈りの輝石が足りません"
 msgid "sheet|StrStr.csv|jp|97aa7101922057824d23853cd53003bd"
-msgstr "お祈りの輝石が足りません"
+msgstr "기원の輝石が足りません"
 
 #: translate_sheet.csv:2203
 msgctxt "以下数量の輝玉で"
@@ -19540,7 +19542,7 @@ msgstr "以下数量の輝玉で"
 #: translate_sheet.csv:2204
 msgctxt "お祈りの輝石を"
 msgid "sheet|StrStr.csv|jp|229a5c19ef020c3e165b23393f98a957"
-msgstr "お祈りの輝石を"
+msgstr "기원の輝石を"
 
 #: translate_sheet.csv:2205
 msgctxt "を購入しますか"
@@ -19660,7 +19662,7 @@ msgstr "招待できる친구가 없습니다."
 #: translate_sheet.csv:2228
 msgctxt "観戦開始まであと："
 msgid "sheet|StrStr.csv|jp|056dc01975b860c9f566ec9636506040"
-msgstr "관전開始まであと："
+msgstr "관전개시까지 남은 시간："
 
 #: translate_sheet.csv:2229
 msgctxt "退出"
@@ -19771,21 +19773,21 @@ msgctxt ""
 "さいますよう願っております。"
 msgid "sheet|StrStr.csv|jp|54b0b191d0cf1474b50c654341c8b776"
 msgstr ""
-"雀魂は完全ランダムでの対局の生成を保証します。対局開始時にはすでに牌山の牌順が"
-"固定されており、対局状況に応じて牌山や配牌が変更されることはありません。この声"
+"雀魂は完全ランダムでの대국の生成を保証します。대국開始時にはすでに牌山の牌順が"
+"固定されており、대국状況に応じて牌山や配牌が変更されることはありません。この声"
 "明を証明するために、雀魂ではMD5ハッシュ検証システムを導入しています。\\nMD5は、"
 "公用の標準的なアルゴリズムで、暗号化や復号化に広く用いられています。一定のアル"
 "ゴリズムを通して、入力されたデータ（牌山の牌順）をハッシュ値に変換します。MD5に"
 "は以下の特徴を兼ね備えています。\\n 1，生成されたMD5ハッシュで元の入力内容を解"
-"析することは出来ません。対局開始時に与えられたMD5ハッシュが解析され事前に牌山が"
+"析することは出来ません。대국開始時に与えられたMD5ハッシュが解析され事前に牌山が"
 "解析されることはありません。 \\n 2，一つの入力内容に対し、生成されるMD5ハッシュ"
 "は一つのみとなります。また、牌山の牌順は少しでも異なれば、生成されるMD5ハッシュ"
 "は全く異なります。\\n上記により、牌山が改ざんされることはないということを保証し"
-"ます。\\n MD5ハッシュ検証ステップ\\n1.対局中、プレイヤーは画面左上の四角の枠内"
-"に表示されるドラ表示牌をクリックすると、その対局の牌山が生成したMD5ハッシュを確"
-"認できます。MD5ハッシュは配牌するごとに生成されます。\\n 2.対局終了後、プレイ"
-"ヤーは「牌譜」内で対局中のものと同じかどうかを局単位で参照することができます。"
-"これにより対局中に与えられたMD5ハッシュが間違っていなかったかを検証します。\\n "
+"ます。\\n MD5ハッシュ検証ステップ\\n1.대국中、プレイヤーは画面左上の四角の枠内"
+"に表示されるドラ表示牌をクリックすると、その대국の牌山が生成したMD5ハッシュを確"
+"認できます。MD5ハッシュは配牌するごとに生成されます。\\n 2.대국종료後、プレイ"
+"ヤーは「牌譜」内で대국中のものと同じかどうかを局単位で参照することができます。"
+"これにより대국中に与えられたMD5ハッシュが間違っていなかったかを検証します。\\n "
 "3.慣例的な呼び名を参考に、牌は全て符号化されています。それぞれ萬字はm、筒子は"
 "p、索子はs、字牌はzを使って表されます。したがって、一萬は1m、九筒は9p、五索は5s"
 "となります。東南西北白發中はそれぞれ1z、2z、3z、4z、5z、6z、7zとなります。特殊"
@@ -19794,8 +19796,8 @@ msgstr ""
 "に牌山の牌順が八筒・七索・東風・赤五萬だった場合、文字列で表すと8p7s1z0mとなり"
 "ます。\\n4.任意のMD5ハッシュ計算ツールを사용し、「牌山コード」を入力し、変換"
 "（ハッシュ化）してください。このとき、バイト長は16Byte、全部で32文字のハッシュ"
-"値になるようにしてください。変換後、表示されたMD5ハッシュと対局中に記録したMD5"
-"ハッシュが同じであるかを確認してください。同じであれば、対局が進行していたとき"
+"値になるようにしてください。変換後、表示されたMD5ハッシュと대국中に記録したMD5"
+"ハッシュが同じであるかを確認してください。同じであれば、대국が進行していたとき"
 "牌山の牌順は固定されており、後から改ざんされたものではないと証明することができ"
 "ます。一打でも改ざんされていれば、牌譜での配牌が異なったり、あるいはMD5ハッシュ"
 "が合わなくなるからです。\\n 「雀魂」をいつも応援していただきましてありがとうご"
@@ -19885,7 +19887,7 @@ msgstr "輝玉が足りません"
 #: translate_sheet.csv:2261
 msgctxt "輝玉が足りません、購入しますか？"
 msgid "sheet|StrStr.csv|jp|6e2b4177046cc10a81e28cc57fade43a"
-msgstr "輝玉が足りません、구입しますか？"
+msgstr "휘옥이 부족합니다. 구입하시겠습니까?"
 
 #: translate_sheet.csv:2262
 msgctxt "更新まで:{0}"
@@ -19895,12 +19897,12 @@ msgstr "갱신まで:{0}"
 #: translate_sheet.csv:2263
 msgctxt "認証失敗"
 msgid "sheet|StrStr.csv|jp|16d55fda10ceda85de855608bf7bb0bc"
-msgstr "認証失敗"
+msgstr "認証실패"
 
 #: translate_sheet.csv:2264
 msgctxt "認証失敗：無効な認証情報"
 msgid "sheet|StrStr.csv|jp|bad9dfd58d2ff1e22bcb6911f32a64f6"
-msgstr "認証失敗：無効な認証情報"
+msgstr "認証실패：無効な認証情報"
 
 #: translate_sheet.csv:2265
 msgctxt "IPアドレスが利用制限"
@@ -19930,7 +19932,7 @@ msgstr "{0}秒後に再送信"
 #: translate_sheet.csv:2270
 msgctxt "認証コード送信失敗"
 msgid "sheet|StrStr.csv|jp|41681f8ed919e5532f32f01eb6308bb4"
-msgstr "認証コード送信失敗"
+msgstr "인증코드 발송실패"
 
 #: translate_sheet.csv:2271
 msgctxt "送信頻度が高すぎます"
@@ -19945,7 +19947,7 @@ msgstr "우편アドレスが利用制限"
 #: translate_sheet.csv:2273
 msgctxt "認証失敗：タイムアウトまたは無効なコード"
 msgid "sheet|StrStr.csv|jp|5eb785d284345058ac17d7ce74f82117"
-msgstr "認証失敗：タイムアウトまたは無効なコード"
+msgstr "認証실패：タイムアウトまたは無効なコード"
 
 #: translate_sheet.csv:2274
 msgctxt "試行回数が多すぎます。後ほど再度お試しください"
@@ -19960,7 +19962,7 @@ msgstr "認証コードを우편アドレスに送信しました"
 #: translate_sheet.csv:2276
 msgctxt "認証失敗。後ほど再度お試しください"
 msgid "sheet|StrStr.csv|jp|3e667b2c904efbfc8f63627a0d4d5cb1"
-msgstr "認証失敗。後ほど再度お試しください"
+msgstr "認証실패。後ほど再度お試しください"
 
 #: translate_sheet.csv:2277
 msgctxt "リーチBGM"
@@ -19975,12 +19977,12 @@ msgstr "（再起動で適用）"
 #: translate_sheet.csv:2279
 msgctxt "対局"
 msgid "sheet|StrStr.csv|jp|36352d544d0c2b715e060f6c94955069"
-msgstr "対局"
+msgstr "대국"
 
 #: translate_sheet.csv:2280
 msgctxt "打牌"
 msgid "sheet|StrStr.csv|jp|14e282dbee50500b38744272a3fd1620"
-msgstr "打牌"
+msgstr "타패"
 
 #: translate_sheet.csv:2281
 msgctxt "Voice"
@@ -20045,12 +20047,12 @@ msgstr "合計:"
 #: translate_sheet.csv:2293
 msgctxt "ログアウトしますか。"
 msgid "sheet|StrStr.csv|jp|a6d556591e12547b0989008bb6ef84fc"
-msgstr "로그아웃しますか。"
+msgstr "로그아웃했습니다."
 
 #: translate_sheet.csv:2294
 msgctxt "《雀魂利用規約》同意する"
 msgid "sheet|StrStr.csv|jp|d6ec8065de8dd21539f210ad6414927b"
-msgstr "《雀魂利用規約》同意する"
+msgstr "《雀魂이용약관》同意する"
 
 #: translate_sheet.csv:2295
 msgctxt "コードを受け取る"
@@ -20152,7 +20154,7 @@ msgstr "购买过程发生错误"
 #: translate_sheet.csv:2314
 msgctxt "輝玉が足りません。購入しますか？"
 msgid "sheet|StrStr.csv|jp|8585262d4681564c965e48e584955861"
-msgstr "輝玉が足りません。구입しますか？"
+msgstr "輝玉が足りません。구입하시겠습니까?"
 
 #: translate_sheet.csv:2315
 msgctxt "近日開放予定"
@@ -20242,7 +20244,7 @@ msgstr "즐겨찾기が上限に達しました"
 #: translate_sheet.csv:2332
 msgctxt "ホーム画面に追加"
 msgid "sheet|StrStr.csv|jp|9507a0a16cbe38b2fcc6af2b48f879b1"
-msgstr "ホーム画面に追加"
+msgstr "메인画面に追加"
 
 #: translate_sheet.csv:2333
 msgctxt "マッチング中のキャラクター変更は出来ません"
@@ -20267,7 +20269,7 @@ msgstr "난투탁牌譜"
 #: translate_sheet.csv:2337
 msgctxt "期間限定開放"
 msgid "sheet|StrStr.csv|jp|0fc204eb139460d89bda7015bcd2d63f"
-msgstr "期間限定開放"
+msgstr "기간한정開放"
 
 #: translate_sheet.csv:2338
 msgctxt ""
@@ -20279,12 +20281,12 @@ msgctxt ""
 "も必要がありません。"
 msgid "sheet|StrStr.csv|jp|3fc0ec9b134f10f647cc7dd33e6aa5e4"
 msgstr ""
-"期間限定「復刻・난투탁」(10月31日～11月11日5:59)では、下記の로컬 역が成立できる"
+"기간한정「復刻・난투탁」(10月31日～11月11日5:59)では、下記の로컬 역が成立できる"
 "ようになりました！:\\n- 츠바메가에시\\n- 영상개론\\n- 십이낙태\\n- 오문제\\n- "
 "삼련각\\n- 일색삼순\\n- 일통로월\\n- 구통로어\\n- 인화\\n- 대차륜\\n- 대죽림"
 "\\n- 대수린\\n- 돌 위에서 삼년\\n- 대칠성\\n各役の説明は役種一覧から確認できま"
 "す。\\n난투탁では役達成回数のみ記録されます。코인と段位PTに影響がなく、場代も必"
-"要가 없습니다.。"
+"要가 없습니다."
 
 #: translate_sheet.csv:2339
 msgctxt "排名奖励说明"
@@ -20344,7 +20346,7 @@ msgstr "無効な우편アドレスです"
 #: translate_sheet.csv:2350
 msgctxt "認証コード送信"
 msgid "sheet|StrStr.csv|jp|7e6d3c4bb204d16029e8315d7f2df91a"
-msgstr "認証コード送信"
+msgstr "인증코드 발송"
 
 #: translate_sheet.csv:2351
 msgctxt "未認証"
@@ -20354,7 +20356,7 @@ msgstr "未認証"
 #: translate_sheet.csv:2352
 msgctxt "送信失敗しました。もう一度お試しください"
 msgid "sheet|StrStr.csv|jp|5c09874bec42fa8680dc9804dd9d49ae"
-msgstr "送信失敗しました。もう一度お試しください"
+msgstr "送信실패しました。もう一度お試しください"
 
 #: translate_sheet.csv:2353
 msgctxt "3人戦段位説明"
@@ -20434,7 +20436,7 @@ msgstr "本日獲得"
 #: translate_sheet.csv:2368
 msgctxt "対局中、特定の役を完成させると{0}が入手できる。"
 msgid "sheet|StrStr.csv|jp|d32689495482fad1f05ac331349be4b9"
-msgstr "対局中、特定の役を完成させると{0}が입수できる。"
+msgstr "대국中、特定の役を完成させると{0}が입수できる。"
 
 #: translate_sheet.csv:2369
 msgctxt "メイン画面BGM"
@@ -20444,7 +20446,7 @@ msgstr "메인画面BGM"
 #: translate_sheet.csv:2370
 msgctxt "対局画面BGM"
 msgid "sheet|StrStr.csv|jp|12afe1e7ad3759469a59839cc9065862"
-msgstr "対局画面BGM"
+msgstr "대국画面BGM"
 
 #: translate_sheet.csv:2371
 msgctxt "連続再生"
@@ -20464,17 +20466,17 @@ msgstr "販売期間外です"
 #: translate_sheet.csv:2374
 msgctxt "{0}分後に販売を終了します"
 msgid "sheet|StrStr.csv|jp|70dd4814fcaee30bf6431e79d30c2d23"
-msgstr "{0}分後に販売を終了します"
+msgstr "{0}分後に販売を종료します"
 
 #: translate_sheet.csv:2375
 msgctxt "{0}時間後に販売を終了します"
 msgid "sheet|StrStr.csv|jp|6ed7313cabec62f12e8331a62c0b115f"
-msgstr "{0}時間後に販売を終了します"
+msgstr "{0}時間後に販売を종료します"
 
 #: translate_sheet.csv:2376
 msgctxt "{0}日後に販売を終了します"
 msgid "sheet|StrStr.csv|jp|e663443013f70b07cda493d99a54c9e4"
-msgstr "{0}日後に販売を終了します"
+msgstr "{0}日後に販売を종료します"
 
 #: translate_sheet.csv:2377
 msgctxt "{0}を購入しますか"
@@ -20591,7 +20593,7 @@ msgctxt ""
 "+80\\n精算点数はプラスの場合はコインを獲得し、マイナスの場合はコインを失う。"
 msgid "sheet|StrStr.csv|jp|cbbd1b3902ece9ce2e822a7c23796516"
 msgstr ""
-"期間限定도라상 모드開催中（9月28日メンテナンス後～10月10日5：59）\\n\n"
+"기간한정도라상 모드開催中（9月28日メンテナンス後～10月10日5：59）\\n\n"
 "4인 남장전風戦で、ドラ表示牌が最初から三枚めくった状態での対戦モード。ドラ表示"
 "牌が五枚までめくれますが、それ以降はカンしてもめくりません。\\n\n"
 "段位制限：작사または以上\\nウマ：1位+15,2位+5,3位-5.4位-15\\n\n"
@@ -20605,7 +20607,7 @@ msgctxt ""
 "局数：半荘\\n赤ドラ：3枚\\n喰い断：あり\\n長考時間：5+20"
 msgid "sheet|StrStr.csv|jp|1aca538bd5833df20372e8f1b0d527f9"
 msgstr ""
-"配原：35000\\n西入：南場終了後に、1位の持ち点が40000点未満の場合、西場に入る\\n"
+"配原：35000\\n西入：南場종료後に、1位の持ち点が40000点未満の場合、西場に入る\\n"
 "局数：半荘\\n적도라：3枚\\n喰い断：あり\\n長考時間：5+20"
 
 #: translate_sheet.csv:2399
@@ -20651,7 +20653,7 @@ msgstr "着せ替え券が足りません"
 #: translate_sheet.csv:2407
 msgctxt "着せ替え券が足りません。購入しますか？"
 msgid "sheet|StrStr.csv|jp|f267244551fbdb8b47f5fad830aa34c0"
-msgstr "着せ替え券が足りません。구입しますか？"
+msgstr "着せ替え券が足りません。구입하시겠습니까?"
 
 #: translate_sheet.csv:2408
 msgctxt "Account token error"
@@ -20681,7 +20683,7 @@ msgstr "このサービスはお支払いプロファイルへのアクセス권
 #: translate_sheet.csv:2413
 msgctxt "バインド解除成功"
 msgid "sheet|StrStr.csv|jp|c0b49fd9d60a982476e623988cff3008"
-msgstr "バインド解除成功"
+msgstr "バインド解除성공"
 
 #: translate_sheet.csv:2414
 msgctxt "残り唯一のアカウントです、これ以上のバインド解除は出来ません"
@@ -20691,7 +20693,7 @@ msgstr "残り唯一のアカウントです、これ以上のバインド解除
 #: translate_sheet.csv:2415
 msgctxt "バインド解除失敗、再操作をお願い致します"
 msgid "sheet|StrStr.csv|jp|8ccc2a2c7ab5e74ec99d65a5182ca540"
-msgstr "バインド解除失敗、再操作をお願い致します"
+msgstr "バインド解除실패、再操作をお願い致します"
 
 #: translate_sheet.csv:2416
 msgctxt "アップデート内容を検出しました、再接続を行ってください。"
@@ -20731,7 +20733,7 @@ msgstr "解除"
 #: translate_sheet.csv:2423
 msgctxt "解除成功"
 msgid "sheet|StrStr.csv|jp|3e97e8698a658cb6c634827275a99468"
-msgstr "解除成功"
+msgstr "解除성공"
 
 #: translate_sheet.csv:2424
 msgctxt "このメールアドレスはYostarアカウントにリンクしていません"
@@ -20741,7 +20743,7 @@ msgstr "この우편アドレスはYostarアカウントにリンクしていま
 #: translate_sheet.csv:2425
 msgctxt "認証失敗(アカウントまたはコードが正しくありません)"
 msgid "sheet|StrStr.csv|jp|e6ddc36cb8ca9b4e025a1549d15db4d0"
-msgstr "認証失敗(アカウントまたはコードが正しくありません)"
+msgstr "認証실패(アカウントまたはコードが正しくありません)"
 
 #: translate_sheet.csv:2426
 msgctxt "本アカウントは連携解除できません"
@@ -20776,17 +20778,17 @@ msgstr "無効の数字です"
 #: translate_sheet.csv:2432
 msgctxt "対局時の雀卓を変更できます"
 msgid "sheet|StrStr.csv|jp|b269a54a5064f94ad3928dc073e4fa6a"
-msgstr "対局時の雀卓を変更できます"
+msgstr "대국時の雀卓を変更できます"
 
 #: translate_sheet.csv:2433
 msgctxt "対局時の麻雀牌を変更できます"
 msgid "sheet|StrStr.csv|jp|95ed2f166c147fb4ae6c426a9becb015"
-msgstr "対局時の麻雀牌を変更できます"
+msgstr "대국時の麻雀牌を変更できます"
 
 #: translate_sheet.csv:2434
 msgctxt "ホーム画面の背景を変更できます"
 msgid "sheet|StrStr.csv|jp|22178917c388bc0beea51c2c647e89b5"
-msgstr "ホーム画面の背景を変更できます"
+msgstr "메인画面の背景を変更できます"
 
 #: translate_sheet.csv:2435
 msgctxt "変更未保存。このまま戻りますか？"
@@ -20811,7 +20813,7 @@ msgstr "선물봉납"
 #: translate_sheet.csv:2439
 msgctxt "再度入手した雀士キャラクターは願いの石に変換されます"
 msgid "sheet|StrStr.csv|jp|5d9c53998e0afd1ca9e9d46f0fc3e165"
-msgstr "중복 작사캐릭터は願いの石に変換されます"
+msgstr "중복 작사캐릭터는 소원의 돌로 변환됩니다."
 
 #: translate_sheet.csv:2440
 msgctxt "ローカル役有効"
@@ -20829,8 +20831,8 @@ msgctxt ""
 "+80\\n精算点数はプラスの場合はコインを獲得し、マイナスの場合はコインを失う。"
 msgid "sheet|StrStr.csv|jp|30fe062377eaf4646c73d82068823c5c"
 msgstr ""
-"期間限定で遊べる配牌公開モード（12月12日(木)メンテ後～12月27日(金) 5:59 ）\\n\n"
-"対局開始時の配牌は対局参加者全員に公開されます。１쯔모目からの쯔모牌は公開され"
+"기간한정で遊べる配牌公開モード（12月12日(木)メンテ後～12月27日(金) 5:59 ）\\n\n"
+"대국開始時の配牌は대국参加者全員に公開されます。１쯔모目からの쯔모牌は公開され"
 "ません\\n\n"
 "段位制限：なし\\nウマ：1位+15,2位+5,3位-5.4位-15\\n\n"
 "入場料：3500코인\\n交換レート：1000点=70코인\\n場代：700코인\\n\n"
@@ -20865,7 +20867,7 @@ msgstr "巻き戻し"
 #: translate_sheet.csv:2447
 msgctxt "対局を放棄する行為に関する警告"
 msgid "sheet|StrStr.csv|jp|26419803d3f72ab341fcabe1e87fe58f"
-msgstr "対局を放棄する行為に関する警告"
+msgstr "대국を放棄する行為に関する警告"
 
 #: translate_sheet.csv:2448
 msgctxt ""
@@ -20875,7 +20877,7 @@ msgctxt ""
 "ます。予めご了承ください。"
 msgid "sheet|StrStr.csv|jp|8287e0ffabcda070a32df220d1c978b4"
 msgstr ""
-"対局を放棄する行為が検出されたため、この対局において宝箱解禁点数と好感度の獲"
+"대국を放棄する行為が検出されたため、この대국において宝箱解禁点数と好感度の獲"
 "得、およびクエストの達成ができなくなっています。\n"
 " また、放棄行為が複数回確認された場合は、アカウント停止などの処置をとらせて頂き"
 "ます。予めご了承ください。"
@@ -20883,7 +20885,7 @@ msgstr ""
 #: translate_sheet.csv:2449
 msgctxt "対局を放棄する行為に対する処置の告知"
 msgid "sheet|StrStr.csv|jp|87b7d116c320be0aad13db28f6e58ca6"
-msgstr "対局を放棄する行為に対する処置の告知"
+msgstr "대국を放棄する行為に対する処置の告知"
 
 #: translate_sheet.csv:2450
 msgctxt ""
@@ -20894,7 +20896,7 @@ msgctxt ""
 "します。"
 msgid "sheet|StrStr.csv|jp|f16ad22bb83af00c26a7414cd7af8d2c"
 msgstr ""
-"対局を放棄する行為が頻繁に検出されたため、当アカウントは一時利用停止させていた"
+"대국を放棄する行為が頻繁に検出されたため、当アカウントは一時利用停止させていた"
 "だきました。\n"
 "利用停止期間：{0}まで。\n"
 " 皆様に「雀魂-じゃんたま-」をお楽しみいただけますよう、ご理解・ご協力をお願い致"
@@ -20903,7 +20905,7 @@ msgstr ""
 #: translate_sheet.csv:2451
 msgctxt "対戦終了"
 msgid "sheet|StrStr.csv|jp|7c0c898b4aa116f0bdd3b4c3ce788b94"
-msgstr "対戦終了"
+msgstr "対戦종료"
 
 #: translate_sheet.csv:2452
 msgctxt ""
@@ -20911,18 +20913,18 @@ msgctxt ""
 "ちください。"
 msgid "sheet|StrStr.csv|jp|80bf73ec4a6b8143af5ad2d12ae52219"
 msgstr ""
-"前回の投票は全員賛成ではなかったため、次回の終了投票が開始できるまで5分以上お待"
+"前回の投票は全員賛成ではなかったため、次回の종료投票が開始できるまで5分以上お待"
 "ちください。"
 
 #: translate_sheet.csv:2453
 msgctxt "対戦終了の投票を開始しますか？"
 msgid "sheet|StrStr.csv|jp|aa80ff16bd1ec2232353adde9257ae27"
-msgstr "対戦終了の投票を開始しますか？"
+msgstr "対戦종료の投票を開始しますか？"
 
 #: translate_sheet.csv:2454
 msgctxt "（対戦に参加している全員が賛成する場合、対戦が終了します）"
 msgid "sheet|StrStr.csv|jp|36274f4a66a5a1860f02f2c330b79a5d"
-msgstr "（対戦に参加している全員が賛成する場合、対戦が終了します）"
+msgstr "（対戦に参加している全員が賛成する場合、対戦が종료します）"
 
 #: translate_sheet.csv:2455
 msgctxt "賛成"
@@ -20964,13 +20966,13 @@ msgctxt ""
 "精算点数はプラスの場合はコインを獲得し、マイナスの場合はコインを失います。"
 msgid "sheet|StrStr.csv|jp|57017ba88a6075156885f8701d9ce563"
 msgstr ""
-"期間限定「龍の割目」モード開催中（1月20日(월)メンテ後～2月10日(월) 5:59 ）\\n\n"
+"기간한정「龍の割目」モード開催中（1月20日(월)メンテ後～2月10日(월) 5:59 ）\\n\n"
 "4인 남장전風戦で、ドラ表示牌が最初から三枚めくられた状態での対戦モード。ドラ表"
 "示牌は五枚までめくられますが、それ以降はカンしてもめくられません。\\n\n"
-"対局開始時は対局者全員からランダムに一人を指定し、割れ目マークを付与します。割"
-"れ目マークが付与された対局者が5回打牌する度に、割れ目マークはランダムに移動しま"
+"대국開始時は대국者全員からランダムに一人を指定し、割れ目マークを付与します。割"
+"れ目マークが付与された대국者が5回타패する度に、割れ目マークはランダムに移動しま"
 "す（移動しない場合もあります）。\\n\n"
-"割れ目マークが付与された対局者が和了する場合、得点が2倍になります。放銃または他"
+"割れ目マークが付与された대국者が和了する場合、得点が2倍になります。放銃または他"
 "家が쯔모和了した場合、支払う点数も2倍になります。\\n\n"
 "段位制限：なし\\n\n"
 "ウマ：1位+15,2位+5,3位-5.4位-15\\n\n"
@@ -21063,7 +21065,7 @@ msgstr ""
 "能：ランダム数の코인、ランダムの宝玉、貴人の福袋、賢者の福袋\\n\n"
 "イベントマップのマスについて：\\nコンビニ：ランダム数の코인が입수できる\\nボラ"
 "ンティア：ランダムで緑の선물が1つ입수できる\\nボードゲームショップ：サイコロが1"
-"つ입수できる\\n美樹の宝石ショップ：ランダムの宝玉が1つ입수できる\\n銀行：マップ"
+"つ입수できる\\n美樹の보석ショップ：ランダムの宝玉が1つ입수できる\\n銀行：マップ"
 "を一周することに銀行に코인が貯まる。銀行マスに止まると貯まった코인が입수できる"
 "\\n카비の運命の輪：下記の6つの追加効果中の1つが発動\\n　-次の移動で입수できる코"
 "인が2倍になる\\n　-次の移動で입수できる코인が半分になる\\n　-次の移動で前進する"
@@ -21173,7 +21175,7 @@ msgstr "ボランティアに参加。이치히메本当にいい子"
 #: translate_sheet.csv:2488
 msgctxt "美樹の宝石ショップの手伝いをして褒められた"
 msgid "sheet|StrStr.csv|jp|5e33887d99d93e63cc38d1458475ec87"
-msgstr "美樹の宝石ショップの手伝いをして褒められた"
+msgstr "美樹の보석ショップの手伝いをして褒められた"
 
 #: translate_sheet.csv:2489
 msgctxt "ボードゲームショップでバイト中。変なサイコロを拾った"
@@ -21268,12 +21270,12 @@ msgstr "익명"
 #: translate_sheet.csv:2507
 msgctxt "リアルタイム観戦中"
 msgid "sheet|StrStr.csv|jp|87f3d7c45acf88008b008ca0f53aacf7"
-msgstr "リアルタイム관전中"
+msgstr "실시간 관전중"
 
 #: translate_sheet.csv:2508
 msgctxt "対局に戻る"
 msgid "sheet|StrStr.csv|jp|0ea995967f872e5c1ad1d9baaa68211b"
-msgstr "対局に이전"
+msgstr "대국に이전"
 
 #: translate_sheet.csv:2509
 msgctxt "SP Voice"
@@ -21283,7 +21285,7 @@ msgstr "SP Voice"
 #: translate_sheet.csv:2510
 msgctxt "友人IDを入力してください"
 msgid "sheet|StrStr.csv|jp|ffea9b416f088031590c4973c02180a4"
-msgstr "친구IDを入力してください"
+msgstr "친구ID를 입력해주세요."
 
 #: translate_sheet.csv:2511
 msgctxt ""
@@ -21336,12 +21338,12 @@ msgstr "報告を取得できませんでした。もう一度試してくださ
 #: translate_sheet.csv:2519
 msgctxt "ゲームを終了し年度報告ページを開きますか"
 msgid "sheet|StrStr.csv|jp|e59da48fd255014325a151cec845f978"
-msgstr "ゲームを終了し年度報告ページを開きますか"
+msgstr "ゲームを종료し年度報告ページを開きますか"
 
 #: translate_sheet.csv:2520
 msgctxt "再祈願"
 msgid "sheet|StrStr.csv|jp|cc88f025d6a32c3a189e006fc082acd8"
-msgstr "再祈願"
+msgstr "再기원"
 
 #: translate_sheet.csv:2521
 msgctxt "使用可能期限："
@@ -21356,7 +21358,7 @@ msgstr "設定にて変更可能"
 #: translate_sheet.csv:2523
 msgctxt "【期間限定】使用可能期限："
 msgid "sheet|StrStr.csv|jp|9c5d9650d2c2a91385e55d2484184c62"
-msgstr "【期間限定】사용可能期限："
+msgstr "【기간한정】사용可能期限："
 
 #: translate_sheet.csv:2524
 msgctxt "300+0秒"
@@ -21371,7 +21373,7 @@ msgstr "메일 주소:"
 #: translate_sheet.csv:2526
 msgctxt "{0}PTを使用して購入しますか？"
 msgid "sheet|StrStr.csv|jp|c9c4f0fa72eea47051d324ef69bb7f01"
-msgstr "{0}PTを사용して구입しますか？"
+msgstr "{0}PT를 사용해서 구입하시겠습니까?"
 
 #: translate_sheet.csv:2527
 msgctxt "OK"
@@ -21386,17 +21388,17 @@ msgstr "취소"
 #: translate_sheet.csv:2529
 msgctxt "購入成功しました。"
 msgid "sheet|StrStr.csv|jp|c6417d2764a01039e23c2fc940665a37"
-msgstr "구입成功しました。"
+msgstr "구입을 성공했습니다."
 
 #: translate_sheet.csv:2530
 msgctxt "購入しますか？"
 msgid "sheet|StrStr.csv|jp|679c95c1ed5c0f7a001070c25396c4e2"
-msgstr "구입しますか？"
+msgstr "구입하시겠습니까?"
 
 #: translate_sheet.csv:2531
 msgctxt "祈願を行いますか？"
 msgid "sheet|StrStr.csv|jp|2223181caca4e326d758a1fabd435408"
-msgstr "祈願を行いますか？"
+msgstr "기원を行いますか？"
 
 #: translate_sheet.csv:2532
 msgctxt "サポート窓口："
@@ -21411,7 +21413,7 @@ msgstr "お問い合わせ"
 #: translate_sheet.csv:2534
 msgctxt "称号なし"
 msgid "sheet|VipVip.csv|name_jp|38afe79e3664769d5b6baee548591313"
-msgstr "칭호なし"
+msgstr "칭호 없음"
 
 #: translate_sheet.csv:2535
 msgctxt ""
@@ -23649,8 +23651,8 @@ msgctxt ""
 "れ？　うう...申し訳ありません...祝詞をド忘れしてしまいました...！"
 msgid "sheet|VoiceSound.csv|words_jp|997e8bf1a126e6763d5ed5bd26ad2fa6"
 msgstr ""
-"本日のお祈りは...舞が旦那様の手をひいて行いますね...うん......ん？　あ...あ"
-"れ？　うう...申し訳ありません...祝詞をド忘れしてしまいました...！"
+"本日の기원は...舞が旦那様の手をひいて行いますね...うん......ん？　あ...あれ？　"
+"うう...申し訳ありません...祝詞をド忘れしてしまいました...！"
 
 #: translate_sheet.csv:2944
 msgctxt "どうもありがとうございます！"
@@ -23696,7 +23698,7 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|b239fa96a331e567dce1a3c768a6bdce"
 msgstr ""
 "巫女が身につけているものを持っていると、ドラを引きやすくなると聞きました...なの"
-"で、旦那様、舞の......受け取ってください...。"
+"で、旦那様、舞の......受け取ってください..."
 
 #: translate_sheet.csv:2950
 msgctxt ""
@@ -23844,7 +23846,7 @@ msgctxt ""
 "どうだい？"
 msgid "sheet|VoiceSound.csv|words_jp|c5c0090cb2870a5a12ad99420af5c104"
 msgstr ""
-"敗けて落ち込む時間があるなら、次の対局でかっこよく勝つために努力するってのは、"
+"敗けて落ち込む時間があるなら、次の대국でかっこよく勝つために努力するってのは、"
 "どうだい？"
 
 #: translate_sheet.csv:2975
@@ -23853,7 +23855,7 @@ msgctxt ""
 "に勝てるわけないだろ？"
 msgid "sheet|VoiceSound.csv|words_jp|a0dec73b77f289d950c15f02135af23e"
 msgstr ""
-"ルールもわかってねーヤツは、あたしと戦う資格はないね！仮に対局したって、この私"
+"ルールもわかってねーヤツは、あたしと戦う資格はないね！仮に대국したって、この私"
 "に勝てるわけないだろ？"
 
 #: translate_sheet.csv:2976
@@ -23869,8 +23871,8 @@ msgctxt ""
 "らね。"
 msgid "sheet|VoiceSound.csv|words_jp|0ca10a8b64a3ca43e92a0cb8f523bccd"
 msgstr ""
-"まさかあんたに負けるとはね...。ま、次の対局も頑張んな、今度は簡単には負けないか"
-"らね。"
+"まさかあんたに負けるとはね...ま、次の대국も頑張んな、今度は簡単には負けないから"
+"ね。"
 
 #: translate_sheet.csv:2978
 msgctxt ""
@@ -24159,7 +24161,7 @@ msgstr "大きい役の気配…"
 #: translate_sheet.csv:3029
 msgctxt "ふぅ...なかなかいい対局でしたね"
 msgid "sheet|VoiceSound.csv|words_jp|118404163f5dafcc82c1d76c0294c18c"
-msgstr "ふぅ...なかなかいい対局でしたね"
+msgstr "ふぅ...なかなかいい대국でしたね"
 
 #: translate_sheet.csv:3030
 msgctxt ""
@@ -24426,7 +24428,7 @@ msgctxt ""
 "せいにするなんてみっともないですわね！"
 msgid "sheet|VoiceSound.csv|words_jp|48dff7ec93432c617d8f5c1fc25d36a1"
 msgstr ""
-"このわたくしが勝てるのは名前のおかげですって！？...まったく、自分の失敗を他人の"
+"このわたくしが勝てるのは名前のおかげですって！？...まったく、自分の실패を他人の"
 "せいにするなんてみっともないですわね！"
 
 #: translate_sheet.csv:3071
@@ -24757,7 +24759,7 @@ msgctxt ""
 "しょう？だったら私に聞く必要ないじゃない。"
 msgid "sheet|VoiceSound.csv|words_jp|83f3a2feccd24427a417f8d5892b0ae9"
 msgstr ""
-"恋愛占いなんて、無意味ですね...。占いの結果がどうなっても、結局は告白しに行くで"
+"恋愛占いなんて、無意味ですね...占いの結果がどうなっても、結局は告白しに行くで"
 "しょう？だったら私に聞く必要ないじゃない。"
 
 #: translate_sheet.csv:3128
@@ -24859,7 +24861,7 @@ msgstr "今度はしっかりと、運命の恩賜を得られましたね。"
 #: translate_sheet.csv:3142
 msgctxt "まさか私が運命に弄ばれる日がくるとは...この衣装どうです？"
 msgid "sheet|VoiceSound.csv|words_jp|e1485a9913e56366d41504eb85b9452c"
-msgstr "まさか私が運命に弄ばれる日がくるとは...この衣装どうです？"
+msgstr "まさか私が運命に弄ばれる日がくるとは...こ의 의상どうです？"
 
 #: translate_sheet.csv:3143
 msgctxt "四倍(よんばい)ヤクマン"
@@ -25016,7 +25018,7 @@ msgstr ""
 #: translate_sheet.csv:3169
 msgctxt "安心するといい、雀卓に上がったからには失敗なんてありえない！"
 msgid "sheet|VoiceSound.csv|words_jp|771d23f997db7d86b7a72603b73b68a7"
-msgstr "安心するといい、雀卓に上がったからには失敗なんてありえない！"
+msgstr "安心するといい、雀卓に上がったからには실패なんてありえない！"
 
 #: translate_sheet.csv:3170
 msgctxt ""
@@ -25199,7 +25201,7 @@ msgstr "よくも俺をここまで待たせたな！早く始めるワン！"
 #: translate_sheet.csv:3199
 msgctxt "よー！アイボー！今日は先にお祈りするか？それとも麻雀やるか？"
 msgid "sheet|VoiceSound.csv|words_jp|036e0781e8b126af747a90a1faf62423"
-msgstr "よー！アイボー！今日は先にお祈りするか？それとも麻雀やるか？"
+msgstr "よー！アイボー！今日は先に기원するか？それとも麻雀やるか？"
 
 #: translate_sheet.csv:3200
 msgctxt ""
@@ -25207,7 +25209,7 @@ msgctxt ""
 "じゃない！かみつくワン！"
 msgid "sheet|VoiceSound.csv|words_jp|6cf8474f3c49727e9bce39685ce78097"
 msgstr ""
-"人間の打牌は感情に影響されやすくて、もろすぎ。...コラァ！これ以上安上がりするん"
+"人間の타패は感情に影響されやすくて、もろすぎ。...コラァ！これ以上安上がりするん"
 "じゃない！かみつくワン！"
 
 #: translate_sheet.csv:3201
@@ -25435,7 +25437,7 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|2ac3f6e0920f8ff06dbd8de972a92499"
 msgstr ""
 "数学は世界の根本にあるものだよ。だから、この世界には「運」なんてものは存在しな"
-"いんだ。あるのは「確率」だけ。キミと以前対局した時のデータによると、キミがボク"
+"いんだ。あるのは「確率」だけ。キミと以前대국した時のデータによると、キミがボク"
 "に勝てる確率は39.8%だね"
 
 #: translate_sheet.csv:3235
@@ -25458,8 +25460,8 @@ msgctxt ""
 "は一緒に遊んでくれる？"
 msgid "sheet|VoiceSound.csv|words_jp|79b95bc7bc131f3eadad1a26686a5e51"
 msgstr ""
-"ボクは...キューブパズルが得意なんだ...。だけど、誰も一緒に遊んでくれない...キミ"
-"は一緒に遊んでくれる？"
+"ボクは...キューブパズルが得意なんだ...だけど、誰も一緒に遊んでくれない...キミは"
+"一緒に遊んでくれる？"
 
 #: translate_sheet.csv:3238
 msgctxt ""
@@ -25501,7 +25503,7 @@ msgid "sheet|VoiceSound.csv|words_jp|cbcaf6b1e53a3cf61c5014c4c37ed5cb"
 msgstr ""
 "ん...どうしてこの牌を切ったの？この牌を切った方がもっと効率いいのに！ボクより年"
 "上の人でも頭がいいとは限らないんだね。そうだね～ボクに任せて。空先生がキミに効"
-"率のいい打牌の仕方を教えてあげるよ"
+"率のいい타패の仕方を教えてあげるよ"
 
 #: translate_sheet.csv:3242
 msgctxt "ありがとう"
@@ -25519,8 +25521,8 @@ msgctxt ""
 "手をしてくれてありがとう"
 msgid "sheet|VoiceSound.csv|words_jp|a9a618b02ffd2a76ca0a8466d27620f7"
 msgstr ""
-"まだ知り合ってからそんなに経ってないけど、キミは悪い人には見えない...。ボクの相"
-"手をしてくれてありがとう"
+"まだ知り合ってからそんなに経ってないけど、キミは悪い人には見えない...ボクの相手"
+"をしてくれてありがとう"
 
 #: translate_sheet.csv:3245
 msgctxt ""
@@ -26146,7 +26148,7 @@ msgctxt ""
 "ら？"
 msgid "sheet|VoiceSound.csv|words_jp|9be4e995f1a80600452853f554f6a5a2"
 msgstr ""
-"なかなか悪くない対局だったわ。みんなも熱い対局ができて興奮したんじゃないかし"
+"なかなか悪くない대국だったわ。みんなも熱い대국ができて興奮したんじゃないかし"
 "ら？"
 
 #: translate_sheet.csv:3349
@@ -26170,7 +26172,7 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|a8b279787fa28616e67b20b8ab347fbe"
 msgstr ""
 "ミーちゃん、ミーちゃん、あの子ったら...どこに行っちゃったのかしら～？困ったわ"
-"ね、もう...。あなたももし私の飼い猫を見つけたら連れてきてもらえるかしら？"
+"ね、もう...あなたももし私の飼い猫を見つけたら連れてきてもらえるかしら？"
 
 #: translate_sheet.csv:3352
 msgctxt ""
@@ -26305,8 +26307,8 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|0ce6ec1913c001f732c2d4d82dceb5df"
 msgstr ""
 "あなた...これは私の希望だけど、あなたのために...ただあなただけのために全てを見"
-"せたい。この特別な舞いを見せるのは私たちだけの秘密...。しっかり心に焼き付け"
-"て...ね？"
+"せたい。この特別な舞いを見せるのは私たちだけの秘密...しっかり心に焼き付けて..."
+"ね？"
 
 #: translate_sheet.csv:3367
 msgctxt "テンパイよ、フフ"
@@ -26447,8 +26449,8 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|e74e1ce5a2eea3b9337c558a2c0d80e3"
 msgstr ""
 "はぁ...外見って大事ですよね...ルックスがいい人は努力しなくても注目してもらえま"
-"すし...。......え？私も十分美人...ですか......そんなに褒めてもらえるなんて...あ"
-"りがとうございます。お世辞でもうれしいです..."
+"すし.........え？私も十分美人...ですか......そんなに褒めてもらえるなんて...あり"
+"がとうございます。お世辞でもうれしいです..."
 
 #: translate_sheet.csv:3391
 msgctxt ""
@@ -26483,8 +26485,8 @@ msgctxt ""
 "わりました...？それとも...あなたが何かしました？"
 msgid "sheet|VoiceSound.csv|words_jp|aa4ee07dbacb0bda1623261fed82eff5"
 msgstr ""
-"最近、視線を多く感じるようになったんです...。しかも男の人から......私...何か変"
-"わりました...？それとも...あなたが何かしました？"
+"最近、視線を多く感じるようになったんです...しかも男の人から......私...何か変わ"
+"りました...？それとも...あなたが何かしました？"
 
 #: translate_sheet.csv:3395
 msgctxt ""
@@ -27364,7 +27366,7 @@ msgctxt ""
 "杏樹ではございません。KR-976型人工知能とお呼びください。"
 msgid "sheet|VoiceSound.csv|words_jp|f854728dd29fb9df7a6718454cd44d3f"
 msgstr ""
-"データベースマッチング失敗。はじめてお会いいたします。私はKR-976...아니오、스즈"
+"データベースマッチング실패。はじめてお会いいたします。私はKR-976...아니오、스즈"
 "미야 안즈ではございません。KR-976型人工知能とお呼びください。"
 
 #: translate_sheet.csv:3508
@@ -27899,7 +27901,7 @@ msgctxt ""
 msgid "sheet|VoiceSound.csv|words_jp|2b1706d55735e7724907f9d51c45bc6b"
 msgstr ""
 "毎週月、水、金の終業後はオンライン麻雀を1時間ほど打ち、土曜の夜には麻雀会館に行"
-"く。対局では쯔모上がり、リーチ上がり、満貫上がりを最低でも一回は達成するように"
+"く。대국では쯔모上がり、リーチ上がり、満貫上がりを最低でも一回は達成するように"
 "している。麻雀の話は以上だ。ほかに聞きたいことはあるだろうか？"
 
 #: translate_sheet.csv:3575
@@ -28290,7 +28292,7 @@ msgstr "あら～さっきもうちょっと考えていれば..."
 #: translate_sheet.csv:3620
 msgctxt "あ、失敗しちゃったかも？"
 msgid "sheet|VoiceSound.csv|words_jp|d32a94490d37aaa354aece9ea3c2139b"
-msgstr "あ、失敗しちゃったかも？"
+msgstr "あ、실패しちゃったかも？"
 
 #: translate_sheet.csv:3621
 msgctxt "ここからが本番って感じね。"
