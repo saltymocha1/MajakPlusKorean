@@ -1,11 +1,20 @@
-#
+# 200 <200>, 2020.
+# 200 <200>, 2020.
+# 200 <200>, 2020.
+# 200 <200>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-07 14:46:41\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-07 13:24+0900\n"
+"PO-Revision-Date: 2020-07-07 13:24+0900\n"
+"Last-Translator: 200 <200>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: translate_json.csv:2
 msgctxt "認証コード送信"
@@ -15,7 +24,7 @@ msgstr "인증코드 발송"
 #: translate_json.csv:3
 msgctxt "連携"
 msgid "json|both_ui/bind_mail0|0|8|0|669ca86d91118759cc185c88b8792a04"
-msgstr "연동"
+msgstr "連携"
 
 #: translate_json.csv:4
 msgctxt "メールアドレス:"
@@ -147,14 +156,14 @@ msgid "json|both_ui/config|0|7|0|1|4|25b4e65ca4295f5a9e27a621f0f84371"
 msgstr "재시작 시 적용"
 
 #: translate_json.csv:29
-msgctxt "中文(简体)"
+msgctxt "中文"
 msgid "json|both_ui/config|0|7|0|2|0|0|3|d22748fa34bd3664f7229d106476b79f"
-msgstr "중국어(간체)"
+msgstr "중국어 "
 
 #: translate_json.csv:30
-msgctxt "中文(繁體)"
+msgctxt "中文"
 msgid "json|both_ui/config|0|7|0|2|1|0|3|c040f768a0d2a77ae0c73df58c528099"
-msgstr "중국어(번체)"
+msgstr "중국어 "
 
 #: translate_json.csv:31
 msgctxt "（再起動で適用）"
@@ -1904,14 +1913,14 @@ msgid "json|entrance/change_language|0|3|0|5c7c39d0fd174b2b5ff66699c0d90065"
 msgstr "아니오"
 
 #: translate_json.csv:352
-msgctxt "中文(简体)"
+msgctxt "中文"
 msgid "json|entrance/change_language|0|4|0|3|d22748fa34bd3664f7229d106476b79f"
-msgstr "중국어(간체)"
+msgstr "중국어 "
 
 #: translate_json.csv:353
-msgctxt "中文(繁體)"
+msgctxt "中文"
 msgid "json|entrance/change_language|0|4|1|3|c040f768a0d2a77ae0c73df58c528099"
-msgstr "중국어(번체)"
+msgstr "중국어 "
 
 #: translate_json.csv:354
 msgctxt "选择服务器"
@@ -4745,9 +4754,9 @@ msgid "json|lobby/payment/creditcard|0|5|0|f88aaefecaf7fc24ecfee063923bb7d7"
 msgstr "セキュリティコード"
 
 #: translate_json.csv:898
-msgctxt "セキュリティコードは3桁(一部4桁))の数字です。"
+msgctxt "セキュリティコードは3桁)の数字です。"
 msgid "json|lobby/payment/creditcard|0|5|3|8694dbad699cef1be27cb55a81dc51d1"
-msgstr "セキュリティコードは3桁(一部4桁))の数字です。"
+msgstr "시큐리티 코드는 3자리  숫자입니다."
 
 #: translate_json.csv:899
 msgctxt "確認＆支払い"
@@ -6054,9 +6063,9 @@ msgid "json|lobby/treasure|4|2|2|0|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
 #: translate_json.csv:1150
-msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgctxt "，同时有可能获得全新的雀士及各种装扮"
 msgid "json|lobby/treasure|4|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
-msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgstr "，同时有可能获得全新的작사及各种装扮"
 
 #: translate_json.csv:1151
 msgctxt "雀士概率：5%"
@@ -6094,9 +6103,9 @@ msgid "json|lobby/treasure|4|2|2|1|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
 #: translate_json.csv:1158
-msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgctxt "，同时有可能获得全新的雀士及各种装扮"
 msgid "json|lobby/treasure|4|2|2|1|1|7b1a8127a187db29a9b77aaf772d0071"
-msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgstr "，同时有可能获得全新的작사及各种装扮"
 
 #: translate_json.csv:1159
 msgctxt "雀士概率：5%"
@@ -6144,9 +6153,9 @@ msgid "json|lobby/treasure|4|2|2|2|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
 #: translate_json.csv:1168
-msgctxt "(Faith), as well as all-new characters and decorations"
+msgctxt ", as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|2|1|47be30f42361f946252d782fa39f231f"
-msgstr "(Faith), as well as all-new characters and decorations"
+msgstr ", as well as all-new characters and decorations"
 
 #: translate_json.csv:1169
 msgctxt "Chance to get characters: 5%"
@@ -6186,9 +6195,9 @@ msgid "json|lobby/treasure|4|2|2|3|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
 #: translate_json.csv:1176
-msgctxt "(Faith), as well as all-new characters and decorations"
+msgctxt ", as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|3|1|47be30f42361f946252d782fa39f231f"
-msgstr "(Faith), as well as all-new characters and decorations"
+msgstr ", as well as all-new characters and decorations"
 
 #: translate_json.csv:1177
 msgctxt "Chance to get characters: 5%"
@@ -6333,9 +6342,9 @@ msgid "json|lobby/treasure|4|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
 #: translate_json.csv:1205
-msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgctxt "，同時有可能獲得全新的雀士及各種裝扮"
 msgid "json|lobby/treasure|4|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
-msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgstr "，同時有可能獲得全新的작사及各種裝扮"
 
 #: translate_json.csv:1206
 msgctxt "雀士概率：5%"
@@ -6373,9 +6382,9 @@ msgid "json|lobby/treasure|4|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
 #: translate_json.csv:1213
-msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgctxt "，同時有可能獲得全新的雀士及各種裝扮"
 msgid "json|lobby/treasure|4|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
-msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgstr "，同時有可能獲得全新的작사及各種裝扮"
 
 #: translate_json.csv:1214
 msgctxt "雀士概率：5%"
@@ -21706,7 +21715,7 @@ msgstr "해저로월"
 msgctxt "ハイテー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|00e3f2e25c40b04dfe48ce4eaf5733ed"
-msgstr "하이테"
+msgstr "하이테ー"
 
 #: translate_sheet.csv:2782
 msgctxt "河底撈魚"
@@ -21718,7 +21727,7 @@ msgstr "하저로어"
 msgctxt "ホウテー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|1fe4dde5c6cb4dc27e9c89be6542fc84"
-msgstr "호우테"
+msgstr "ホウテー"
 
 #: translate_sheet.csv:2784
 msgctxt "東"
@@ -21809,49 +21818,49 @@ msgstr "발"
 msgctxt "ダブル東"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|db57794131204e3930165c6d3ee2ab9b"
-msgstr "더블동"
+msgstr "ダブル東"
 
 #: translate_sheet.csv:2799
 msgctxt "ダブトン"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|7bac4469d12ce11b7f225c01c9bd6d62"
-msgstr "더블동"
+msgstr "ダブトン"
 
 #: translate_sheet.csv:2800
 msgctxt "ダブル南"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|417e47be12711da1240c3fb1aa49e0ba"
-msgstr "더블남"
+msgstr "ダブル南"
 
 #: translate_sheet.csv:2801
 msgctxt "ダブニャン"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|0739643096a73af762c6d65fd1e5869c"
-msgstr "더블냥"
+msgstr "ダブニャン"
 
 #: translate_sheet.csv:2802
 msgctxt "ダブル西"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|95e4c96d678e4d5cb58ff4f3960d7d3a"
-msgstr "더블서"
+msgstr "ダブル西"
 
 #: translate_sheet.csv:2803
 msgctxt "ダブシャー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|87609a9f95fb6973e070868f7e48adcd"
-msgstr "더블서"
+msgstr "ダブシャー"
 
 #: translate_sheet.csv:2804
 msgctxt "ダブル北"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|03d0c5982aefcb919a69042ad2c25209"
-msgstr "더블북"
+msgstr "ダブル北"
 
 #: translate_sheet.csv:2805
 msgctxt "ダブペー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|25f2007b6177567a779bd02d70936d19"
-msgstr "더블북"
+msgstr "ダブペー"
 
 #: translate_sheet.csv:2806
 msgctxt "断幺九"

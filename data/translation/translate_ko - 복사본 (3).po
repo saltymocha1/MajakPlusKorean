@@ -1,11 +1,20 @@
-#
+# 200 <200>, 2020.
+# 200 <200>, 2020.
+# 200 <200>, 2020.
+# 200 <200>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-07 14:46:41\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-07 13:24+0900\n"
+"PO-Revision-Date: 2020-07-07 13:24+0900\n"
+"Last-Translator: 200 <200>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: translate_json.csv:2
 msgctxt "認証コード送信"
@@ -15,7 +24,7 @@ msgstr "인증코드 발송"
 #: translate_json.csv:3
 msgctxt "連携"
 msgid "json|both_ui/bind_mail0|0|8|0|669ca86d91118759cc185c88b8792a04"
-msgstr "연동"
+msgstr "連携"
 
 #: translate_json.csv:4
 msgctxt "メールアドレス:"
@@ -21809,49 +21818,49 @@ msgstr "발"
 msgctxt "ダブル東"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|db57794131204e3930165c6d3ee2ab9b"
-msgstr "더블동"
+msgstr "복구했다냥"
 
 #: translate_sheet.csv:2799
 msgctxt "ダブトン"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|7bac4469d12ce11b7f225c01c9bd6d62"
-msgstr "더블동"
+msgstr "ダブトン"
 
 #: translate_sheet.csv:2800
 msgctxt "ダブル南"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|417e47be12711da1240c3fb1aa49e0ba"
-msgstr "더블남"
+msgstr "ダブル南"
 
 #: translate_sheet.csv:2801
 msgctxt "ダブニャン"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|0739643096a73af762c6d65fd1e5869c"
-msgstr "더블냥"
+msgstr "ダブニャン"
 
 #: translate_sheet.csv:2802
 msgctxt "ダブル西"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|95e4c96d678e4d5cb58ff4f3960d7d3a"
-msgstr "더블서"
+msgstr "ダブル西"
 
 #: translate_sheet.csv:2803
 msgctxt "ダブシャー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|87609a9f95fb6973e070868f7e48adcd"
-msgstr "더블서"
+msgstr "ダブシャー"
 
 #: translate_sheet.csv:2804
 msgctxt "ダブル北"
 msgid ""
 "sheet|VoiceSound.csv|name_jp|03d0c5982aefcb919a69042ad2c25209"
-msgstr "더블북"
+msgstr "ダブル北"
 
 #: translate_sheet.csv:2805
 msgctxt "ダブペー"
 msgid ""
 "sheet|VoiceSound.csv|words_jp|25f2007b6177567a779bd02d70936d19"
-msgstr "더블북"
+msgstr "ダブペー"
 
 #: translate_sheet.csv:2806
 msgctxt "断幺九"
